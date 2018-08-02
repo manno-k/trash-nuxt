@@ -1,0 +1,4601 @@
+[
+  {
+    "item": "雜草",
+    "type": "剪枝",
+    "desc": "請將塵土及沙粒盡可能去除，放置於45公升的塑膠袋內。自主搬運至回收中心。（竹子、有毒植物、藤蔓類、蔬菜、水果等為「可燃垃圾」）。",
+    "pinying": "zá cǎo",
+    "zhuying": "ㄗㄚˊ ㄘㄠˇ"
+  },
+  {
+    "item": "草",
+    "type": "剪枝",
+    "desc": "請將塵土及沙粒盡可能去除，放置於45公升的塑膠袋內。自主搬運至回收中心。（竹子、有毒植物、藤蔓類、蔬菜、水果等為「可燃垃圾」）。",
+    "pinying": "cǎo",
+    "zhuying": "ㄘㄠˇ"
+  },
+  {
+    "item": "落葉",
+    "type": "剪枝",
+    "desc": "請將塵土及沙粒盡可能去除，放置於45公升的塑膠袋內。自主搬運至回收中心。（竹子、有毒植物、藤蔓類、蔬菜、水果等為「可燃垃圾」）。",
+    "pinying": "luòyè",
+    "zhuying": "ㄌㄨㄛˋ ㄧㄝˋ"
+  },
+  {
+    "item": "剪枝",
+    "type": "剪枝",
+    "desc": "請將塵土及沙粒盡可能去除，放置於45公升的塑膠袋內。自主搬運至回收中心。（竹子、有毒植物、藤蔓類、蔬菜、水果等為「可燃垃圾」）。",
+    "pinying": "jiǎn zhī",
+    "zhuying": "ㄐㄧㄢˇ ㄓ"
+  },
+  {
+    "item": "寵物糞便（貓、狗等）",
+    "type": "可燃",
+    "desc": "請用報紙等物品確實綑綁以免飛散，並放置於45公升的塑膠袋內，每回少量的丟棄。",
+    "pinying": "chǒngwù fènbiàn (māo, gǒu děng)",
+    "zhuying": "cㄏㄨㄥˇ ㄨˋ ㄈㄣˋ ㄅㄧㄢˋ （ ㄇㄠ 、 ㄍㄡˇ ㄉㄥˇ ）"
+  },
+  {
+    "item": "酒瓶（紙盒）",
+    "type": "可燃",
+    "desc": "內側為白色的紙類。",
+    "pinying": "jiǔ píng (zhǐ hé)",
+    "zhuying": "ㄐㄧㄡˇ ㄆㄧㄥˊ （ ㄓˇ ㄏㄜˊ ）"
+  },
+  {
+    "item": "芳香劑（塑膠製）",
+    "type": "可燃",
+    "desc": "陶器製為不可燃垃圾。",
+    "pinying": "fāngxiāng jì (sùjiāo zhì)",
+    "zhuying": "ㄈㄤ ㄒㄧㄤ ㄐㄧˋ （ ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "娃娃",
+    "type": "可燃",
+    "desc": "陶器製、玻璃製為不可燃垃圾。",
+    "pinying": "wáwá",
+    "zhuying": "ㄨㄚˊ ㄨㄚˊ"
+  },
+  {
+    "item": "繩子",
+    "type": "可燃",
+    "desc": "請裁切為每段小於1m的長度。",
+    "pinying": "shéngzi",
+    "zhuying": "ㄕㄥˊ ㄗˇ"
+  },
+  {
+    "item": "軟管容器",
+    "type": "可燃",
+    "desc": "請將內部清空。",
+    "pinying": "ruǎn guǎn róngqì",
+    "zhuying": "ㄖㄨㄢˇ ㄍㄨㄢˇ ㄖㄨㄥˊ ㄑㄧˋ"
+  },
+  {
+    "item": "油瓶（塑膠製）",
+    "type": "可燃",
+    "desc": "請將內部清空。",
+    "pinying": "yóu píng (sùjiāo zhì)",
+    "zhuying": "ㄧㄡˊ ㄆㄧㄥˊ （ ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "煤球",
+    "type": "可燃",
+    "desc": "大量的情況下，請洽詢清潔中心。",
+    "pinying": "méiqiú",
+    "zhuying": "ㄇㄟˊ ㄑㄧㄡˊ"
+  },
+  {
+    "item": "除濕劑、除濕盒（塑膠製）",
+    "type": "可燃",
+    "desc": "水份瀝乾後丟棄。",
+    "pinying": "chúshī jì, chúshī hé (sùjiāo zhì)",
+    "zhuying": "cㄏㄨˊ ㄕ ㄐㄧˋ 、 cㄏㄨˊ ㄕ ㄏㄜˊ （ ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "火柴",
+    "type": "可燃",
+    "desc": "沾水後丟棄。",
+    "pinying": "huǒchái",
+    "zhuying": "ㄏㄨㄛˇ cㄏㄞˊ"
+  },
+  {
+    "item": "人造花",
+    "type": "可燃",
+    "desc": "含有鐵絲的情況下為不可燃垃圾。",
+    "pinying": "rénzàohuā",
+    "zhuying": "ㄖㄣˊ ㄗㄠˋ ㄏㄨㄚ"
+  },
+  {
+    "item": "食用油",
+    "type": "可燃",
+    "desc": "用報紙、布等物品吸收，或用凝固劑使之為固體狀。",
+    "pinying": "shíyòng yóu",
+    "zhuying": "ㄕˊ ㄩㄥˋ ㄧㄡˊ"
+  },
+  {
+    "item": "回鍋油",
+    "type": "可燃",
+    "desc": "用報紙、布等物品吸收，或用凝固劑使之為固體狀。",
+    "pinying": "huíguō yóu",
+    "zhuying": "ㄏㄨㄟˊ ㄍㄨㄛ ㄧㄡˊ"
+  },
+  {
+    "item": "滑雪靴",
+    "type": "可燃",
+    "desc": "盡可能將金屬部份拆解，至不可燃垃圾回收。",
+    "pinying": "huáxuě xuē",
+    "zhuying": "ㄏㄨㄚˊ ㄒㄩㄝˇ ㄒㄩㄝ"
+  },
+  {
+    "item": "滑雪靴",
+    "type": "可燃",
+    "desc": "盡可能將金屬部份拆解，至不可燃垃圾回收。",
+    "pinying": "huáxuě xuē",
+    "zhuying": "ㄏㄨㄚˊ ㄒㄩㄝˇ ㄒㄩㄝ"
+  },
+  {
+    "item": "灰（灰燼等）",
+    "type": "可燃",
+    "desc": "浸濕後，每回少量的丟棄。",
+    "pinying": "huī (huījìn děng)",
+    "zhuying": "ㄏㄨㄟ （ ㄏㄨㄟ ㄐㄧㄣˋ ㄉㄥˇ ）"
+  },
+  {
+    "item": "木炭",
+    "type": "可燃",
+    "desc": "浸濕後，每回少量的丟棄。",
+    "pinying": "mùtàn",
+    "zhuying": "ㄇㄨˋ ㄊㄢˋ"
+  },
+  {
+    "item": "煙火（已使用）",
+    "type": "可燃",
+    "desc": "浸濕後，每回少量的丟棄。",
+    "pinying": "yānhuǒ (yǐ shǐyòng)",
+    "zhuying": "ㄧㄢ ㄏㄨㄛˇ （ ㄧˇ ㄕˇ ㄩㄥˋ ）"
+  },
+  {
+    "item": "游泳圈，救生圈",
+    "type": "可燃",
+    "desc": "請將空氣排出。",
+    "pinying": "yóuyǒng quān, jiùshēngquān",
+    "zhuying": "ㄧㄡˊ ㄩㄥˇ ㄑㄩㄢ ， ㄐㄧㄡˋ ㄕㄥ ㄑㄩㄢ"
+  },
+  {
+    "item": "臉盆",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。無法裝進45公升塑膠袋的為大型垃圾。",
+    "pinying": "liǎn pén",
+    "zhuying": "ㄌㄧㄢˇ ㄆㄣˊ"
+  },
+  {
+    "item": "自動鉛筆",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "zìdòng qiānbǐ",
+    "zhuying": "ㄗˋ ㄉㄨㄥˋ ㄑㄧㄢ ㄅㄧˇ"
+  },
+  {
+    "item": "澆水器（塑膠製）",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "jiāo shuǐ qì (sùjiāo zhì)",
+    "zhuying": "ㄐㄧㄠ ㄕㄨㄟˇ ㄑㄧˋ （ ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "印台（塑膠製）",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "yìntái (sùjiāo zhì)",
+    "zhuying": "ㄧㄣˋ ㄊㄞˊ （ ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "鬃刷",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "zōng shuā",
+    "zhuying": "ㄗㄨㄥ ㄕㄨㄚ"
+  },
+  {
+    "item": "畚箕（塑膠製）",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "běnjī (sùjiāo zhì)",
+    "zhuying": "ㄅㄣˇ ㄐㄧ （ ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "廁所架（塑膠製）",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "cèsuǒ jià (sùjiāo zhì)",
+    "zhuying": "ㄘㄜˋ ㄙㄨㄛˇ ㄐㄧㄚˋ （ ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "水桶",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "shuǐtǒng",
+    "zhuying": "ㄕㄨㄟˇ ㄊㄨㄥˇ"
+  },
+  {
+    "item": "圓珠筆，原子筆",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "yuánzhūbǐ, yuánzǐ bǐ",
+    "zhuying": "ㄩㄢˊ ㄓㄨ ㄅㄧˇ ， ㄩㄢˊ ㄗˇ ㄅㄧˇ"
+  },
+  {
+    "item": "鍵盤",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "jiànpán",
+    "zhuying": "ㄐㄧㄢˋ ㄆㄢˊ "
+  },
+  {
+    "item": "印章（\b木製、塑膠製）",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "yìnzhāng (? Mùzhì, sùjiāo zhì)",
+    "zhuying": "ㄧㄣˋ ㄓㄤ （ \b ㄇㄨˋ ㄓˋ 、 ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "三角形廚餘架（塑膠製）",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "sānjiǎoxíng chú yú jià (sùjiāo zhì)",
+    "zhuying": "ㄙㄢ ㄐㄧㄠˇ ㄒㄧㄥˊ cㄏㄨˊ ㄩˊ ㄐㄧㄚˋ （ ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "耳掏（木製、塑膠製）",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "ěr tāo (mùzhì, sùjiāo zhì)",
+    "zhuying": "ㄦˇ ㄊㄠ （ ㄇㄨˋ ㄓˋ 、 ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "瀝水籃、瀝水架（塑膠製）",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "lìshuǐ lán, lìshuǐ jià (sùjiāo zhì)",
+    "zhuying": "ㄌㄧˋ ㄕㄨㄟˇ ㄌㄢˊ 、 ㄌㄧˋ ㄕㄨㄟˇ ㄐㄧㄚˋ （ ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "泳鏡（塑膠製）",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "yǒng jìng (sùjiāo zhì)",
+    "zhuying": "ㄩㄥˇ ㄐㄧㄥˋ （ ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "肥皂架（塑膠製）",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "féizào jià (sùjiāo zhì)",
+    "zhuying": "ㄈㄟˊ ㄗㄠˋ ㄐㄧㄚˋ （ ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "曬衣夾（塑膠製）",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "shài yī jiā (sùjiāo zhì)",
+    "zhuying": "ㄕㄞˋ ㄧ ㄐㄧㄚ （ ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "洗臉盆",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "xǐliǎn pén",
+    "zhuying": "ㄒㄧˇ ㄌㄧㄢˇ ㄆㄣˊ"
+  },
+  {
+    "item": "昆蟲採集箱、觀察盒",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "kūnchóng cǎijí xiāng, guānchá hé",
+    "zhuying": "ㄎㄨㄣ cㄏㄨㄥˊ ㄘㄞˇ ㄐㄧˊ ㄒㄧㄤ 、 ㄍㄨㄢ cㄏㄚˊ ㄏㄜˊ"
+  },
+  {
+    "item": "尺",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "chǐ",
+    "zhuying": "ㄔˇ"
+  },
+  {
+    "item": "笛子",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "dízi",
+    "zhuying": "ㄉㄧˊ ㄗˇ"
+  },
+  {
+    "item": "便當盒（木製、塑膠製）",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "biàndang hé (mùzhì, sùjiāo zhì)",
+    "zhuying": "ㄅㄧㄢˋ ㄉㄤ ㄏㄜˊ （ ㄇㄨˋ ㄓˋ 、 ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "托盤",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "tuōpán",
+    "zhuying": "ㄊㄨㄛ ㄆㄢˊ"
+  },
+  {
+    "item": "麥克筆、奇異筆",
+    "type": "可燃",
+    "desc": "金屬製、玻璃製為不可燃垃圾。",
+    "pinying": "màikè bǐ, qíyì bǐ",
+    "zhuying": "ㄇㄞˋ ㄎㄜˋ ㄅㄧˇ 、 ㄑㄧˊ ㄧˋ ㄅㄧˇ"
+  },
+  {
+    "item": "水枕",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "shuǐzhěn",
+    "zhuying": "ㄕㄨㄟˇ ㄓㄣˇ"
+  },
+  {
+    "item": "冰枕",
+    "type": "可燃",
+    "desc": "金屬製為不可燃垃圾。",
+    "pinying": "bīng zhěn",
+    "zhuying": "ㄅㄧㄥ ㄓㄣˇ"
+  },
+  {
+    "item": "相本、相簿",
+    "type": "可燃",
+    "desc": "盡可能將金屬部份拆解，至不可燃垃圾回收。",
+    "pinying": "xiàngběn, xiàng bù",
+    "zhuying": "ㄒㄧㄤ ㄅㄣˇ 、 ㄒㄧㄤ ㄅㄨˋ"
+  },
+  {
+    "item": "皮革製品（皮鞋、皮包、皮帶等）",
+    "type": "可燃",
+    "desc": "盡可能將金屬部份拆解，至不可燃垃圾回收。",
+    "pinying": "pígé zhìpǐn (píxié, píbāo, pídài děng)",
+    "zhuying": "ㄆㄧˊ ㄍㄜˊ ㄓˋ ㄆㄧㄣˇ （ ㄆㄧˊ ㄒㄧㄝˊ 、 ㄆㄧˊ ㄅㄠ 、 ㄆㄧˊ ㄉㄞˋ ㄉㄥˇ ）"
+  },
+  {
+    "item": "暖暖包（一次性）",
+    "type": "可燃",
+    "desc": "打開並浸濕。",
+    "pinying": "nuǎn nuǎn bāo (yīcì xìng)",
+    "zhuying": "ㄋㄨㄢˇ ㄋㄨㄢˇ ㄅㄠ （ ㄧ ㄘˋ ㄒㄧㄥˋ ）"
+  },
+  {
+    "item": "換氣扇葉片",
+    "type": "可燃",
+    "desc": "僅限於家庭用的替換品。金屬製為不可燃垃圾。",
+    "pinying": "huànqìshàn yèpiàn",
+    "zhuying": "ㄏㄨㄢˋ ㄑㄧˋ ㄕㄢˋ ㄧㄝˋ ㄆㄧㄢˋ"
+  },
+  {
+    "item": "尿布",
+    "type": "可燃",
+    "desc": "請去除穢物。",
+    "pinying": "niàobù",
+    "zhuying": "ㄋㄧㄠˋ ㄅㄨˋ"
+  },
+  {
+    "item": "蠟燭（液體、固體）",
+    "type": "可燃",
+    "desc": "液體請將報紙、布充分浸泡。",
+    "pinying": "làzhú (yètǐ, gùtǐ)",
+    "zhuying": "ㄌㄚˋ ㄓㄨˊ （ ㄧㄝˋ ㄊㄧˇ 、 ㄍㄨˋ ㄊㄧˇ ）"
+  },
+  {
+    "item": "一次性打火機",
+    "type": "可燃",
+    "desc": "請放置打火機回收箱內。欲至回收中心丟棄，請將打火機用盡，瓦斯抽乾，金屬部份拔除。金屬部份為不可燃垃圾。",
+    "pinying": "yīcì xìng dǎhuǒjī",
+    "zhuying": "ㄧ ㄘˋ ㄒㄧㄥˋ ㄉㄚˇ ㄏㄨㄛˇ ㄐㄧ"
+  },
+  {
+    "item": "輪胎（自行車、腳踏車、獨輪車等）",
+    "type": "可燃",
+    "desc": "包含輪框時為不可燃垃圾。",
+    "pinying": "lúntāi (zìxíngchē, jiǎotàchē, dúlúnchē děng)",
+    "zhuying": "ㄌㄨㄣˊ ㄊㄞ （ ㄗˋ ㄒㄧㄥˊ cㄏㄜ 、 ㄐㄧㄠˇ ㄊㄚˋ cㄏㄜ 、 ㄉㄨˊ ㄌㄨㄣˊ cㄏㄜ ㄉㄥˇ ）"
+  },
+  {
+    "item": "聚氯乙烯（PVC）容器（酒瓶等）",
+    "type": "可燃",
+    "desc": "沒有回收標誌的寶特瓶。",
+    "pinying": "jù lǜ yǐxī (PVC) róngqì (jiǔ píng děng)",
+    "zhuying": "ㄐㄩˋ ㄌㄩ ㄧˇ ㄒㄧ （ PVC ） ㄖㄨㄥˊ ㄑㄧˋ （ ㄐㄧㄡˇ ㄆㄧㄥˊ ㄉㄥˇ ）"
+  },
+  {
+    "item": "托盤（泡沫苯乙烯）",
+    "type": "可燃",
+    "desc": "丟棄至特定販售商店等的回收箱。",
+    "pinying": "tuōpán (pàomò běn yǐxī)",
+    "zhuying": "ㄊㄨㄛ ㄆㄢˊ （ ㄆㄠˋ ㄇㄛˋ ㄅㄣˇ ㄧˇ ㄒㄧ ）"
+  },
+  {
+    "item": "花泥、花泉（插花用）",
+    "type": "可燃",
+    "desc": "盡可能地使其乾燥。",
+    "pinying": "huā ní, huāquán (chāhuā yòng)",
+    "zhuying": "ㄏㄨㄚ ㄋㄧˊ 、 ㄏㄨㄚ ㄑㄩㄢˊ （ cㄏㄚ ㄏㄨㄚ ㄩㄥˋ ）"
+  },
+  {
+    "item": "毽球板、毽子板",
+    "type": "可燃",
+    "desc": "含有盒子為大型垃圾。",
+    "pinying": "jiàn qiú bǎn, jiàn zǐ bǎn",
+    "zhuying": "ㄐㄧㄢˋ ㄑㄧㄡˊ ㄅㄢˇ 、 ㄐㄧㄢˋ ㄗˇ ㄅㄢˇ"
+  },
+  {
+    "item": "卡式錄音帶、盒帶、卡帶",
+    "type": "可燃",
+    "desc": "盒子同為可燃。",
+    "pinying": "kǎ shì lùyīndài, hédài, kǎdài",
+    "zhuying": "ㄑㄧㄚˇ ㄕˋ ㄌㄨˋ ㄧㄣ ㄉㄞˋ 、 ㄏㄜˊ ㄉㄞˋ 、 ㄑㄧㄚˇ ㄉㄞˋ"
+  },
+  {
+    "item": "錄影帶、錄像帶",
+    "type": "可燃",
+    "desc": "盒子同為可燃。",
+    "pinying": "lùyǐng dài, lùxiàngdài",
+    "zhuying": "ㄌㄨˋ ㄧㄥˇ ㄉㄞˋ 、 ㄌㄨˋ ㄒㄧㄤˋ ㄉㄞˋ"
+  },
+  {
+    "item": "軟盤、磁片",
+    "type": "可燃",
+    "desc": "盒子同為可燃。",
+    "pinying": "ruǎnpán, cí piàn",
+    "zhuying": "ㄖㄨㄢˇ ㄆㄢˊ 、 ㄘˊ ㄆㄧㄢˋ"
+  },
+  {
+    "item": "卡片",
+    "type": "可燃",
+    "desc": "現金卡等裁剪至不可用程度。",
+    "pinying": "Kǎpiàn",
+    "zhuying": "ㄑㄧㄚˇ ㄆㄧㄢˋ "
+  },
+  {
+    "item": "門墊",
+    "type": "可燃",
+    "desc": "裁減至50cm以下之四角型。金屬製為不可燃垃圾，無法放入45公升塑膠袋為大型垃圾。",
+    "pinying": "mén diàn",
+    "zhuying": "ㄇㄣˊ ㄉㄧㄢˋ"
+  },
+  {
+    "item": "防水布（家庭菜園用）",
+    "type": "可燃",
+    "desc": "裁減至50cm以下之四角型，並放置於45公升塑膠袋內丟棄。農用及公司用不可丟棄。",
+    "pinying": "fángshuǐ bù (jiātíng càiyuán yòng)",
+    "zhuying": "ㄈㄤˊ ㄕㄨㄟˇ ㄅㄨˋ （ ㄐㄧㄚ ㄊㄧㄥˊ ㄘㄞˋ ㄩㄢˊ ㄩㄥˋ ）"
+  },
+  {
+    "item": "\b\b窗簾",
+    "type": "可燃",
+    "desc": "裁減至50cm以下之四角型，並放置於45公升塑膠袋內丟棄。",
+    "pinying": "?? Chuānglián",
+    "zhuying": "\b \b cㄏㄨㄤ ㄌㄧㄢˊ"
+  },
+  {
+    "item": "廚房腳踏墊",
+    "type": "可燃",
+    "desc": "裁減至50cm以下之四角型，並放置於45公升塑膠袋內丟棄。",
+    "pinying": "chúfáng jiǎo tà diàn",
+    "zhuying": "cㄏㄨˊ ㄈㄤˊ ㄐㄧㄠˇ ㄊㄚˋ ㄉㄧㄢˋ"
+  },
+  {
+    "item": "床套",
+    "type": "可燃",
+    "desc": "裁減至50cm以下之四角型，並放置於45公升塑膠袋內丟棄。",
+    "pinying": "chuáng tào",
+    "zhuying": "cㄏㄨㄤˊ ㄊㄠˋ"
+  },
+  {
+    "item": "毛巾、浴巾",
+    "type": "可燃",
+    "desc": "裁減至50cm以下之四角型，並放置於45公升塑膠袋內丟棄。",
+    "pinying": "máojīn, yùjīn",
+    "zhuying": "ㄇㄠˊ ㄐㄧㄣ 、 ㄩˋ ㄐㄧㄣ"
+  },
+  {
+    "item": "桌巾",
+    "type": "可燃",
+    "desc": "裁減至50cm以下之四角型，並放置於45公升塑膠袋內丟棄。",
+    "pinying": "zhuō jīn",
+    "zhuying": "ㄓㄨㄛ ㄐㄧㄣ"
+  },
+  {
+    "item": "塑料薄墊（藍色、野餐墊）",
+    "type": "可燃",
+    "desc": "裁減至50cm以下之四角型，並放置於45公升塑膠袋內丟棄。",
+    "pinying": "sùliào báo diàn (lán sè, yěcān diàn)",
+    "zhuying": "ㄙㄨˋ ㄌㄧㄠˋ ㄅㄠˊ ㄉㄧㄢˋ （ ㄌㄢˊ ㄙㄜˋ 、 ㄧㄝˇ ㄘㄢ ㄉㄧㄢˋ ）"
+  },
+  {
+    "item": "游泳池（兒童用）",
+    "type": "可燃",
+    "desc": "裁減至50cm以下之四角型，並放置於45公升塑膠袋內丟棄。",
+    "pinying": "yóuyǒngchí (értóng yòng)",
+    "zhuying": "ㄧㄡˊ ㄩㄥˇ ㄔˊ （ ㄦˊ ㄊㄨㄥˊ ㄩㄥˋ ）"
+  },
+  {
+    "item": "被套",
+    "type": "可燃",
+    "desc": "裁減至50cm以下之四角型，並放置於45公升塑膠袋內丟棄。",
+    "pinying": "bèitào",
+    "zhuying": "ㄅㄟˋ ㄊㄠˋ"
+  },
+  {
+    "item": "人造草皮",
+    "type": "可燃",
+    "desc": "裁減至50cm以下之四角型，並放置於45公升塑膠袋內丟棄。",
+    "pinying": "rénzào cǎopí",
+    "zhuying": "ㄖㄣˊ ㄗㄠˋ ㄘㄠˇ ㄆㄧˊ"
+  },
+  {
+    "item": "浴室踏墊（人造橡膠）",
+    "type": "可燃",
+    "desc": "裁減至50cm以下之四角型，並放置於45公升塑膠袋內丟棄。",
+    "pinying": "yùshì tà diàn (rénzào xiàngjiāo)",
+    "zhuying": "ㄩˋ ㄕˋ ㄊㄚˋ ㄉㄧㄢˋ （ ㄖㄣˊ ㄗㄠˋ ㄒㄧㄤˋ ㄐㄧㄠ ）"
+  },
+  {
+    "item": "寵物廁所（木製、紙製）",
+    "type": "可燃",
+    "desc": "放置於45公升塑膠袋內，每回少量的丟棄。",
+    "pinying": "chǒngwù cèsuǒ (mùzhì, zhǐ zhì)",
+    "zhuying": "cㄏㄨㄥˇ ㄨˋ ㄘㄜˋ ㄙㄨㄛˇ （ ㄇㄨˋ ㄓˋ 、 ㄓˇ ㄓˋ ）"
+  },
+  {
+    "item": "棋盤（折疊式、木製）",
+    "type": "可燃",
+    "desc": "放置於45公升塑膠袋內丟棄。",
+    "pinying": "qípán (zhédié shì, mùzhì)",
+    "zhuying": "ㄑㄧˊ ㄆㄢˊ （ ㄓㄜ ㄉㄧㄝˊ ㄕˋ 、 ㄇㄨˋ ㄓˋ ）"
+  },
+  {
+    "item": "米袋",
+    "type": "可燃",
+    "desc": "放置於45公升塑膠袋內丟棄。",
+    "pinying": "mǐdài",
+    "zhuying": "ㄇㄧˇ ㄉㄞˋ"
+  },
+  {
+    "item": "坐墊",
+    "type": "可燃",
+    "desc": "無法放置於45公升塑膠袋的為大型垃圾。",
+    "pinying": "zuòdiàn",
+    "zhuying": "ㄗㄨㄛˋ ㄉㄧㄢˋ"
+  },
+  {
+    "item": "兒童用（室內）廁所",
+    "type": "可燃",
+    "desc": "無法放置於45公升塑膠袋的為大型垃圾。",
+    "pinying": "értóng yòng (shìnèi) cèsuǒ",
+    "zhuying": "ㄦˊ ㄊㄨㄥˊ ㄩㄥˋ （ ㄕˋ ㄋㄟˋ ） ㄘㄜˋ ㄙㄨㄛˇ"
+  },
+  {
+    "item": "填充玩具",
+    "type": "可燃",
+    "desc": "無法放置於45公升塑膠袋的為大型垃圾。",
+    "pinying": "tiánchōng wánjù",
+    "zhuying": "ㄊㄧㄢˊ cㄏㄨㄥ ㄨㄢˊ ㄐㄩˋ"
+  },
+  {
+    "item": "枕頭、抱枕",
+    "type": "可燃",
+    "desc": "無法放置於45公升塑膠袋的為大型垃圾。",
+    "pinying": "zhěntou, bàozhěn",
+    "zhuying": "ㄓㄣˇ ㄊㄡˊ 、 ㄅㄠˋ ㄓㄣˇ"
+  },
+  {
+    "item": "笛盒",
+    "type": "可燃",
+    "desc": "三件左右可放置於45公升塑膠袋為可燃。大量時請自主搬至回收中心。",
+    "pinying": "dí hé",
+    "zhuying": "ㄉㄧˊ ㄏㄜˊ"
+  },
+  {
+    "item": "軟管（塑料、橡膠製）",
+    "type": "可燃",
+    "desc": "分別切開至1m內的長度，並放置於45公升塑膠袋後丟棄。",
+    "pinying": "ruǎn guǎn (sùliào, xiàngjiāo zhì)",
+    "zhuying": "ㄖㄨㄢˇ ㄍㄨㄢˇ （ ㄙㄨˋ ㄌㄧㄠˋ 、 ㄒㄧㄤˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "CD(光碟)",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "CD(guāngdié)",
+    "zhuying": "CD ( ㄍㄨㄤ ㄉㄧㄝˊ )"
+  },
+  {
+    "item": "CD盒（塑膠製）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "CD hé (sùjiāo zhì)",
+    "zhuying": "CD ㄏㄜˊ （ ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "DVD光碟",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "DVD guāngdié",
+    "zhuying": "DVD ㄍㄨㄤ ㄉㄧㄝˊ"
+  },
+  {
+    "item": "MD、MO磁盤",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "MD,MO cípán",
+    "zhuying": "MD 、 MO ㄘˊ ㄆㄢˊ"
+  },
+  {
+    "item": "冰枕（保冷枕）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "bīng zhěn (bǎolěng zhěn)",
+    "zhuying": "ㄅㄧㄥ ㄓㄣˇ （ ㄅㄠˇ ㄌㄥˇ ㄓㄣˇ ）"
+  },
+  {
+    "item": "濕紙巾",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "shī zhǐjīn",
+    "zhuying": "ㄕ ㄓˇ ㄐㄧㄣ"
+  },
+  {
+    "item": "鉛筆",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "qiānbǐ",
+    "zhuying": "ㄑㄧㄢ ㄅㄧˇ"
+  },
+  {
+    "item": "玩具（木製、塑膠製）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "wánjù (mùzhì, sùjiāo zhì)",
+    "zhuying": "ㄨㄢˊ ㄐㄩˋ （ ㄇㄨˋ ㄓˋ 、 ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "防水外套",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "fángshuǐ wàitào",
+    "zhuying": "ㄈㄤˊ ㄕㄨㄟˇ ㄨㄞˋ ㄊㄠˋ"
+  },
+  {
+    "item": "假髮、髮片",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "jiǎfà, fà piàn",
+    "zhuying": "ㄐㄧㄚˇ ㄈㄚ 、 ㄈㄚ ㄆㄧㄢˋ"
+  },
+  {
+    "item": "膠帶",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "jiāodài",
+    "zhuying": "ㄐㄧㄠ ㄉㄞˋ"
+  },
+  {
+    "item": "蠟筆、粉筆",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "làbǐ, fěnbǐ",
+    "zhuying": "ㄌㄚˋ ㄅㄧˇ 、 ㄈㄣˇ ㄅㄧˇ"
+  },
+  {
+    "item": "棒球手套",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "bàngqiú shǒutào",
+    "zhuying": "ㄅㄤˋ ㄑㄧㄡˊ ㄕㄡˇ ㄊㄠˋ"
+  },
+  {
+    "item": "遊戲光碟（磁片、CD）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "yóuxì guāngdié (cí piàn,CD)",
+    "zhuying": "ㄧㄡˊ ㄒㄧˋ ㄍㄨㄤ ㄉㄧㄝˊ （ ㄘˊ ㄆㄧㄢˋ 、 CD ）"
+  },
+  {
+    "item": "橡膠手套",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "xiàngjiāo shǒutào",
+    "zhuying": "ㄒㄧㄤˋ ㄐㄧㄠ ㄕㄡˇ ㄊㄠˋ"
+  },
+  {
+    "item": "高爾夫球",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "gāo'ěrfū qiú",
+    "zhuying": "ㄍㄠ ㄦˇ ㄈㄨ ㄑㄧㄡˊ"
+  },
+  {
+    "item": "隱形眼鏡",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "yǐnxíng yǎnjìng",
+    "zhuying": "ㄧㄣˇ ㄒㄧㄥˊ ㄧㄢˇ ㄐㄧㄥˋ"
+  },
+  {
+    "item": "飯勺、飯匙",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "fàn sháo, fàn shi",
+    "zhuying": "ㄈㄢˋ ㄕㄠˊ 、 ㄈㄢˋ ㄔˊ"
+  },
+  {
+    "item": "浴帽",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "yù mào",
+    "zhuying": "ㄩˋ ㄇㄠˋ"
+  },
+  {
+    "item": "鞋盒",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "xié hé",
+    "zhuying": "ㄒㄧㄝˊ ㄏㄜˊ"
+  },
+  {
+    "item": "畫本、寫生簿、素描本",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "huà běn, xiěshēng bù,sùmiáo běn",
+    "zhuying": "ㄏㄨㄚˋ ㄅㄣˇ 、 ㄒㄧㄝˇ ㄕㄥ ㄅㄨˋ、ㄙㄨˋ ㄇㄧㄠˊ ㄅㄣˇ "
+  },
+  {
+    "item": "絲襪",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "sīwà",
+    "zhuying": "ㄙ ㄨㄚˋ"
+  },
+  {
+    "item": "海綿",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "hǎimián",
+    "zhuying": "ㄏㄞˇ ㄇㄧㄢˊ"
+  },
+  {
+    "item": "拖鞋、夾腳拖鞋",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "tuōxié, jiā jiǎo tuōxié",
+    "zhuying": "ㄊㄨㄛ ㄒㄧㄝˊ 、 ㄐㄧㄚ ㄐㄧㄠˇ ㄊㄨㄛ ㄒㄧㄝˊ"
+  },
+  {
+    "item": "肥皂",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "féizào",
+    "zhuying": "ㄈㄟˊ ㄗㄠˋ"
+  },
+  {
+    "item": "保鮮盒（廚房用）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "bǎoxiān hé (chúfáng yòng)",
+    "zhuying": "ㄅㄠˇ ㄒㄧㄢ ㄏㄜˊ （ cㄏㄨˊ ㄈㄤˊ ㄩㄥˋ ）"
+  },
+  {
+    "item": "餐桌防水布（塑膠製）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "cānzhuō fángshuǐ bù (sùjiāo zhì)",
+    "zhuying": "ㄘㄢ ㄓㄨㄛ ㄈㄤˊ ㄕㄨㄟˇ ㄅㄨˋ （ ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "撲克牌",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "pūkè pái",
+    "zhuying": "ㄆㄨ ㄎㄜˋ ㄆㄞˊ"
+  },
+  {
+    "item": "尼龍袋",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "nílóng dài",
+    "zhuying": "ㄋㄧˊ ㄌㄨㄥˊ ㄉㄞˋ"
+  },
+  {
+    "item": "領帶",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "lǐngdài",
+    "zhuying": "ㄌㄧㄥˇ ㄉㄞˋ"
+  },
+  {
+    "item": "糨糊盒、糨糊罐",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "jiànghú hé, jiànghú guàn",
+    "zhuying": "ㄐㄧㄤˋ ㄏㄨ ㄏㄜˊ 、 ㄐㄧㄤˋ ㄏㄨ ㄍㄨㄢˋ"
+  },
+  {
+    "item": "門簾",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "ménlián",
+    "zhuying": "ㄇㄣˊ ㄌㄧㄢˊ"
+  },
+  {
+    "item": "刷具",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "shuā jù",
+    "zhuying": "ㄕㄨㄚ ㄐㄩˋ"
+  },
+  {
+    "item": "浴室踏墊",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "yùshì tà diàn",
+    "zhuying": "ㄩˋ ㄕˋ ㄊㄚˋ ㄉㄧㄢˋ"
+  },
+  {
+    "item": "羽毛球、羽球",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "yǔmáoqiú, yǔqiú",
+    "zhuying": "ㄩˇ ㄇㄠˊ ㄑㄧㄡˊ 、 ㄩˇ ㄑㄧㄡˊ"
+  },
+  {
+    "item": "方向盤套",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "fāngxiàngpán tào",
+    "zhuying": "ㄈㄤ ㄒㄧㄤˋ ㄆㄢˊ ㄊㄠˋ"
+  },
+  {
+    "item": "沙灘涼鞋",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "shātān liángxié",
+    "zhuying": "ㄕㄚ ㄊㄢ ㄌㄧㄤˊ ㄒㄧㄝˊ"
+  },
+  {
+    "item": "塑膠袋",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "sùjiāodài",
+    "zhuying": "ㄙㄨˋ ㄐㄧㄠ ㄉㄞˋ"
+  },
+  {
+    "item": "乒乓球",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "pīngpāng qiú",
+    "zhuying": "ㄆㄧㄥ ㄆㄤ ㄑㄧㄡˊ"
+  },
+  {
+    "item": "膠卷、底片",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "jiāojuǎn, dǐpiàn",
+    "zhuying": "ㄐㄧㄠ ㄐㄩㄢˋ 、 ㄉㄧˇ ㄆㄧㄢˋ"
+  },
+  {
+    "item": "被子收納袋",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "bèizi shōunà dài",
+    "zhuying": "ㄅㄟˋ ㄗˇ ㄕㄡ ㄋㄚˋ ㄉㄞˋ"
+  },
+  {
+    "item": "模型",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "móxíng",
+    "zhuying": "ㄇㄛˊ ㄒㄧㄥˊ"
+  },
+  {
+    "item": "捲子、捲髮器",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "juǎnzi, juǎnfà qì",
+    "zhuying": "ㄐㄩㄢˋ ㄗˇ 、 ㄐㄩㄢˋ ㄈㄚ ㄑㄧˋ"
+  },
+  {
+    "item": "梳子",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "shūzi",
+    "zhuying": "ㄕㄨ ㄗˇ"
+  },
+  {
+    "item": "寶特瓶蓋、標籤",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "bǎo tè píng gài, biāoqiān",
+    "zhuying": "ㄅㄠˇ ㄊㄜˋ ㄆㄧㄥˊ ㄍㄞˋ 、 ㄅㄧㄠ ㄑㄧㄢ"
+  },
+  {
+    "item": "帽子、草帽",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "màozi, cǎomào",
+    "zhuying": "ㄇㄠˋ ㄗˇ 、 ㄘㄠˇ ㄇㄠˋ"
+  },
+  {
+    "item": "球（體育用品）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "qiú (tǐyù yòngpǐn)",
+    "zhuying": "ㄑㄧㄡˊ （ ㄊㄧˇ ㄩˋ ㄩㄥˋ ㄆㄧㄣˇ ）"
+  },
+  {
+    "item": "砧板、切菜板",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "zhēnbǎn, qiē cài bǎn",
+    "zhuying": "ㄓㄣ ㄅㄢˇ 、 ㄑㄧㄝ ㄘㄞˋ ㄅㄢˇ"
+  },
+  {
+    "item": "溜溜球",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "liūliū qiú",
+    "zhuying": "ㄌㄧㄡ ㄌㄧㄡ ㄑㄧㄡˊ"
+  },
+  {
+    "item": "保鮮膜",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "bǎoxiān mó",
+    "zhuying": "ㄅㄠˇ ㄒㄧㄢ ㄇㄛˊ"
+  },
+  {
+    "item": "軟管牙膏",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "ruǎn guǎn yágāo",
+    "zhuying": "ㄖㄨㄢˇ ㄍㄨㄢˇ ㄧㄚˊ ㄍㄠ"
+  },
+  {
+    "item": "書包",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "shūbāo",
+    "zhuying": "ㄕㄨ ㄅㄠ"
+  },
+  {
+    "item": "錄音機",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "lùyīnjī",
+    "zhuying": "ㄌㄨˋ ㄧㄣ ㄐㄧ"
+  },
+  {
+    "item": "背包",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "bèibāo",
+    "zhuying": "ㄅㄟˋ ㄅㄠ"
+  },
+  {
+    "item": "雨衣",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "yǔyī",
+    "zhuying": "ㄩˇ ㄧ"
+  },
+  {
+    "item": "鐳射光碟",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "léishè guāngdié",
+    "zhuying": "ㄌㄟˊ ㄕㄜˋ ㄍㄨㄤ ㄉㄧㄝˊ"
+  },
+  {
+    "item": "黑膠唱片",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "hēi jiāo chàngpiàn",
+    "zhuying": "ㄏㄟ ㄐㄧㄠ cㄏㄤˋ ㄆㄧㄢˋ"
+  },
+  {
+    "item": "收據",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "shōujù",
+    "zhuying": "ㄕㄡ ㄐㄩˋ"
+  },
+  {
+    "item": "蠟燭",
+    "type": "可燃",
+    "desc": "液體請利用報紙、布充分浸泡，使其成為固體狀。",
+    "pinying": "làzhú",
+    "zhuying": "ㄌㄚˋ ㄓㄨˊ"
+  },
+  {
+    "item": "棉花（棉）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "miánhuā (mián)",
+    "zhuying": "ㄇㄧㄢˊ ㄏㄨㄚ （ ㄇㄧㄢˊ ）"
+  },
+  {
+    "item": "明信片",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "míngxìnpiàn",
+    "zhuying": "ㄇㄧㄥˊ ㄒㄧㄣˋ ㄆㄧㄢˋ"
+  },
+  {
+    "item": "醫療用品（貼布、三角繃帶等）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "yīliáo yòngpǐn (tiē bù, sānjiǎo bēngdài děng)",
+    "zhuying": "ㄧ ㄌㄧㄠˊ ㄩㄥˋ ㄆㄧㄣˇ （ ㄊㄧㄝ ㄅㄨˋ 、 ㄙㄢ ㄐㄧㄠˇ ㄅㄥ ㄉㄞˋ ㄉㄥˇ ）"
+  },
+  {
+    "item": "運動鞋",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "yùndòng xié",
+    "zhuying": "ㄩㄣˋ ㄉㄨㄥˋ ㄒㄧㄝˊ"
+  },
+  {
+    "item": "木屐",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "mùjī",
+    "zhuying": "ㄇㄨˋ ㄐㄧ"
+  },
+  {
+    "item": "內衣",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "nèiyī",
+    "zhuying": "ㄋㄟˋ ㄧ"
+  },
+  {
+    "item": "蚊香（線香、盤香）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "wénxiāng (xiànxiāng, pán xiāng)",
+    "zhuying": "ㄨㄣˊ ㄒㄧㄤ （ ㄒㄧㄢˋ ㄒㄧㄤ 、 ㄆㄢˊ ㄒㄧㄤ ）"
+  },
+  {
+    "item": "顏料軟管",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "yánliào ruǎn guǎn",
+    "zhuying": "ㄧㄢˊ ㄌㄧㄠˋ ㄖㄨㄢˇ ㄍㄨㄢˇ"
+  },
+  {
+    "item": "貝殼",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "bèiké",
+    "zhuying": "ㄅㄟˋ ㄎㄜˊ"
+  },
+  {
+    "item": "掛軸",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "guàzhóu",
+    "zhuying": "ㄍㄨㄚˋ ㄓㄡˊ"
+  },
+  {
+    "item": "乾燥劑（石灰、矽膠）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "gānzào jì (shíhuī, xìjiāo)",
+    "zhuying": "ㄍㄢ ㄗㄠˋ ㄐㄧˋ （ ㄕˊ ㄏㄨㄟ 、 ㄒㄧ ㄐㄧㄠ ）"
+  },
+  {
+    "item": "感熱紙",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "gǎnrè zhǐ",
+    "zhuying": "ㄍㄢˇ ㄖㄜˋ ㄓˇ"
+  },
+  {
+    "item": "鞋子",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "xiézi",
+    "zhuying": "ㄒㄧㄝˊ ㄗˇ"
+  },
+  {
+    "item": "襪類（襪子、分趾襪等）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "wà lèi (wàzi, fēn zhǐ wà děng)",
+    "zhuying": "ㄨㄚˋ ㄌㄟˋ （ ㄨㄚˋ ㄗˇ 、 ㄈㄣ ㄓˇ ㄨㄚˋ ㄉㄥˇ ）"
+  },
+  {
+    "item": "鞋撐\b",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "xié chēng?",
+    "zhuying": "ㄒㄧㄝˊ cㄏㄥ \b"
+  },
+  {
+    "item": "針線盒",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "Zhēnxiàn hé",
+    "zhuying": "ㄓㄣ ㄒㄧㄢˋ ㄏㄜˊ"
+  },
+  {
+    "item": "防塵布",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "fángchén bù",
+    "zhuying": "ㄈㄤˊ cㄏㄣˊ ㄅㄨˋ"
+  },
+  {
+    "item": "紙杯、紙製器皿",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "zhǐbēi, zhǐ zhì qìmǐn",
+    "zhuying": "ㄓˇ ㄅㄟ 、 ㄓˇ ㄓˋ ㄑㄧˋ ㄇㄧㄣˇ"
+  },
+  {
+    "item": "紙盒（飲料用：未滿500ml）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "zhǐ hé (yǐnliào yòng: Wèi mǎn 500ml)",
+    "zhuying": "ㄓˇ ㄏㄜˊ （ ㄧㄣˇ ㄌㄧㄠˋ ㄩㄥˋ ： ㄨㄟˋ ㄇㄢˇ 500ml ）"
+  },
+  {
+    "item": "鋁箔包",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "lǚbó bāo",
+    "zhuying": "ㄌㄩˇ ㄅㄛˊ ㄅㄠ"
+  },
+  {
+    "item": "砂紙",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "shāzhǐ",
+    "zhuying": "ㄕㄚ ㄓˇ"
+  },
+  {
+    "item": "牙刷",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "yáshuā",
+    "zhuying": "ㄧㄚˊ ㄕㄨㄚ"
+  },
+  {
+    "item": "照片、相片",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "zhàopiàn, xiàngpiàn",
+    "zhuying": "ㄓㄠˋ ㄆㄧㄢˋ 、 ㄒㄧㄤ ㄆㄧㄢˋ"
+  },
+  {
+    "item": "手套",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "shǒutào",
+    "zhuying": "ㄕㄡˇ ㄊㄠˋ"
+  },
+  {
+    "item": "柔道服",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "róudào fú",
+    "zhuying": "ㄖㄡˊ ㄉㄠˋ ㄈㄨˊ"
+  },
+  {
+    "item": "將棋（棋件）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "jiāng qí (qí jiàn)",
+    "zhuying": "ㄐㄧㄤ ㄑㄧˊ （ ㄑㄧˊ ㄐㄧㄢˋ ）"
+  },
+  {
+    "item": "將棋盤（折疊式、木製）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "jiāng qípán (zhédié shì, mùzhì)",
+    "zhuying": "ㄐㄧㄤ ㄑㄧˊ ㄆㄢˊ （ ㄓㄜ ㄉㄧㄝˊ ㄕˋ 、 ㄇㄨˋ ㄓˋ ）"
+  },
+  {
+    "item": "睡袋",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "shuìdài",
+    "zhuying": "ㄕㄨㄟˋ ㄉㄞˋ"
+  },
+  {
+    "item": "生理用品",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "shēnglǐ yòngpǐn",
+    "zhuying": "ㄕㄥ ㄌㄧˇ ㄩㄥˋ ㄆㄧㄣˇ"
+  },
+  {
+    "item": "石油幫浦（手動式）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "shíyóu bāng pǔ (shǒudòng shì)",
+    "zhuying": "ㄕˊ ㄧㄡˊ ㄅㄤ ㄆㄨˇ （ ㄕㄡˇ ㄉㄨㄥˋ ㄕˋ ）"
+  },
+  {
+    "item": "積木",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "jīmù",
+    "zhuying": "ㄐㄧ ㄇㄨˋ"
+  },
+  {
+    "item": "積木塊",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "jīmù kuài",
+    "zhuying": "ㄐㄧ ㄇㄨˋ ㄎㄨㄞˋ"
+  },
+  {
+    "item": "除臭劑",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "chú chòu jì",
+    "zhuying": "cㄏㄨˊ cㄏㄡˋ ㄐㄧˋ"
+  },
+  {
+    "item": "地球儀",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "dìqiúyí",
+    "zhuying": "ㄉㄧˋ ㄑㄧㄡˊ ㄧˊ"
+  },
+  {
+    "item": "長靴、靴子",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "zhǎngxuē, xuēzi",
+    "zhuying": "cㄏㄤˊ ㄒㄩㄝ 、 ㄒㄩㄝ ㄗˇ"
+  },
+  {
+    "item": "釣魚線",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "diàoyú xiàn",
+    "zhuying": "ㄉㄧㄠˋ ㄩˊ ㄒㄧㄢˋ"
+  },
+  {
+    "item": "跳繩",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "tiàoshéng",
+    "zhuying": "ㄊㄧㄠˋ ㄕㄥˊ"
+  },
+  {
+    "item": "黏土（教材）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "niántǔ (jiàocái)",
+    "zhuying": "ㄋㄧㄢˊ ㄊㄨˇ （ ㄐㄧㄠˋ ㄘㄞˊ ）"
+  },
+  {
+    "item": "泡沫塑料",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "pàomò sùliào",
+    "zhuying": "ㄆㄠˋ ㄇㄛˋ ㄙㄨˋ ㄌㄧㄠˋ"
+  },
+  {
+    "item": "毛筆",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "máobǐ",
+    "zhuying": "ㄇㄠˊ ㄅㄧˇ"
+  },
+  {
+    "item": "碎布",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "suì bù",
+    "zhuying": "ㄙㄨㄟˋ ㄅㄨˋ"
+  },
+  {
+    "item": "浴室板凳（木製，塑膠製）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "yùshì bǎndèng (mùzhì, sùjiāo zhì)",
+    "zhuying": "ㄩˋ ㄕˋ ㄅㄢˇ ㄉㄥˋ （ ㄇㄨˋ ㄓˋ ， ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "馬桶蓋",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "mǎtǒng gài",
+    "zhuying": "ㄇㄚˇ ㄊㄨㄥˇ ㄍㄞˋ"
+  },
+  {
+    "item": "保冷劑",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "bǎolěng jì",
+    "zhuying": "ㄅㄠˇ ㄌㄥˇ ㄐㄧˋ"
+  },
+  {
+    "item": "麻將牌尺（塑膠製）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "májiàng pái chǐ (sùjiāo zhì)",
+    "zhuying": "ㄇㄚˊ ㄐㄧㄤ ㄆㄞˊ ㄔˇ （ ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "毛線",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "máoxiàn",
+    "zhuying": "ㄇㄠˊ ㄒㄧㄢˋ"
+  },
+  {
+    "item": "藥品（家庭用）",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "yàopǐn (jiātíng yòng)",
+    "zhuying": "ㄧㄠˋ ㄆㄧㄣˇ （ ㄐㄧㄚ ㄊㄧㄥˊ ㄩㄥˋ ）"
+  },
+  {
+    "item": "吸油面紙、吸油紙",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "xīyóu miàn zhǐ, xīyóu zhǐ",
+    "zhuying": "ㄒㄧ ㄧㄡˊ ㄇㄧㄢˋ ㄓˇ 、 ㄒㄧ ㄧㄡˊ ㄓˇ"
+  },
+  {
+    "item": "雞蛋盒",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "jīdàn hé",
+    "zhuying": "ㄐㄧ ㄉㄢˋ ㄏㄜˊ"
+  },
+  {
+    "item": "和紙",
+    "type": "可燃",
+    "desc": "",
+    "pinying": "hézhǐ",
+    "zhuying": "ㄏㄜˊ ㄓˇ"
+  },
+  {
+    "item": "鉤針（金屬製）",
+    "type": "不可燃",
+    "desc": "木製為可燃垃圾。",
+    "pinying": "gōuzhēn (jīnshǔ zhì)",
+    "zhuying": "ㄍㄡ ㄓㄣ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "蒸鍋（金屬製）",
+    "type": "不可燃",
+    "desc": "木製並能放置於45公升塑膠袋內為可燃垃圾。",
+    "pinying": "zhēng guō (jīnshǔ zhì)",
+    "zhuying": "ㄓㄥ ㄍㄨㄛ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "時鐘",
+    "type": "不可燃",
+    "desc": "小型家電如有可能，請投入小型家電回收箱。無法放入45公升塑膠袋的視為大型垃圾。",
+    "pinying": "shízhōng",
+    "zhuying": "ㄕˊ ㄓㄨㄥ"
+  },
+  {
+    "item": "削鉛筆器，削筆機",
+    "type": "不可燃",
+    "desc": "可以的話，電動式的請投入小型家電回收箱。",
+    "pinying": "xuē qiānbǐ qì, xiāo bǐ jī",
+    "zhuying": "ㄒㄧㄠ ㄑㄧㄢ ㄅㄧˇ ㄑㄧˋ ， ㄒㄧㄠ ㄅㄧˇ ㄐㄧ"
+  },
+  {
+    "item": "玩具（金屬製、電動式）",
+    "type": "不可燃",
+    "desc": "可以的話，電動式的請投入小型家電回收箱。",
+    "pinying": "wánjù (jīnshǔ zhì, diàndòng shì)",
+    "zhuying": "ㄨㄢˊ ㄐㄩˋ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ 、 ㄉㄧㄢˋ ㄉㄨㄥˋ ㄕˋ ）"
+  },
+  {
+    "item": "螺絲起子",
+    "type": "不可燃",
+    "desc": "可以的話，電動式的請投入小型家電回收箱。無法投入為不可燃垃圾。",
+    "pinying": "luósī qǐzi",
+    "zhuying": "ㄌㄨㄛˊ ㄙ ㄑㄧˇ ㄗˇ"
+  },
+  {
+    "item": "體重計",
+    "type": "不可燃",
+    "desc": "可以的話，電動式的請投入小型家電回收箱。無法投入為不可燃垃圾。",
+    "pinying": "tǐzhòng jì",
+    "zhuying": "ㄊㄧˇ ㄓㄨㄥˋ ㄐㄧˋ"
+  },
+  {
+    "item": "體重計",
+    "type": "不可燃",
+    "desc": "可以的話，電動式的請投入小型家電回收箱。無法投入為不可燃垃圾。",
+    "pinying": "tǐzhòng jì",
+    "zhuying": "ㄊㄧˇ ㄓㄨㄥˋ ㄐㄧˋ"
+  },
+  {
+    "item": "發動機油罐、柴油機油罐",
+    "type": "不可燃",
+    "desc": "清空內部並打開蓋子。",
+    "pinying": "fādòngjī yóu guàn, cháiyóujī yóu guàn",
+    "zhuying": "ㄈㄚ ㄉㄨㄥˋ ㄐㄧ ㄧㄡˊ ㄍㄨㄢˋ 、 cㄏㄞˊ ㄧㄡˊ ㄐㄧ ㄧㄡˊ ㄍㄨㄢˋ"
+  },
+  {
+    "item": "四方形金屬罐子（18公升）",
+    "type": "不可燃",
+    "desc": "清空內部並打開蓋子。",
+    "pinying": "sì fāngxíng jīnshǔ guànzi (18 gōngshēng)",
+    "zhuying": "ㄙˋ ㄈㄤ ㄒㄧㄥˊ ㄐㄧㄣ ㄕㄨˇ ㄍㄨㄢˋ ㄗˇ （ 18 ㄍㄨㄥ ㄕㄥ ）"
+  },
+  {
+    "item": "罐子（化學藥品、污垢無法去除等）",
+    "type": "不可燃",
+    "desc": "請將內部清空。",
+    "pinying": "guànzi (huàxué yàopǐn, wūgòu wúfǎ qùchú děng)",
+    "zhuying": "ㄍㄨㄢˋ ㄗˇ （ ㄏㄨㄚˋ ㄒㄩㄝˊ ㄧㄠˋ ㄆㄧㄣˇ 、 ㄨ ㄍㄡˋ ㄨˊ ㄈㄚˇ ㄑㄩˋ cㄏㄨˊ ㄉㄥˇ ）"
+  },
+  {
+    "item": "瓶子（化學藥品、污垢無法去除等）",
+    "type": "不可燃",
+    "desc": "請將內部清空。",
+    "pinying": "píngzi (huàxué yàopǐn, wūgòu wúfǎ qùchú děng)",
+    "zhuying": "ㄆㄧㄥˊ ㄗˇ （ ㄏㄨㄚˋ ㄒㄩㄝˊ ㄧㄠˋ ㄆㄧㄣˇ 、 ㄨ ㄍㄡˋ ㄨˊ ㄈㄚˇ ㄑㄩˋ cㄏㄨˊ ㄉㄥˇ ）"
+  },
+  {
+    "item": "油漆罐",
+    "type": "不可燃",
+    "desc": "請將內部清空。",
+    "pinying": "yóuqī guàn",
+    "zhuying": "ㄧㄡˊ ㄑㄧ ㄍㄨㄢˋ"
+  },
+  {
+    "item": "速食容器（鋁製）",
+    "type": "不可燃",
+    "desc": "請將內部清洗乾淨。塑膠製為可燃垃圾。",
+    "pinying": "sù shí róngqì (lǚ zhì)",
+    "zhuying": "ㄙㄨˋ ㄕˊ ㄖㄨㄥˊ ㄑㄧˋ （ ㄌㄩˇ ㄓˋ ）"
+  },
+  {
+    "item": "懷爐（金屬製）",
+    "type": "不可燃",
+    "desc": "請務必排除內部的燃料。",
+    "pinying": "huái lú (jīnshǔ zhì)",
+    "zhuying": "ㄏㄨㄞˊ ㄌㄨˊ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "球拍（運動用品）",
+    "type": "不可燃",
+    "desc": "桌球拍等木製品為可燃垃圾。",
+    "pinying": "qiúpāi (yùndòng yòngpǐn)",
+    "zhuying": "ㄑㄧㄡˊ ㄆㄞ （ ㄩㄣˋ ㄉㄨㄥˋ ㄩㄥˋ ㄆㄧㄣˇ ）"
+  },
+  {
+    "item": "水龍頭（自來水道）",
+    "type": "不可燃",
+    "desc": "限於自家修繕的物品。",
+    "pinying": "shuǐlóngtóu (zìláishuǐ dào)",
+    "zhuying": "ㄕㄨㄟˇ ㄌㄨㄥˊ ㄊㄡˊ （ ㄗˋ ㄌㄞˊ ㄕㄨㄟˇ ㄉㄠˋ ）"
+  },
+  {
+    "item": "馬桶坐墊（包含免治馬桶坐墊）",
+    "type": "不可燃",
+    "desc": "限於自家修繕的物品。",
+    "pinying": "mǎtǒng zuòdiàn (bāohán miǎn zhì mǎtǒng zuòdiàn)",
+    "zhuying": "ㄇㄚˇ ㄊㄨㄥˇ ㄗㄨㄛˋ ㄉㄧㄢˋ （ ㄅㄠ ㄏㄢˊ ㄇㄧㄢˇ ㄓˋ ㄇㄚˇ ㄊㄨㄥˇ ㄗㄨㄛˋ ㄉㄧㄢˋ ）"
+  },
+  {
+    "item": "玻璃板（如窗戶玻璃等）",
+    "type": "不可燃",
+    "desc": "用紙等物品包裹後，並貼上「危險」字條。無法放入45公升塑膠袋的為大型垃圾。",
+    "pinying": "bōlí bǎn (rú chuānghù bōlí děng)",
+    "zhuying": "ㄅㄛ ㄌㄧˊ ㄅㄢˇ （ ㄖㄨˊ cㄏㄨㄤ ㄏㄨˋ ㄅㄛ ㄌㄧˊ ㄉㄥˇ ）"
+  },
+  {
+    "item": "冰鑿",
+    "type": "不可燃",
+    "desc": "用紙等物品包裹後，並貼上「危險」字條。無法放入45公升塑膠袋的為大型垃圾。",
+    "pinying": "bīng záo",
+    "zhuying": "ㄅㄧㄥ ㄗㄠˊ"
+  },
+  {
+    "item": "美工刀",
+    "type": "不可燃",
+    "desc": "用紙等物品包裹後，並貼上「危險」字條。",
+    "pinying": "měigōng dāo",
+    "zhuying": "ㄇㄟˇ ㄍㄨㄥ ㄉㄠ"
+  },
+  {
+    "item": "剃刀",
+    "type": "不可燃",
+    "desc": "用紙等物品包裹後，並貼上「危險」字條。",
+    "pinying": "tìdāo",
+    "zhuying": "ㄊㄧˋ ㄉㄠ"
+  },
+  {
+    "item": "釘子",
+    "type": "不可燃",
+    "desc": "用紙等物品包裹後，並貼上「危險」字條。",
+    "pinying": "dīngzi",
+    "zhuying": "ㄉㄧㄥ ㄗˇ"
+  },
+  {
+    "item": "指南針（文具）",
+    "type": "不可燃",
+    "desc": "用紙等物品包裹後，並貼上「危險」字條。",
+    "pinying": "zhǐnánzhēn (wénjù)",
+    "zhuying": "ㄓˇ ㄋㄢˊ ㄓㄣ （ ㄨㄣˊ ㄐㄩˋ ）"
+  },
+  {
+    "item": "刀子",
+    "type": "不可燃",
+    "desc": "用紙等物品包裹後，並貼上「危險」字條。",
+    "pinying": "dāozi",
+    "zhuying": "ㄉㄠ ㄗˇ"
+  },
+  {
+    "item": "螺絲（金屬製）",
+    "type": "不可燃",
+    "desc": "用紙等物品包裹後，並貼上「危險」字條。",
+    "pinying": "luósī (jīnshǔ zhì)",
+    "zhuying": "ㄌㄨㄛˊ ㄙ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "鋸齒刀、鋸刀",
+    "type": "不可燃",
+    "desc": "用紙等物品包裹後，並貼上「危險」字條。",
+    "pinying": "jùchǐ dāo, jù dāo",
+    "zhuying": "ㄐㄩˋ ㄔˇ ㄉㄠ 、 ㄐㄩˋ ㄉㄠ"
+  },
+  {
+    "item": "剪刀",
+    "type": "不可燃",
+    "desc": "用紙等物品包裹後，並貼上「危險」字條。",
+    "pinying": "jiǎndāo",
+    "zhuying": "ㄐㄧㄢˇ ㄉㄠ"
+  },
+  {
+    "item": "釣魚用魚餌（金屬製）",
+    "type": "不可燃",
+    "desc": "用紙等物品包裹後，並貼上「危險」字條。",
+    "pinying": "diàoyú yòng yú'ěr (jīnshǔ zhì)",
+    "zhuying": "ㄉㄧㄠˋ ㄩˊ ㄩㄥˋ ㄩˊ ㄦˇ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "圖釘",
+    "type": "不可燃",
+    "desc": "用紙等物品包裹後，並貼上「危險」字條。",
+    "pinying": "túdīng",
+    "zhuying": "ㄊㄨˊ ㄉㄧㄥ"
+  },
+  {
+    "item": "鐮刀",
+    "type": "不可燃",
+    "desc": "用紙等物品包裹後，並貼上「危險」字條。",
+    "pinying": "liándāo",
+    "zhuying": "ㄌㄧㄢˊ ㄉㄠ"
+  },
+  {
+    "item": "針",
+    "type": "不可燃",
+    "desc": "用紙等物品包裹後，並貼上「危險」字條。",
+    "pinying": "zhēn",
+    "zhuying": "ㄓㄣ"
+  },
+  {
+    "item": "刀具",
+    "type": "不可燃",
+    "desc": "用紙等物品包裹後，並貼上「危險」字條。",
+    "pinying": "dāojù",
+    "zhuying": "ㄉㄠ ㄐㄩˋ"
+  },
+  {
+    "item": "魚鉤",
+    "type": "不可燃",
+    "desc": "用紙等物品包裹後，並貼上「危險」字條。",
+    "pinying": "yú gōu",
+    "zhuying": "ㄩˊ ㄍㄡ"
+  },
+  {
+    "item": "菜刀",
+    "type": "不可燃",
+    "desc": "用紙等物品包裹後，並貼上「危險」字條。",
+    "pinying": "càidāo",
+    "zhuying": "ㄘㄞˋ ㄉㄠ"
+  },
+  {
+    "item": "剪枝刀、園藝用剪刀",
+    "type": "不可燃",
+    "desc": "用紙等物品包裹後，並貼上「危險」字條。",
+    "pinying": "jiǎn zhī dāo, yuányì yòng jiǎndāo",
+    "zhuying": "ㄐㄧㄢˇ ㄓ ㄉㄠ 、 ㄩㄢˊ ㄧˋ ㄩㄥˋ ㄐㄧㄢˇ ㄉㄠ"
+  },
+  {
+    "item": "燈泡",
+    "type": "不可燃",
+    "desc": "日光燈、螢光燈除外。",
+    "pinying": "dēngpào",
+    "zhuying": "ㄉㄥ ㄆㄠˋ"
+  },
+  {
+    "item": "石油幫浦（電池式）",
+    "type": "不可燃",
+    "desc": "請取出電池。",
+    "pinying": "shíyóu bāng pǔ (diànchí shì)",
+    "zhuying": "ㄕˊ ㄧㄡˊ ㄅㄤ ㄆㄨˇ （ ㄉㄧㄢˋ ㄔˊ ㄕˋ ）"
+  },
+  {
+    "item": "公文箱（金屬製）",
+    "type": "不可燃",
+    "desc": "皮革製為可燃垃圾。",
+    "pinying": "gōngwénxiāng (jīnshǔ zhì)",
+    "zhuying": "ㄍㄨㄥ ㄨㄣˊ ㄒㄧㄤ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "換氣扇",
+    "type": "不可燃",
+    "desc": "僅限於家庭用的替換品。無法放置於45公升塑膠袋的為大型垃圾。",
+    "pinying": "huànqìshàn",
+    "zhuying": "ㄏㄨㄢˋ ㄑㄧˋ ㄕㄢˋ"
+  },
+  {
+    "item": "鏟子，園藝用小鏟子（金屬製）",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。無法放置於45公升塑膠袋的為大型垃圾。",
+    "pinying": "chǎnzi, yuányì yòng xiǎo chǎnzi (jīnshǔ zhì)",
+    "zhuying": "cㄏㄢˇ ㄗˇ ， ㄩㄢˊ ㄧˋ ㄩㄥˋ ㄒㄧㄠˇ cㄏㄢˇ ㄗˇ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "花盆",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。無法放置於45公升塑膠袋的為大型垃圾。",
+    "pinying": "huā pén",
+    "zhuying": "ㄏㄨㄚ ㄆㄣˊ"
+  },
+  {
+    "item": "種植支架，攀爬架",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。無法放置於45公升塑膠袋的為大型垃圾。",
+    "pinying": "zhòngzhí zhījià, pān pá jià",
+    "zhuying": "ㄓㄨㄥˇ ㄓˊ ㄓ ㄐㄧㄚˋ ， ㄆㄢ ㄆㄚˊ ㄐㄧㄚˋ"
+  },
+  {
+    "item": "磨泥器（金屬製）",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "mó ní qì (jīnshǔ zhì)",
+    "zhuying": "ㄇㄛˊ ㄋㄧˊ ㄑㄧˋ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "碗（陶器）",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "wǎn (táoqì)",
+    "zhuying": "ㄨㄢˇ （ ㄊㄠˊ ㄑㄧˋ ）"
+  },
+  {
+    "item": "湯勺（金屬製）",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "tāng sháo (jīnshǔ zhì)",
+    "zhuying": "ㄊㄤ ㄕㄠˊ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "瀝水籃（金屬製）",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "lìshuǐ lán (jīnshǔ zhì)",
+    "zhuying": "ㄌㄧˋ ㄕㄨㄟˇ ㄌㄢˊ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "太陽眼鏡（金屬框架，玻璃鏡片）",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "tàiyáng yǎnjìng (jīnshǔ kuàngjià, bōlí jìngpiàn)",
+    "zhuying": "ㄊㄞˋ ㄧㄤˊ ㄧㄢˇ ㄐㄧㄥˋ （ ㄐㄧㄣ ㄕㄨˇ ㄎㄨㄤˋ ㄐㄧㄚˋ ， ㄅㄛ ㄌㄧˊ ㄐㄧㄥˋ ㄆㄧㄢˋ ）"
+  },
+  {
+    "item": "工程用捲尺、文公尺、魯班尺",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "gōngchéng yòng juǎnchǐ, wéngōng chǐ, lǔbān chǐ",
+    "zhuying": "ㄍㄨㄥ cㄏㄥˊ ㄩㄥˋ ㄐㄩㄢˋ ㄔˇ 、 ㄨㄣˊ ㄍㄨㄥ ㄔˇ 、 ㄌㄨˇ ㄅㄢ ㄔˇ"
+  },
+  {
+    "item": "湯匙（金屬製）",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "tāngchí (jīnshǔ zhì)",
+    "zhuying": "ㄊㄤ ㄔˊ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "鍋子（陶器）",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "guōzi (táoqì)",
+    "zhuying": "ㄍㄨㄛ ㄗˇ （ ㄊㄠˊ ㄑㄧˋ ）"
+  },
+  {
+    "item": "獎盃",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "jiǎngbēi",
+    "zhuying": "ㄐㄧㄤˇ ㄅㄟ"
+  },
+  {
+    "item": "底片盒（金屬製）",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "dǐpiàn hé (jīnshǔ zhì)",
+    "zhuying": "ㄉㄧˇ ㄆㄧㄢˋ ㄏㄜˊ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "叉子",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "chāzi",
+    "zhuying": "cㄏㄚ ㄗˇ"
+  },
+  {
+    "item": "碗（金屬製）",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "wǎn (jīnshǔ zhì)",
+    "zhuying": "ㄨㄢˇ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "花瓶（陶器）",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "huāpíng (táoqì)",
+    "zhuying": "ㄏㄨㄚ ㄆㄧㄥˊ （ ㄊㄠˊ ㄑㄧˋ ）"
+  },
+  {
+    "item": "充氣幫浦、打氣機（自行車用）",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "chōngqì bāng pǔ, dǎqìjī (zìxíngchē yòng)",
+    "zhuying": "cㄏㄨㄥ ㄑㄧˋ ㄅㄤ ㄆㄨˇ 、 ㄉㄚˇ ㄑㄧˋ ㄐㄧ （ ㄗˋ ㄒㄧㄥˊ cㄏㄜ ㄩㄥˋ ）"
+  },
+  {
+    "item": "硯台",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "yàntai",
+    "zhuying": "ㄧㄢˋ ㄊㄞˊ"
+  },
+  {
+    "item": "鎖鏈（金屬製）",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "suǒliàn (jīnshǔ zhì)",
+    "zhuying": "ㄙㄨㄛˇ ㄌㄧㄢˋ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "餐具（玻璃、金屬、陶器製等）",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "cānjù (bōlí, jīnshǔ, táoqì zhì děng)",
+    "zhuying": "ㄘㄢ ㄐㄩˋ （ ㄅㄛ ㄌㄧˊ 、 ㄐㄧㄣ ㄕㄨˇ 、 ㄊㄠˊ ㄑㄧˋ ㄓˋ ㄉㄥˇ ）"
+  },
+  {
+    "item": "水壺、水平（金屬製）",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "shuǐhú, shuǐpíng (jīnshǔ zhì)",
+    "zhuying": "ㄕㄨㄟˇ ㄏㄨˊ 、 ㄕㄨㄟˇ ㄆㄧㄥˊ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "放大鏡",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "fàngdàjìng",
+    "zhuying": "ㄈㄤˋ ㄉㄚˋ ㄐㄧㄥˋ"
+  },
+  {
+    "item": "熱水瓶（金屬製）",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "rèshuǐpíng (jīnshǔ zhì)",
+    "zhuying": "ㄖㄜˋ ㄕㄨㄟˇ ㄆㄧㄥˊ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "食用油過濾器",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "shíyòng yóu guòlǜ qì",
+    "zhuying": "ㄕˊ ㄩㄥˋ ㄧㄡˊ ㄍㄨㄛˋ ㄌㄩ ㄑㄧˋ"
+  },
+  {
+    "item": "奶瓶（耐熱玻璃）",
+    "type": "不可燃",
+    "desc": "塑膠製為可燃垃圾。",
+    "pinying": "nǎipíng (nàirè bōlí)",
+    "zhuying": "ㄋㄞˇ ㄆㄧㄥˊ （ ㄋㄞˋ ㄖㄜˋ ㄅㄛ ㄌㄧˊ ）"
+  },
+  {
+    "item": "水桶（18公升）",
+    "type": "不可燃",
+    "desc": "塑膠製也視為不可燃垃圾。請將內部清空。",
+    "pinying": "shuǐtǒng (18 gōngshēng)",
+    "zhuying": "ㄕㄨㄟˇ ㄊㄨㄥˇ （ 18 ㄍㄨㄥ ㄕㄥ ）"
+  },
+  {
+    "item": "器皿（玻璃、金屬、陶器製）",
+    "type": "不可燃",
+    "desc": "木製、塑膠製為可燃垃圾。",
+    "pinying": "qìmǐn (bōlí, jīnshǔ, táoqì zhì)",
+    "zhuying": "ㄑㄧˋ ㄇㄧㄣˇ （ ㄅㄛ ㄌㄧˊ 、 ㄐㄧㄣ ㄕㄨˇ 、 ㄊㄠˊ ㄑㄧˋ ㄓˋ ）"
+  },
+  {
+    "item": "汽車音響（車內音響系統）",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於特定販售商店的小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "qìchē yīnxiǎng (chē nèi yīnxiǎng xìtǒng)",
+    "zhuying": "ㄑㄧˋ cㄏㄜ ㄧㄣ ㄒㄧㄤˇ （ cㄏㄜ ㄋㄟˋ ㄧㄣ ㄒㄧㄤˇ ㄒㄧˋ ㄊㄨㄥˇ ）"
+  },
+  {
+    "item": "放映機",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。無法放置於45公升塑膠袋為大型垃圾。",
+    "pinying": "fàngyìngjī",
+    "zhuying": "ㄈㄤˋ ㄧㄥˋ ㄐㄧ"
+  },
+  {
+    "item": "CD播放器、揚聲器",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "CD bòfàng qì, yángshēngqì",
+    "zhuying": "CD ㄅㄛ ㄈㄤˋ ㄑㄧˋ 、 ㄧㄤˊ ㄕㄥ ㄑㄧˋ"
+  },
+  {
+    "item": "DVD錄放影機，播放器",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "DVD lùfàng yǐng jī, bòfàng qì",
+    "zhuying": "DVD ㄌㄨˋ ㄈㄤˋ ㄧㄥˇ ㄐㄧ ， ㄅㄛ ㄈㄤˋ ㄑㄧˋ"
+  },
+  {
+    "item": "鐵",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "tiě",
+    "zhuying": "ㄊㄧㄝˇ"
+  },
+  {
+    "item": "盒式錄音機",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "héshì lùyīnjī",
+    "zhuying": "ㄏㄜˊ ㄕˋ ㄌㄨˋ ㄧㄣ ㄐㄧ"
+  },
+  {
+    "item": "遊戲機（家用、掌上型）",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "yóuxì jī (jiāyòng, zhǎngshàng xíng)",
+    "zhuying": "ㄧㄡˊ ㄒㄧˋ ㄐㄧ （ ㄐㄧㄚ ㄩㄥˋ 、 ㄓㄤˇ ㄕㄤˋ ㄒㄧㄥˊ ）"
+  },
+  {
+    "item": "咖啡機",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "kāfēi jī",
+    "zhuying": "ㄎㄚ ㄈㄟ ㄐㄧ"
+  },
+  {
+    "item": "食物調理機、果汁機（攪拌機）",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "shíwù tiáolǐ jī, guǒzhī jī (jiǎobànjī)",
+    "zhuying": "ㄕˊ ㄨˋ ㄉㄧㄠˋ ㄌㄧˇ ㄐㄧ 、 ㄍㄨㄛˇ ㄓ ㄐㄧ （ ㄐㄧㄠˇ ㄅㄢˋ ㄐㄧ ）"
+  },
+  {
+    "item": "掃瞄器",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "sǎo miáo qì",
+    "zhuying": "ㄙㄠˇ ㄇㄧㄠˊ ㄑㄧˋ"
+  },
+  {
+    "item": "烤麵包機，烤土司機",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "kǎo miànbāo jī, kǎo tǔ sījī",
+    "zhuying": "ㄎㄠˇ ㄇㄧㄢˋ ㄅㄠ ㄐㄧ ， ㄎㄠˇ ㄊㄨˇ ㄙ ㄐㄧ"
+  },
+  {
+    "item": "攝像機、攝影機（V8、DV等）",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "shèxiàngjī, shèyǐngjī (V8,DV děng)",
+    "zhuying": "ㄕㄜˋ ㄒㄧㄤˋ ㄐㄧ 、 ㄕㄜˋ ㄧㄥˇ ㄐㄧ （ V8 、 DV ㄉㄥˇ ）"
+  },
+  {
+    "item": "傳真（FAX)",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "chuánzhēn (FAX)",
+    "zhuying": "cㄏㄨㄢˊ ㄓㄣ （ FAX )"
+  },
+  {
+    "item": "被褥烘乾機、烘被機",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "bèirù hōng gān jī, hōng bèi jī",
+    "zhuying": "ㄅㄟˋ ㄖㄨˋ ㄏㄨㄥ ㄍㄢ ㄐㄧ 、 ㄏㄨㄥ ㄅㄟˋ ㄐㄧ"
+  },
+  {
+    "item": "影印機",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "yǐngyìn jī",
+    "zhuying": "ㄧㄥˇ ㄧㄣˋ ㄐㄧ"
+  },
+  {
+    "item": "隨身錄音機",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "suíshēn lùyīnjī",
+    "zhuying": "ㄙㄨㄟˊ ㄕㄣ ㄌㄨˋ ㄧㄣ ㄐㄧ"
+  },
+  {
+    "item": "手提音響",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "shǒutí yīnxiǎng",
+    "zhuying": "ㄕㄡˇ ㄊㄧˊ ㄧㄣ ㄒㄧㄤˇ"
+  },
+  {
+    "item": "無線電玩具",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "wúxiàndiàn wánjù",
+    "zhuying": "ㄨˊ ㄒㄧㄢˋ ㄉㄧㄢˋ ㄨㄢˊ ㄐㄩˋ"
+  },
+  {
+    "item": "鐳射光碟機",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "léishè guāngdié jī",
+    "zhuying": "ㄌㄟˊ ㄕㄜˋ ㄍㄨㄤ ㄉㄧㄝˊ ㄐㄧ"
+  },
+  {
+    "item": "電唱機、黑膠唱盤",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "diànchàngjī, hēi jiāo chàngpán",
+    "zhuying": "ㄉㄧㄢˋ cㄏㄤˋ ㄐㄧ 、 ㄏㄟ ㄐㄧㄠ cㄏㄤˋ ㄆㄢˊ"
+  },
+  {
+    "item": "打字機",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "dǎzìjī",
+    "zhuying": "ㄉㄚˇ ㄗˋ ㄐㄧ"
+  },
+  {
+    "item": "血壓計（電器產品）",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "xiěyā jì (diànqì chǎnpǐn)",
+    "zhuying": "ㄒㄩㄝˋ ㄧㄚ ㄐㄧˋ （ ㄉㄧㄢˋ ㄑㄧˋ cㄏㄢˇ ㄆㄧㄣˇ ）"
+  },
+  {
+    "item": "低周波治療器",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "dī zhōubō zhìliáo qì",
+    "zhuying": "ㄉㄧ ㄓㄡ ㄅㄛ ㄓˋ ㄌㄧㄠˊ ㄑㄧˋ"
+  },
+  {
+    "item": "腳爐（電器產品）",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "jiǎo lú (diànqì chǎnpǐn)",
+    "zhuying": "ㄐㄧㄠˇ ㄌㄨˊ （ ㄉㄧㄢˋ ㄑㄧˋ cㄏㄢˇ ㄆㄧㄣˇ ）"
+  },
+  {
+    "item": "檯燈（電器產品）",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "táidēng (diànqì chǎnpǐn)",
+    "zhuying": "ㄊㄞˊ ㄉㄥ （ ㄉㄧㄢˋ ㄑㄧˋ cㄏㄢˇ ㄆㄧㄣˇ ）"
+  },
+  {
+    "item": "電熱水壺",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "diànrè shuǐhú",
+    "zhuying": "ㄉㄧㄢˋ ㄖㄜˋ ㄕㄨㄟˇ ㄏㄨˊ"
+  },
+  {
+    "item": "電話（家用電話，無線電話等）",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。無法投入的情況視為不可燃垃圾。",
+    "pinying": "diànhuà (jiāyòng diànhuà, wúxiàn diànhuà děng)",
+    "zhuying": "ㄉㄧㄢˋ ㄏㄨㄚˋ （ ㄐㄧㄚ ㄩㄥˋ ㄉㄧㄢˋ ㄏㄨㄚˋ ， ㄨˊ ㄒㄧㄢˋ ㄉㄧㄢˋ ㄏㄨㄚˋ ㄉㄥˇ ）"
+  },
+  {
+    "item": "助聽器",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。取下電池並回收。",
+    "pinying": "zhùtīngqì",
+    "zhuying": "ㄓㄨˋ ㄊㄧㄥ ㄑㄧˋ"
+  },
+  {
+    "item": "手電筒",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。取下電池並回收。",
+    "pinying": "shǒudiàntǒng",
+    "zhuying": "ㄕㄡˇ ㄉㄧㄢˋ ㄊㄨㄥˇ"
+  },
+  {
+    "item": "USB、優盤",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "USB, yōupán",
+    "zhuying": "USB 、 ㄧㄡ ㄆㄢˊ"
+  },
+  {
+    "item": "AC轉接器，轉接頭",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "AC zhuǎn jiē qì, zhuǎn jiē tóu",
+    "zhuying": "AC ㄓㄨㄢˇ ㄐㄧㄝ ㄑㄧˋ ， ㄓㄨㄢˇ ㄐㄧㄝ ㄊㄡˊ"
+  },
+  {
+    "item": "相機",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "xiàngjī",
+    "zhuying": "ㄒㄧㄤ ㄐㄧ"
+  },
+  {
+    "item": "電腦鍵盤",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "diànnǎo jiànpán",
+    "zhuying": "ㄉㄧㄢˋ ㄋㄠˇ ㄐㄧㄢˋ ㄆㄢˊ"
+  },
+  {
+    "item": "刮鬍刀",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "guā hú dāo",
+    "zhuying": "ㄍㄨㄚ ㄏㄨˊ ㄉㄠ"
+  },
+  {
+    "item": "碼表",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "mǎ biǎo",
+    "zhuying": "ㄇㄚˇ ㄅㄧㄠˇ"
+  },
+  {
+    "item": "數位相機",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "shùwèi xiàngjī",
+    "zhuying": "ㄕㄨˋ ㄨㄟˋ ㄒㄧㄤ ㄐㄧ"
+  },
+  {
+    "item": "吹風機",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "chuīfēngjī",
+    "zhuying": "cㄏㄨㄟ ㄈㄥ ㄐㄧ"
+  },
+  {
+    "item": "對講機",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "duìjiǎngjī",
+    "zhuying": "ㄉㄨㄟˋ ㄐㄧㄤˇ ㄐㄧ"
+  },
+  {
+    "item": "耳機",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "ěrjī",
+    "zhuying": "ㄦˇ ㄐㄧ"
+  },
+  {
+    "item": "話筒",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "huàtǒng",
+    "zhuying": "ㄏㄨㄚˋ ㄊㄨㄥˇ"
+  },
+  {
+    "item": "記憶卡、閃存卡",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "jìyì kǎ, shǎncún kǎ",
+    "zhuying": "ㄐㄧˋ ㄧˋ ㄑㄧㄚˇ 、 ㄕㄢˇ ㄘㄨㄣˊ ㄑㄧㄚˇ"
+  },
+  {
+    "item": "\b\b收音機",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "?? Shōuyīnjī",
+    "zhuying": "\b \b ㄕㄡ ㄧㄣ ㄐㄧ"
+  },
+  {
+    "item": "遙控器",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "yáokòng qì",
+    "zhuying": "ㄧㄠˊ ㄎㄨㄥˋ ㄑㄧˋ"
+  },
+  {
+    "item": "延長線",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "yáncháng xiàn",
+    "zhuying": "ㄧㄢˊ cㄏㄤˊ ㄒㄧㄢˋ"
+  },
+  {
+    "item": "電蚊香",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "diàn wén xiāng",
+    "zhuying": "ㄉㄧㄢˋ ㄨㄣˊ ㄒㄧㄤ"
+  },
+  {
+    "item": "手機",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "shǒujī",
+    "zhuying": "ㄕㄡˇ ㄐㄧ"
+  },
+  {
+    "item": "溫度計（電子、電池式）",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "wēndùjì (diànzǐ, diànchí shì)",
+    "zhuying": "ㄨㄣ ㄉㄨˋ ㄐㄧˋ （ ㄉㄧㄢˋ ㄗˇ 、 ㄉㄧㄢˋ ㄔˊ ㄕˋ ）"
+  },
+  {
+    "item": "電捲棒",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "diàn juǎn bàng",
+    "zhuying": "ㄉㄧㄢˋ ㄐㄩㄢˋ ㄅㄤˋ"
+  },
+  {
+    "item": "電線",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "diànxiàn",
+    "zhuying": "ㄉㄧㄢˋ ㄒㄧㄢˋ"
+  },
+  {
+    "item": "電剪、電推剪",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "diàn jiǎn, diàn tuī jiǎn",
+    "zhuying": "ㄉㄧㄢˋ ㄐㄧㄢˇ 、 ㄉㄧㄢˋ ㄊㄨㄟ ㄐㄧㄢˇ"
+  },
+  {
+    "item": "計算機、計算器",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "jìsuànjī, jìsuàn qì",
+    "zhuying": "ㄐㄧˋ ㄙㄨㄢˋ ㄐㄧ 、 ㄐㄧˋ ㄙㄨㄢˋ ㄑㄧˋ"
+  },
+  {
+    "item": "電動工具",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "diàndòng gōngjù",
+    "zhuying": "ㄉㄧㄢˋ ㄉㄨㄥˋ ㄍㄨㄥ ㄐㄩˋ"
+  },
+  {
+    "item": "電動牙刷",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "diàndòng yáshuā",
+    "zhuying": "ㄉㄧㄢˋ ㄉㄨㄥˋ ㄧㄚˊ ㄕㄨㄚ"
+  },
+  {
+    "item": "計步器",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "jì bù qì",
+    "zhuying": "ㄐㄧˋ ㄅㄨˋ ㄑㄧˋ"
+  },
+  {
+    "item": "無限收音機",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "wúxiàn shōuyīnjī",
+    "zhuying": "ㄨˊ ㄒㄧㄢˋ ㄕㄡ ㄧㄣ ㄐㄧ"
+  },
+  {
+    "item": "鬧鐘",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "nàozhōng",
+    "zhuying": "ㄋㄠˋ ㄓㄨㄥ"
+  },
+  {
+    "item": "手錶",
+    "type": "不可燃",
+    "desc": "如果可以，請投置於小型家電回收箱。",
+    "pinying": "shǒubiǎo",
+    "zhuying": "ㄕㄡˇ ㄅㄧㄠˇ"
+  },
+  {
+    "item": "錘子、榔頭",
+    "type": "不可燃",
+    "desc": "橡膠製為可燃垃圾。無法放置於45公升塑膠袋的視為大型垃圾。",
+    "pinying": "chuízi, lángtou",
+    "zhuying": "cㄏㄨㄟˊ ㄗˇ 、 ㄌㄤˊ ㄊㄡˊ"
+  },
+  {
+    "item": "防滑鏈（輪胎）",
+    "type": "不可燃",
+    "desc": "橡膠製為可燃垃圾。",
+    "pinying": "fánghuá liàn (lúntāi)",
+    "zhuying": "ㄈㄤˊ ㄏㄨㄚˊ ㄌㄧㄢˋ （ ㄌㄨㄣˊ ㄊㄞ ）"
+  },
+  {
+    "item": "炭火爐、木炭爐",
+    "type": "不可燃",
+    "desc": "無法放置於45公升塑膠袋的視為大型垃圾。",
+    "pinying": "tànhuǒ lú, mùtàn lú",
+    "zhuying": "ㄊㄢˋ ㄏㄨㄛˇ ㄌㄨˊ 、 ㄇㄨˋ ㄊㄢˋ ㄌㄨˊ"
+  },
+  {
+    "item": "千斤頂、起重器（手動、液壓式）",
+    "type": "不可燃",
+    "desc": "無法放置於45公升塑膠袋的視為大型垃圾。",
+    "pinying": "qiānjīndǐng, qǐ zhòng qì (shǒudòng, yèyā shì)",
+    "zhuying": "ㄑㄧㄢ ㄐㄧㄣ ㄉㄧㄥˇ 、 ㄑㄧˇ ㄓㄨㄥˋ ㄑㄧˋ （ ㄕㄡˇ ㄉㄨㄥˋ 、 ㄧㄝˋ ㄧㄚ ㄕˋ ）"
+  },
+  {
+    "item": "加濕器、加濕機",
+    "type": "不可燃",
+    "desc": "無法放置於45公升塑膠袋的視為大型垃圾。",
+    "pinying": "jiā shī qì, jiā shī jī",
+    "zhuying": "ㄐㄧㄚ ㄕ ㄑㄧˋ 、 ㄐㄧㄚ ㄕ ㄐㄧ"
+  },
+  {
+    "item": "鏡子（如隨身鏡）",
+    "type": "不可燃",
+    "desc": "無法放置於45公升塑膠袋的視為大型垃圾。",
+    "pinying": "jìngzi (rú suíshēn jìng)",
+    "zhuying": "ㄐㄧㄥˋ ㄗˇ （ ㄖㄨˊ ㄙㄨㄟˊ ㄕㄣ ㄐㄧㄥˋ ）"
+  },
+  {
+    "item": "照明器具",
+    "type": "不可燃",
+    "desc": "無法放置於45公升塑膠袋的視為大型垃圾。",
+    "pinying": "zhàomíng qìjù",
+    "zhuying": "ㄓㄠˋ ㄇㄧㄥˊ ㄑㄧˋ ㄐㄩˋ"
+  },
+  {
+    "item": "鳥籠",
+    "type": "不可燃",
+    "desc": "無法放置於45公升塑膠袋的視為大型垃圾。",
+    "pinying": "niǎo lóng",
+    "zhuying": "ㄋㄧㄠˇ ㄌㄨㄥˊ"
+  },
+  {
+    "item": "電暖爐",
+    "type": "不可燃",
+    "desc": "無法放置於45公升塑膠袋的視為大型垃圾。",
+    "pinying": "diàn nuǎn lú",
+    "zhuying": "ㄉㄧㄢˋ ㄋㄨㄢˇ ㄌㄨˊ"
+  },
+  {
+    "item": "LED燈泡",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "LED dēngpào",
+    "zhuying": "LED ㄉㄥ ㄆㄠˋ"
+  },
+  {
+    "item": "鋁箔紙、錫箔紙（烹調用）、鋁箔盤",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "lǚbó zhǐ, xíbó zhǐ (pēngtiáo yòng), lǚbó pán",
+    "zhuying": "ㄌㄩˇ ㄅㄛˊ ㄓˇ 、 ㄒㄧ ㄅㄛˊ ㄓˇ （ ㄆㄥ ㄉㄧㄠˋ ㄩㄥˋ ） 、 ㄌㄩˇ ㄅㄛˊ ㄆㄢˊ"
+  },
+  {
+    "item": "小型烤箱",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "xiǎoxíng kǎoxiāng",
+    "zhuying": "ㄒㄧㄠˇ ㄒㄧㄥˊ ㄎㄠˇ ㄒㄧㄤ"
+  },
+  {
+    "item": "可撕式黏塵紙",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "kě sī shì nián chénzhǐ",
+    "zhuying": "ㄎㄜˇ ㄙ ㄕˋ ㄋㄧㄢˊ cㄏㄣˊ ㄓˇ"
+  },
+  {
+    "item": "休閒爐、卡式爐，小型瓦斯爐",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "xiūxián lú, kǎ shì lú, xiǎoxíng wǎsī lú",
+    "zhuying": "ㄒㄧㄡ ㄒㄧㄢˊ ㄌㄨˊ 、 ㄑㄧㄚˇ ㄕˋ ㄌㄨˊ ， ㄒㄧㄠˇ ㄒㄧㄥˊ ㄨㄚˇ ㄙ ㄌㄨˊ"
+  },
+  {
+    "item": "玻璃製品",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "bōlí zhìpǐn",
+    "zhuying": "ㄅㄛ ㄌㄧˊ ㄓˋ ㄆㄧㄣˇ"
+  },
+  {
+    "item": "鑰匙鏈、鑰匙圈",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "yàoshi liàn, yàoshi quān",
+    "zhuying": "ㄩㄝˋ ㄔˊ ㄌㄧㄢˋ 、 ㄩㄝˋ ㄔˊ ㄑㄩㄢ"
+  },
+  {
+    "item": "瓶蓋（金屬製）",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "píng gài (jīnshǔ zhì)",
+    "zhuying": "ㄆㄧㄥˊ ㄍㄞˋ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "迴紋針",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "huí wén zhēn",
+    "zhuying": "ㄏㄨㄟˊ ㄨㄣˊ ㄓㄣ"
+  },
+  {
+    "item": "粉餅盒",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "fěnbǐng hé",
+    "zhuying": "ㄈㄣˇ ㄅㄧㄥˇ ㄏㄜˊ"
+  },
+  {
+    "item": "冰刀鞋、滑冰鞋",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "bīngdāo xié, huábīng xié",
+    "zhuying": "ㄅㄧㄥ ㄉㄠ ㄒㄧㄝˊ 、 ㄏㄨㄚˊ ㄅㄧㄥ ㄒㄧㄝˊ"
+  },
+  {
+    "item": "板手",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "bǎn shǒu",
+    "zhuying": "ㄅㄢˇ ㄕㄡˇ"
+  },
+  {
+    "item": "透明膠帶台",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "tòumíng jiāo dài tái",
+    "zhuying": "ㄊㄡˋ ㄇㄧㄥˊ ㄐㄧㄠ ㄉㄞˋ ㄊㄞˊ"
+  },
+  {
+    "item": "打字機",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "dǎzìjī",
+    "zhuying": "ㄉㄚˇ ㄗˋ ㄐㄧ"
+  },
+  {
+    "item": "網球拍",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "wǎng qiúpāi",
+    "zhuying": "ㄨㄤˇ ㄑㄧㄡˊ ㄆㄞ"
+  },
+  {
+    "item": "項鍊",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "xiàngliàn",
+    "zhuying": "ㄒㄧㄤˋ ㄌㄧㄢˋ"
+  },
+  {
+    "item": "口琴",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "kǒuqín",
+    "zhuying": "ㄎㄡˇ ㄑㄧㄣˊ"
+  },
+  {
+    "item": "羽球拍、羽毛球拍",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "yǔqiú pāi, yǔmáoqiú pāi",
+    "zhuying": "ㄩˇ ㄑㄧㄡˊ ㄆㄞ 、 ㄩˇ ㄇㄠˊ ㄑㄧㄡˊ ㄆㄞ"
+  },
+  {
+    "item": "口風琴",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "kǒu fēngqín",
+    "zhuying": "ㄎㄡˇ ㄈㄥ ㄑㄧㄣˊ"
+  },
+  {
+    "item": "玻璃球、彈珠",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "bōlí qiú, dàn zhū",
+    "zhuying": "ㄅㄛ ㄌㄧˊ ㄑㄧㄡˊ 、 ㄉㄢˋ ㄓㄨ"
+  },
+  {
+    "item": "煎鍋、平底鍋",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "jiān guō, píngdǐ guō",
+    "zhuying": "ㄐㄧㄢ ㄍㄨㄛ 、 ㄆㄧㄥˊ ㄉㄧˇ ㄍㄨㄛ"
+  },
+  {
+    "item": "髮夾",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "fà jiā",
+    "zhuying": "ㄈㄚ ㄐㄧㄚ"
+  },
+  {
+    "item": "安全帽（包含全罩式）",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "ānquán mào (bāohán quán zhào shì)",
+    "zhuying": "ㄢ ㄑㄩㄢˊ ㄇㄠˋ （ ㄅㄠ ㄏㄢˊ ㄑㄩㄢˊ ㄓㄠˋ ㄕˋ ）"
+  },
+  {
+    "item": "鉗子",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "qiánzi",
+    "zhuying": "ㄑㄧㄢˊ ㄗˇ"
+  },
+  {
+    "item": "釘書機",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "dìng shū jī",
+    "zhuying": "ㄉㄧㄥ ㄕㄨ ㄐㄧ"
+  },
+  {
+    "item": "鍋子",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "guōzi",
+    "zhuying": "ㄍㄨㄛ ㄗˇ"
+  },
+  {
+    "item": "烤盤",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "kǎo pán",
+    "zhuying": "ㄎㄠˇ ㄆㄢˊ"
+  },
+  {
+    "item": "螺絲、螺帽",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "luósī, luó mào",
+    "zhuying": "ㄌㄨㄛˊ ㄙ 、 ㄌㄨㄛˊ ㄇㄠˋ"
+  },
+  {
+    "item": "磁鐵",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "cítiě",
+    "zhuying": "ㄘˊ ㄊㄧㄝˇ"
+  },
+  {
+    "item": "微型車、玩具車",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "wéixíng chē, wánjù chē",
+    "zhuying": "ㄨㄟ ㄒㄧㄥˊ cㄏㄜ 、 ㄨㄢˊ ㄐㄩˋ cㄏㄜ"
+  },
+  {
+    "item": "眼鏡、老花眼鏡",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "yǎnjìng, lǎohuāyǎn jìng",
+    "zhuying": "ㄧㄢˇ ㄐㄧㄥˋ 、 ㄌㄠˇ ㄏㄨㄚ ㄧㄢˇ ㄐㄧㄥˋ"
+  },
+  {
+    "item": "捲尺、皮尺",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "juǎnchǐ, píchǐ",
+    "zhuying": "ㄐㄩㄢˋ ㄔˇ 、 ㄆㄧˊ ㄔˇ"
+  },
+  {
+    "item": "水壺、鐵壺",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "shuǐhú, tiě hú",
+    "zhuying": "ㄕㄨㄟˇ ㄏㄨˊ 、 ㄊㄧㄝˇ ㄏㄨˊ"
+  },
+  {
+    "item": "銼刀（金屬製）",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "cuòdāo (jīnshǔ zhì)",
+    "zhuying": "ㄘㄨㄛˋ ㄉㄠ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "保溫罐（保溫型便當盒）",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "bǎowēn guàn (bǎowēn xíng biàndang hé)",
+    "zhuying": "ㄅㄠˇ ㄨㄣ ㄍㄨㄢˋ （ ㄅㄠˇ ㄨㄣ ㄒㄧㄥˊ ㄅㄧㄢˋ ㄉㄤ ㄏㄜˊ ）"
+  },
+  {
+    "item": "燈",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "dēng",
+    "zhuying": "ㄉㄥ"
+  },
+  {
+    "item": "捲盤（釣具）",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "juǎn pán (diàojù)",
+    "zhuying": "ㄐㄩㄢˋ ㄆㄢˊ （ ㄉㄧㄠˋ ㄐㄩˋ ）"
+  },
+  {
+    "item": "放大鏡",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "fàngdàjìng",
+    "zhuying": "ㄈㄤˋ ㄉㄚˋ ㄐㄧㄥˋ"
+  },
+  {
+    "item": "防噴濺鍋邊護板",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "fáng pēn jiàn guō biān hù bǎn",
+    "zhuying": "ㄈㄤˊ ㄆㄣ ㄐㄧㄢˋ ㄍㄨㄛ ㄅㄧㄢ ㄏㄨˋ ㄅㄢˇ"
+  },
+  {
+    "item": "溜冰鞋，直排輪",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "liūbīng xié, zhí pái lún",
+    "zhuying": "ㄌㄧㄡ ㄅㄧㄥ ㄒㄧㄝˊ ， ㄓˊ ㄆㄞˊ ㄌㄨㄣˊ"
+  },
+  {
+    "item": "髮蠟罐",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "fàlà guàn",
+    "zhuying": "ㄈㄚ ㄌㄚˋ ㄍㄨㄢˋ"
+  },
+  {
+    "item": "安全別針",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "ānquán biézhēn",
+    "zhuying": "ㄢ ㄑㄩㄢˊ ㄅㄧㄝˊ ㄓㄣ"
+  },
+  {
+    "item": "工程靴（含鐵板）",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "gōngchéng xuē (hán tiě bǎn)",
+    "zhuying": "ㄍㄨㄥ cㄏㄥˊ ㄒㄩㄝ （ ㄏㄢˊ ㄊㄧㄝˇ ㄅㄢˇ ）"
+  },
+  {
+    "item": "獨輪車（運動用）",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "dúlúnchē (yùndòng yòng)",
+    "zhuying": "ㄉㄨˊ ㄌㄨㄣˊ cㄏㄜ （ ㄩㄣˋ ㄉㄨㄥˋ ㄩㄥˋ ）"
+  },
+  {
+    "item": "溫度計",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "wēndùjì",
+    "zhuying": "ㄨㄣ ㄉㄨˋ ㄐㄧˋ"
+  },
+  {
+    "item": "家用小型金庫（手提）",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "jiāyòng xiǎoxíng jīnkù (shǒutí)",
+    "zhuying": "ㄐㄧㄚ ㄩㄥˋ ㄒㄧㄠˇ ㄒㄧㄥˊ ㄐㄧㄣ ㄎㄨˋ （ ㄕㄡˇ ㄊㄧˊ ）"
+  },
+  {
+    "item": "劍道護具（竹刀除外）",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "jiàndào hù jù (zhúdāo chúwài)",
+    "zhuying": "ㄐㄧㄢˋ ㄉㄠˋ ㄏㄨˋ ㄐㄩˋ （ ㄓㄨˊ ㄉㄠ cㄏㄨˊ ㄨㄞˋ ）"
+  },
+  {
+    "item": "圍棋子",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "wéiqí zǐ",
+    "zhuying": "ㄨㄟˊ ㄑㄧˊ ㄗˇ"
+  },
+  {
+    "item": "三腳架",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "sānjiǎojià",
+    "zhuying": "ㄙㄢ ㄐㄧㄠˇ ㄐㄧㄚˋ"
+  },
+  {
+    "item": "傘、折疊傘",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "sǎn, zhédié sǎn",
+    "zhuying": "ㄙㄢˇ 、 ㄓㄜ ㄉㄧㄝˊ ㄙㄢˇ"
+  },
+  {
+    "item": "磁鐵、磁石",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "cítiě, císhí",
+    "zhuying": "ㄘˊ ㄊㄧㄝˇ 、 ㄘˊ ㄕˊ"
+  },
+  {
+    "item": "拐杖（金屬製、木製、塑膠製）",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "guǎizhàng (jīnshǔ zhì, mùzhì, sùjiāo zhì)",
+    "zhuying": "ㄍㄨㄞˇ ㄓㄤˋ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ 、 ㄇㄨˋ ㄓˋ 、 ㄙㄨˋ ㄐㄧㄠ ㄓˋ ）"
+  },
+  {
+    "item": "淨水器",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "jìng shuǐ qì",
+    "zhuying": "ㄐㄧㄥˋ ㄕㄨㄟˇ ㄑㄧˋ"
+  },
+  {
+    "item": "金屬線（鋁線、鋼絲、鐵絲、銅線）",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "jīnshǔ xiàn (lǚ xiàn, gāngsī, tiěsī, tóng xiàn)",
+    "zhuying": "ㄐㄧㄣ ㄕㄨˇ ㄒㄧㄢˋ （ ㄌㄩˇ ㄒㄧㄢˋ 、 ㄍㄤ ㄙ 、 ㄊㄧㄝˇ ㄙ 、 ㄊㄨㄥˊ ㄒㄧㄢˋ ）"
+  },
+  {
+    "item": "電鍋、電飯煲",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "diàn guō, diànfànbāo",
+    "zhuying": "ㄉㄧㄢˋ ㄍㄨㄛ 、 ㄉㄧㄢˋ ㄈㄢˋ ㄅㄠ"
+  },
+  {
+    "item": "耐熱玻璃（鍋、碗、奶瓶等）",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "nàirè bōlí (guō, wǎn, nǎipíng děng)",
+    "zhuying": "ㄋㄞˋ ㄖㄜˋ ㄅㄛ ㄌㄧˊ （ ㄍㄨㄛ 、 ㄨㄢˇ 、 ㄋㄞˇ ㄆㄧㄥˊ ㄉㄥˇ ）"
+  },
+  {
+    "item": "飯碗（陶器）",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "fànwǎn (táoqì)",
+    "zhuying": "ㄈㄢˋ ㄨㄢˇ （ ㄊㄠˊ ㄑㄧˋ ）"
+  },
+  {
+    "item": "炒鍋",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "chǎo guō",
+    "zhuying": "cㄏㄠˇ ㄍㄨㄛ"
+  },
+  {
+    "item": "鑄鐵鍋、法瑯鍋",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "zhùtiě guō, fǎ láng guō",
+    "zhuying": "ㄓㄨˋ ㄊㄧㄝˇ ㄍㄨㄛ 、 ㄈㄚˇ 瑯 ㄍㄨㄛ"
+  },
+  {
+    "item": "指甲剪、指甲鉗",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "zhǐjiǎ jiǎn, zhǐjiǎ qián",
+    "zhuying": "ㄓˇ ㄐㄧㄚˇ ㄐㄧㄢˇ 、 ㄓˇ ㄐㄧㄚˇ ㄑㄧㄢˊ"
+  },
+  {
+    "item": "啞鈴（鐵製）",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "yǎlíng (tiě zhì)",
+    "zhuying": "ㄧㄚˇ ㄌㄧㄥˊ （ ㄊㄧㄝˇ ㄓˋ ）"
+  },
+  {
+    "item": "天婦羅防噴護板",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "tiān fù luó fáng pēn hù bǎn",
+    "zhuying": "ㄊㄧㄢ ㄈㄨˋ ㄌㄨㄛˊ ㄈㄤˊ ㄆㄣ ㄏㄨˋ ㄅㄢˇ"
+  },
+  {
+    "item": "磨刀石",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "mó dāo shí",
+    "zhuying": "ㄇㄛˊ ㄉㄠ ㄕˊ"
+  },
+  {
+    "item": "陶器類",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "táoqì lèi",
+    "zhuying": "ㄊㄠˊ ㄑㄧˋ ㄌㄟˋ"
+  },
+  {
+    "item": "鍋子",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "guōzi",
+    "zhuying": "ㄍㄨㄛ ㄗˇ"
+  },
+  {
+    "item": "鋁製飯盒",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "lǚ zhì fànhé",
+    "zhuying": "ㄌㄩˇ ㄓˋ ㄈㄢˋ ㄏㄜˊ"
+  },
+  {
+    "item": "風鈴",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "fēnglíng",
+    "zhuying": "ㄈㄥ ㄌㄧㄥˊ"
+  },
+  {
+    "item": "文鎮、鎮紙（鐵製）",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "wénzhèn, zhènzhǐ (tiě zhì)",
+    "zhuying": "ㄨㄣˊ ㄓㄣˋ 、 ㄓㄣˋ ㄓˇ （ ㄊㄧㄝˇ ㄓˋ ）"
+  },
+  {
+    "item": "磨刀器具",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "mó dāo qìjù",
+    "zhuying": "ㄇㄛˊ ㄉㄠ ㄑㄧˋ ㄐㄩˋ"
+  },
+  {
+    "item": "打蛋器、攪拌棒",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "dǎ dàn qì, jiǎobàn bàng",
+    "zhuying": "ㄉㄚˇ ㄉㄢˋ ㄑㄧˋ 、 ㄐㄧㄠˇ ㄅㄢˋ ㄅㄤˋ"
+  },
+  {
+    "item": "鋼筆",
+    "type": "不可燃",
+    "desc": "",
+    "pinying": "gāngbǐ",
+    "zhuying": "ㄍㄤ ㄅㄧˇ"
+  },
+  {
+    "item": "紗窗、紗門",
+    "type": "大型垃圾",
+    "desc": "只有網子時為可燃垃圾。",
+    "pinying": "shāchuāng, shā mén",
+    "zhuying": "ㄕㄚ cㄏㄨㄤ 、 ㄕㄚ ㄇㄣˊ"
+  },
+  {
+    "item": "立體音響（組合）",
+    "type": "大型垃圾",
+    "desc": "伴隨揚聲器的組合一套視為一件回收物。無法放置於45公升塑膠袋視為不可燃垃圾。",
+    "pinying": "lìtǐ yīnxiǎng (zǔhé)",
+    "zhuying": "ㄌㄧˋ ㄊㄧˇ ㄧㄣ ㄒㄧㄤˇ （ ㄗㄨˇ ㄏㄜˊ ）"
+  },
+  {
+    "item": "煤油暖爐",
+    "type": "大型垃圾",
+    "desc": "請將剩餘的燃料排除。無法放置於45公升塑膠袋視為不可燃垃圾。",
+    "pinying": "méiyóu nuǎn lú",
+    "zhuying": "ㄇㄟˊ ㄧㄡˊ ㄋㄨㄢˇ ㄌㄨˊ"
+  },
+  {
+    "item": "縫紉機、裁縫機",
+    "type": "大型垃圾",
+    "desc": "如果可以，請投置於小型家電回收箱。無法放置於45公升塑膠袋為不可燃垃圾。",
+    "pinying": "féngrènjī, cáiféng jī",
+    "zhuying": "ㄈㄥˊ ㄖㄣˋ ㄐㄧ 、 ㄘㄞˊ ㄈㄥˊ ㄐㄧ"
+  },
+  {
+    "item": "電子琴（樂器）",
+    "type": "大型垃圾",
+    "desc": "如果可以，請投置於小型家電回收箱。無法放置於45公升塑膠袋為不可燃垃圾。",
+    "pinying": "diànzǐqín (yuèqì)",
+    "zhuying": "ㄉㄧㄢˋ ㄗˇ ㄑㄧㄣˊ （ ㄌㄜˋ ㄑㄧˋ ）"
+  },
+  {
+    "item": "暖桌",
+    "type": "大型垃圾",
+    "desc": "桌腳包含桌面的組合視為一件回收物。",
+    "pinying": "nuǎn zhuō",
+    "zhuying": "ㄋㄨㄢˇ ㄓㄨㄛ"
+  },
+  {
+    "item": "PVC塑膠管",
+    "type": "大型垃圾",
+    "desc": "50cm以下長度視為可燃垃圾。",
+    "pinying": "PVC sùjiāo guǎn",
+    "zhuying": "PVC ㄙㄨˋ ㄐㄧㄠ ㄍㄨㄢˇ"
+  },
+  {
+    "item": "地電、地毯",
+    "type": "大型垃圾",
+    "desc": "請捲成筒狀並確實綑綁。寬50cm以下視為可燃垃圾。",
+    "pinying": "dì diàn, dìtǎn",
+    "zhuying": "ㄉㄧˋ ㄉㄧㄢˋ 、 ㄉㄧˋ ㄊㄢˇ"
+  },
+  {
+    "item": "遮陽簾（竹製）",
+    "type": "大型垃圾",
+    "desc": "請捲成筒狀並確實綑綁。可放置於45公升塑膠袋內視為可燃垃圾。",
+    "pinying": "zhēyáng lián (zhú zhì)",
+    "zhuying": "ㄓㄜ ㄧㄤˊ ㄌㄧㄢˊ （ ㄓㄨˊ ㄓˋ ）"
+  },
+  {
+    "item": "地電、地毯",
+    "type": "大型垃圾",
+    "desc": "請捲成筒狀並確實綑綁。長寬50cm以下視為可燃垃圾。",
+    "pinying": "dì diàn, dìtǎn",
+    "zhuying": "ㄉㄧˋ ㄉㄧㄢˋ 、 ㄉㄧˋ ㄊㄢˇ"
+  },
+  {
+    "item": "遮陽簾（人造纖維製）",
+    "type": "大型垃圾",
+    "desc": "請捲成筒狀並確實綑綁。",
+    "pinying": "zhēyáng lián (rén zào xiānwéi zhì)",
+    "zhuying": "ㄓㄜ ㄧㄤˊ ㄌㄧㄢˊ （ ㄖㄣˊ ㄗㄠˋ ㄒㄧㄢ ㄨㄟˊ ㄓˋ ）"
+  },
+  {
+    "item": "煤油暖爐",
+    "type": "大型垃圾",
+    "desc": "請取下電池，並排除剩餘燃料。可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "méiyóu nuǎn lú",
+    "zhuying": "ㄇㄟˊ ㄧㄡˊ ㄋㄨㄢˇ ㄌㄨˊ"
+  },
+  {
+    "item": "曬衣架（含水泥底座）",
+    "type": "大型垃圾",
+    "desc": "一般家庭用的曬衣架混凝土底座限制為兩個（一組）。",
+    "pinying": "shài yījià (hán shuǐní dǐzuò)",
+    "zhuying": "ㄕㄞˋ ㄧ ㄐㄧㄚˋ （ ㄏㄢˊ ㄕㄨㄟˇ ㄋㄧˊ ㄉㄧˇ ㄗㄨㄛˋ ）"
+  },
+  {
+    "item": "可收式水管、水管車",
+    "type": "大型垃圾",
+    "desc": "不含水管車架的水管，視為塑膠製可燃垃圾。金屬製為不可燃垃圾。",
+    "pinying": "kě shōu shì shuǐguǎn, shuǐguǎn chē",
+    "zhuying": "ㄎㄜˇ ㄕㄡ ㄕˋ ㄕㄨㄟˇ ㄍㄨㄢˇ 、 ㄕㄨㄟˇ ㄍㄨㄢˇ cㄏㄜ"
+  },
+  {
+    "item": "草蓆",
+    "type": "大型垃圾",
+    "desc": "請確實綑綁。長寬50cm以下視為可燃垃圾。",
+    "pinying": "cǎo xí",
+    "zhuying": "ㄘㄠˇ ㄍㄠˋ"
+  },
+  {
+    "item": "\b墊子（覆蓋於榻榻米上：蘭草）",
+    "type": "大型垃圾",
+    "desc": "請確實綑綁。長寬50cm以下視為可燃垃圾。",
+    "pinying": "? Diànzi (fùgài yú tàtàmǐ shàng: Láncǎo)",
+    "zhuying": "\b ㄉㄧㄢˋ ㄗˇ （ ㄈㄨˋ ㄎㄜˋ ㄩˊ ㄊㄚˋ ㄊㄚˋ ㄇㄧˇ ㄕㄤˋ ： ㄌㄢˊ ㄘㄠˇ ）"
+  },
+  {
+    "item": "毯子",
+    "type": "大型垃圾",
+    "desc": "請確實綑綁。裁減至50cm以下並可放置於45公升塑膠袋內視為可燃垃圾。",
+    "pinying": "tǎnzi",
+    "zhuying": "ㄊㄢˇ ㄗˇ"
+  },
+  {
+    "item": "暖桌被",
+    "type": "大型垃圾",
+    "desc": "請確實綑綁。",
+    "pinying": "nuǎn zhuō bèi",
+    "zhuying": "ㄋㄨㄢˇ ㄓㄨㄛ ㄅㄟˋ"
+  },
+  {
+    "item": "帳篷（家庭用）",
+    "type": "大型垃圾",
+    "desc": "請確實綑綁。",
+    "pinying": "zhàngpéng (jiātíng yòng)",
+    "zhuying": "ㄓㄤˋ ㄆㄥˊ （ ㄐㄧㄚ ㄊㄧㄥˊ ㄩㄥˋ ）"
+  },
+  {
+    "item": "被褥、棉被",
+    "type": "大型垃圾",
+    "desc": "請確實綑綁。",
+    "pinying": "bèirù, mián bèi",
+    "zhuying": "ㄅㄟˋ ㄖㄨˋ 、 ㄇㄧㄢˊ ㄅㄟˋ"
+  },
+  {
+    "item": "羽絨被",
+    "type": "大型垃圾",
+    "desc": "請確實綑綁。",
+    "pinying": "yǔróng bèi",
+    "zhuying": "ㄩˇ ㄖㄨㄥˊ ㄅㄟˋ"
+  },
+  {
+    "item": "電熱毯",
+    "type": "大型垃圾",
+    "desc": "請確實綑綁。",
+    "pinying": "diànrè tǎn",
+    "zhuying": "ㄉㄧㄢˋ ㄖㄜˋ ㄊㄢˇ"
+  },
+  {
+    "item": "親膚被褥、被子",
+    "type": "大型垃圾",
+    "desc": "請確實綑綁。",
+    "pinying": "qīn fū bèirù, bèizi",
+    "zhuying": "ㄑㄧㄣ ㄈㄨ ㄅㄟˋ ㄖㄨˋ 、 ㄅㄟˋ ㄗˇ"
+  },
+  {
+    "item": "影印機（家庭用）",
+    "type": "大型垃圾",
+    "desc": "請將油墨、墨水盒等拔除。",
+    "pinying": "yǐngyìn jī (jiātíng yòng)",
+    "zhuying": "ㄧㄥˇ ㄧㄣˋ ㄐㄧ （ ㄐㄧㄚ ㄊㄧㄥˊ ㄩㄥˋ ）"
+  },
+  {
+    "item": "榻榻米、拼接榻榻米",
+    "type": "大型垃圾",
+    "desc": "自主搬入清潔中心回收的情況下，一次限制十張。",
+    "pinying": "tàtàmǐ, pīnjiē tàtàmǐ",
+    "zhuying": "ㄊㄚˋ ㄊㄚˋ ㄇㄧˇ 、 ㄆㄧㄣ ㄐㄧㄝ ㄊㄚˋ ㄊㄚˋ ㄇㄧˇ"
+  },
+  {
+    "item": "自行車、腳踏車",
+    "type": "大型垃圾",
+    "desc": "電動自行車請將電池拔除，電池部分請洽詢經銷商。",
+    "pinying": "zìxíngchē, jiǎotàchē",
+    "zhuying": "ㄗˋ ㄒㄧㄥˊ cㄏㄜ 、 ㄐㄧㄠˇ ㄊㄚˋ cㄏㄜ"
+  },
+  {
+    "item": "浴缸保溫蓋",
+    "type": "大型垃圾",
+    "desc": "長寬50cm以下視為可燃垃圾。",
+    "pinying": "yùgāng bǎowēn gài",
+    "zhuying": "ㄩˋ ㄍㄤ ㄅㄠˇ ㄨㄣ ㄍㄞˋ"
+  },
+  {
+    "item": "抱枕、懶骨頭",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為可燃垃圾。",
+    "pinying": "bàozhěn, lǎn gú tóu",
+    "zhuying": "ㄅㄠˋ ㄓㄣˇ 、 ㄌㄢˇ ㄍㄨˇ ㄊㄡˊ"
+  },
+  {
+    "item": "填充物品",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為可燃垃圾。",
+    "pinying": "tiánchōng wùpǐn",
+    "zhuying": "ㄊㄧㄢˊ cㄏㄨㄥ ㄨˋ ㄆㄧㄣˇ"
+  },
+  {
+    "item": "塑膠桶",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為可燃垃圾。",
+    "pinying": "sùjiāo tǒng",
+    "zhuying": "ㄙㄨˋ ㄐㄧㄠ ㄊㄨㄥˇ"
+  },
+  {
+    "item": "醬菜桶，醃菜桶",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為可燃垃圾。",
+    "pinying": "jiàngcài tǒng, yān cài tǒng",
+    "zhuying": "ㄐㄧㄤˋ ㄘㄞˋ ㄊㄨㄥˇ ， ㄒㄧˇ ㄘㄞˋ ㄊㄨㄥˇ"
+  },
+  {
+    "item": "燙衣板、燙衣台",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "tàng yī bǎn, tàng yī tái",
+    "zhuying": "ㄊㄤˋ ㄧ ㄅㄢˇ 、 ㄊㄤˋ ㄧ ㄊㄞˊ"
+  },
+  {
+    "item": "鋁製窗框",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "lǚ zhì chuāng kuāng",
+    "zhuying": "ㄌㄩˇ ㄓˋ cㄏㄨㄤ ㄎㄨㄤˋ"
+  },
+  {
+    "item": "音響設備",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "yīnxiǎng shèbèi",
+    "zhuying": "ㄧㄣ ㄒㄧㄤˇ ㄕㄜˋ ㄅㄟˋ"
+  },
+  {
+    "item": "瓦斯爐",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "wǎsī lú",
+    "zhuying": "ㄨㄚˇ ㄙ ㄌㄨˊ"
+  },
+  {
+    "item": "煤氣爐",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "méiqì lú",
+    "zhuying": "ㄇㄟˊ ㄑㄧˋ ㄌㄨˊ"
+  },
+  {
+    "item": "瓦斯爐",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "wǎsī lú",
+    "zhuying": "ㄨㄚˇ ㄙ ㄌㄨˊ"
+  },
+  {
+    "item": "旅行袋、行李袋（附輪子）",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "lǚxíng dài, xínglǐ dài (fù lúnzi)",
+    "zhuying": "ㄌㄩˇ ㄒㄧㄥˊ ㄉㄞˋ 、 ㄒㄧㄥˊ ㄌㄧˇ ㄉㄞˋ （ ㄈㄨˋ ㄌㄨㄣˊ ㄗˇ ）"
+  },
+  {
+    "item": "保冰桶、行動冰箱",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "bǎo bīng tǒng, xíngdòng bīngxiāng",
+    "zhuying": "ㄅㄠˇ ㄅㄧㄥ ㄊㄨㄥˇ 、 ㄒㄧㄥˊ ㄉㄨㄥˋ ㄅㄧㄥ ㄒㄧㄤ"
+  },
+  {
+    "item": "聖誕樹",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "shèngdànshù",
+    "zhuying": "ㄕㄥˋ ㄉㄢˋ ㄕㄨˋ"
+  },
+  {
+    "item": "行李箱",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "xínglǐ xiāng",
+    "zhuying": "ㄒㄧㄥˊ ㄌㄧˇ ㄒㄧㄤ"
+  },
+  {
+    "item": "喇叭、揚聲器",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "lǎbā, yángshēngqì",
+    "zhuying": "ㄌㄚˇ ㄅㄚ 、 ㄧㄤˊ ㄕㄥ ㄑㄧˋ"
+  },
+  {
+    "item": "鹵素電暖器爐",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "lǔsù diàn nuǎn qì lú",
+    "zhuying": "ㄌㄨˇ ㄙㄨˋ ㄉㄧㄢˋ ㄋㄨㄢˇ ㄑㄧˋ ㄌㄨˊ"
+  },
+  {
+    "item": "暖風扇",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "nuǎn fēngshàn",
+    "zhuying": "ㄋㄨㄢˇ ㄈㄥ ㄕㄢˋ"
+  },
+  {
+    "item": "火盆",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "huǒpén",
+    "zhuying": "ㄏㄨㄛˇ ㄆㄣˊ"
+  },
+  {
+    "item": "梯子",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "tīzi",
+    "zhuying": "ㄊㄧ ㄗˇ"
+  },
+  {
+    "item": "化妝台、化妝桌",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "huàzhuāng tái, huàzhuāng zhuō",
+    "zhuying": "ㄏㄨㄚˋ ㄓㄨㄤ ㄊㄞˊ 、 ㄏㄨㄚˋ ㄓㄨㄤ ㄓㄨㄛ"
+  },
+  {
+    "item": "空氣清淨機",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "kōngqì qīngjìng jī",
+    "zhuying": "ㄎㄨㄥ ㄑㄧˋ ㄑㄧㄥ ㄐㄧㄥˋ ㄐㄧ"
+  },
+  {
+    "item": "除濕機、乾燥機",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "chúshī jī, gānzào jī",
+    "zhuying": "cㄏㄨˊ ㄕ ㄐㄧ 、 ㄍㄢ ㄗㄠˋ ㄐㄧ"
+  },
+  {
+    "item": "電扇、風扇",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "diàn shàn, fēngshàn",
+    "zhuying": "ㄉㄧㄢˋ ㄕㄢˋ 、 ㄈㄥ ㄕㄢˋ"
+  },
+  {
+    "item": "吸塵器",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "xīchénqì",
+    "zhuying": "ㄒㄧ cㄏㄣˊ ㄑㄧˋ"
+  },
+  {
+    "item": "天文望遠鏡",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "tiānwén wàngyuǎnjìng",
+    "zhuying": "ㄊㄧㄢ ㄨㄣˊ ㄨㄤˋ ㄩㄢˇ ㄐㄧㄥˋ"
+  },
+  {
+    "item": "微波爐",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "wéibōlú",
+    "zhuying": "ㄨㄟ ㄅㄛ ㄌㄨˊ"
+  },
+  {
+    "item": "針織機",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "zhēnzhī jī",
+    "zhuying": "ㄓㄣ ㄓ ㄐㄧ"
+  },
+  {
+    "item": "望遠鏡",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "wàngyuǎnjìng",
+    "zhuying": "ㄨㄤˋ ㄩㄢˇ ㄐㄧㄥˋ"
+  },
+  {
+    "item": "年糕機、麻糬機（電子產品）",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋內視為不可燃垃圾。",
+    "pinying": "niángāo jī, máshǔ jī (diànzǐ chǎnpǐn)",
+    "zhuying": "ㄋㄧㄢˊ ㄍㄠ ㄐㄧ 、 ㄇㄚˊ 糬 ㄐㄧ （ ㄉㄧㄢˋ ㄗˇ cㄏㄢˇ ㄆㄧㄣˇ ）"
+  },
+  {
+    "item": "衣物收納箱",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋的塑膠製品視為可燃垃圾。金屬製為不可燃垃圾。",
+    "pinying": "yīwù shōunà xiāng",
+    "zhuying": "ㄧ ㄨˋ ㄕㄡ ㄋㄚˋ ㄒㄧㄤ"
+  },
+  {
+    "item": "椅子",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋的塑膠製、木製品視為可燃垃圾。金屬製為不可燃垃圾。",
+    "pinying": "yǐzi",
+    "zhuying": "ㄧˇ ㄗˇ"
+  },
+  {
+    "item": "播種盆器",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋的陶器製品為不可燃垃圾。塑膠製視為可燃垃圾。",
+    "pinying": "bōzhòng pén qì",
+    "zhuying": "ㄅㄛ ㄓㄨㄥˇ ㄆㄣˊ ㄑㄧˋ"
+  },
+  {
+    "item": "桶子",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋的金屬製品為不可燃垃圾。塑膠製、木製品視為可燃垃圾。",
+    "pinying": "tǒng zi",
+    "zhuying": "ㄊㄨㄥˇ ㄗˇ"
+  },
+  {
+    "item": "畫框",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋的金屬製、玻璃製品為不可燃垃圾。塑膠製、木製品視為可燃垃圾。",
+    "pinying": "huà kuāng",
+    "zhuying": "ㄏㄨㄚˋ ㄎㄨㄤˋ"
+  },
+  {
+    "item": "娃娃盒",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋的玻璃製品為不可燃垃圾。塑膠製視為可燃垃圾。",
+    "pinying": "wáwá hé",
+    "zhuying": "ㄨㄚˊ ㄨㄚˊ ㄏㄜˊ"
+  },
+  {
+    "item": "水箱",
+    "type": "大型垃圾",
+    "desc": "可放置於45公升塑膠袋的玻璃製品為不可燃垃圾。塑膠製視為可燃垃圾。",
+    "pinying": "shuǐxiāng",
+    "zhuying": "ㄕㄨㄟˇ ㄒㄧㄤ"
+  },
+  {
+    "item": "圍棋盤（付腳）",
+    "type": "大型垃圾",
+    "desc": "即使可放置於45公升塑膠袋也算大型垃圾。",
+    "pinying": "wéiqípán (fù jiǎo)",
+    "zhuying": "ㄨㄟˊ ㄑㄧˊ ㄆㄢˊ （ ㄈㄨˋ ㄐㄧㄠˇ ）"
+  },
+  {
+    "item": "將棋盤（付腳）",
+    "type": "大型垃圾",
+    "desc": "即使可放置於45公升塑膠袋也算大型垃圾。",
+    "pinying": "jiāng qí pán (fù jiǎo)",
+    "zhuying": "ㄐㄧㄤ ㄑㄧˊ ㄆㄢˊ （ ㄈㄨˋ ㄐㄧㄠˇ ）"
+  },
+  {
+    "item": "鐵皮",
+    "type": "大型垃圾",
+    "desc": "限制於40cm×1.5m以下自主修理的物件。",
+    "pinying": "tiěpí",
+    "zhuying": "ㄊㄧㄝˇ ㄆㄧˊ"
+  },
+  {
+    "item": "波形板（鐵製、塑膠製、白鐵製）",
+    "type": "大型垃圾",
+    "desc": "限制於40cm×1.5m以下自主修理的物件。",
+    "pinying": "bōxíng bǎn (tiě zhì, sùjiāo zhì, báitiě zhì)",
+    "zhuying": "ㄅㄛ ㄒㄧㄥˊ ㄅㄢˇ （ ㄊㄧㄝˇ ㄓˋ 、 ㄙㄨˋ ㄐㄧㄠ ㄓˋ 、 ㄅㄞˊ ㄊㄧㄝˇ ㄓˋ ）"
+  },
+  {
+    "item": "木塊，木板",
+    "type": "大型垃圾",
+    "desc": "長寬30cm、厚度5cm以下視為可燃垃圾。",
+    "pinying": "mù kuài, mùbǎn",
+    "zhuying": "ㄇㄨˋ ㄎㄨㄞˋ ， ㄇㄨˋ ㄅㄢˇ"
+  },
+  {
+    "item": "伸縮曬衣桿",
+    "type": "大型垃圾",
+    "desc": "裁切或縮至3.0m以下，10支以內視為一件。",
+    "pinying": "shēnsuō shài yī gǎn",
+    "zhuying": "ㄕㄣ ㄙㄨㄛ ㄕㄞˋ ㄧ ㄍㄢ"
+  },
+  {
+    "item": "掃帚",
+    "type": "大型垃圾",
+    "desc": "10支以內視為一件。可放置於45公升塑膠袋視為可燃垃圾。",
+    "pinying": "sàozhǒu",
+    "zhuying": "ㄙㄠˇ ㄓㄡˇ"
+  },
+  {
+    "item": "高爾夫球具",
+    "type": "大型垃圾",
+    "desc": "10支以內視為一件。",
+    "pinying": "gāo'ěrfū qiú jù",
+    "zhuying": "ㄍㄠ ㄦˇ ㄈㄨ ㄑㄧㄡˊ ㄐㄩˋ"
+  },
+  {
+    "item": "滑雪板",
+    "type": "大型垃圾",
+    "desc": "10支以內視為一件。",
+    "pinying": "huáxuěbǎn",
+    "zhuying": "ㄏㄨㄚˊ ㄒㄩㄝˇ ㄅㄢˇ"
+  },
+  {
+    "item": "登山杖",
+    "type": "大型垃圾",
+    "desc": "10支以內視為一件。",
+    "pinying": "dēngshān zhàng",
+    "zhuying": "ㄉㄥ ㄕㄢ ㄓㄤˋ"
+  },
+  {
+    "item": "球棒（棒球用：金屬製、木製）",
+    "type": "大型垃圾",
+    "desc": "10支以內視為一件。",
+    "pinying": "qiú bàng (bàngqiú yòng: Jīnshǔ zhì, mùzhì)",
+    "zhuying": "ㄑㄧㄡˊ ㄅㄤˋ （ ㄅㄤˋ ㄑㄧㄡˊ ㄩㄥˋ ： ㄐㄧㄣ ㄕㄨˇ ㄓˋ 、 ㄇㄨˋ ㄓˋ ）"
+  },
+  {
+    "item": "竹刀",
+    "type": "大型垃圾",
+    "desc": "10支以內視為一件。",
+    "pinying": "zhúdāo",
+    "zhuying": "ㄓㄨˊ ㄉㄠ"
+  },
+  {
+    "item": "釣竿",
+    "type": "大型垃圾",
+    "desc": "10支以內視為一件。",
+    "pinying": "diàogān",
+    "zhuying": "ㄉㄧㄠˋ ㄍㄢ"
+  },
+  {
+    "item": "室內隔間簾",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "shìnèi gé jiān lián",
+    "zhuying": "ㄕˋ ㄋㄟˋ ㄍㄜˊ ㄐㄧㄢ ㄌㄧㄢˊ"
+  },
+  {
+    "item": "天線",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "tiānxiàn",
+    "zhuying": "ㄊㄧㄢ ㄒㄧㄢˋ"
+  },
+  {
+    "item": "腳踏車機、健身車",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "jiǎotàchē jī, jiànshēn chē",
+    "zhuying": "ㄐㄧㄠˇ ㄊㄚˋ cㄏㄜ ㄐㄧ 、 ㄐㄧㄢˋ ㄕㄣ cㄏㄜ"
+  },
+  {
+    "item": "電風琴",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "diàn fēngqín",
+    "zhuying": "ㄉㄧㄢˋ ㄈㄥ ㄑㄧㄣˊ"
+  },
+  {
+    "item": "烤箱",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "kǎoxiāng",
+    "zhuying": "ㄎㄠˇ ㄒㄧㄤ"
+  },
+  {
+    "item": "風琴",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "fēngqín",
+    "zhuying": "ㄈㄥ ㄑㄧㄣˊ"
+  },
+  {
+    "item": "窗簾軌道",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "chuānglián guǐdào",
+    "zhuying": "cㄏㄨㄤ ㄌㄧㄢˊ ㄍㄨㄟˇ ㄉㄠˋ"
+  },
+  {
+    "item": "收納櫃",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "shōunà guì",
+    "zhuying": "ㄕㄡ ㄋㄚˋ ㄍㄨㄟˋ"
+  },
+  {
+    "item": "卡拉OK組、伴唱組合",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "kǎlā OK zǔ, bànchàng zǔhé",
+    "zhuying": "ㄑㄧㄚˇ ㄌㄚ OK ㄗㄨˇ 、 ㄅㄢˋ cㄏㄤˋ ㄗㄨˇ ㄏㄜˊ"
+  },
+  {
+    "item": "吉他",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "jítā",
+    "zhuying": "ㄐㄧˊ ㄊㄚ"
+  },
+  {
+    "item": "吉他盒",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "jítā hé",
+    "zhuying": "ㄐㄧˊ ㄊㄚ ㄏㄜˊ"
+  },
+  {
+    "item": "高爾夫球包",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "gāo'ěrfū qiú bāo",
+    "zhuying": "ㄍㄠ ㄦˇ ㄈㄨ ㄑㄧㄡˊ ㄅㄠ"
+  },
+  {
+    "item": "衝浪板",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "chōnglàng bǎn",
+    "zhuying": "cㄏㄨㄥ ㄌㄤˋ ㄅㄢˇ"
+  },
+  {
+    "item": "櫥櫃",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "chúguì",
+    "zhuying": "cㄏㄨˊ ㄍㄨㄟˋ"
+  },
+  {
+    "item": "沙包、沙袋",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "shābāo, shādài",
+    "zhuying": "ㄕㄚ ㄅㄠ 、 ㄕㄚ ㄉㄞˋ"
+  },
+  {
+    "item": "和室拉門（木製）",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "héshì lā mén (mùzhì)",
+    "zhuying": "ㄏㄜˊ ㄕˋ ㄌㄚ ㄇㄣˊ （ ㄇㄨˋ ㄓˋ ）"
+  },
+  {
+    "item": "滑板",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "huábǎn",
+    "zhuying": "ㄏㄨㄚˊ ㄅㄢˇ"
+  },
+  {
+    "item": "連身鏡、立鏡、穿衣鏡",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "lián shēn jìng, lì jìng, chuānyījìng",
+    "zhuying": "ㄌㄧㄢˊ ㄕㄣ ㄐㄧㄥˋ 、 ㄌㄧˋ ㄐㄧㄥˋ 、 cㄏㄨㄢ ㄧ ㄐㄧㄥˋ"
+  },
+  {
+    "item": "辦公桌（鐵製）",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "bàngōng zhuō (tiě zhì)",
+    "zhuying": "ㄅㄢˋ ㄍㄨㄥ ㄓㄨㄛ （ ㄊㄧㄝˇ ㄓˋ ）"
+  },
+  {
+    "item": "貨架（鐵製）",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "huòjià (tiě zhì)",
+    "zhuying": "ㄏㄨㄛˋ ㄐㄧㄚˋ （ ㄊㄧㄝˇ ㄓˋ ）"
+  },
+  {
+    "item": "雪板",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "xuě bǎn",
+    "zhuying": "ㄒㄩㄝˇ ㄅㄢˇ"
+  },
+  {
+    "item": "木棧板",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "mù zhàn bǎn",
+    "zhuying": "ㄇㄨˋ ㄓㄢˋ ㄅㄢˇ"
+  },
+  {
+    "item": "溜滑梯（兒童遊樂設施）",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "liū huátī (értóng yóulè shèshī)",
+    "zhuying": "ㄌㄧㄡ ㄏㄨㄚˊ ㄊㄧ （ ㄦˊ ㄊㄨㄥˊ ㄧㄡˊ ㄌㄜˋ ㄕㄜˋ ㄕ ）"
+  },
+  {
+    "item": "燙褲機",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "tàng kù jī",
+    "zhuying": "ㄊㄤˋ ㄎㄨˋ ㄐㄧ"
+  },
+  {
+    "item": "沙發",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "shāfā",
+    "zhuying": "ㄕㄚ ㄈㄚ"
+  },
+  {
+    "item": "五斗櫃",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "wǔdǒu guì",
+    "zhuying": "ㄨˇ ㄉㄡˇ ㄍㄨㄟˋ"
+  },
+  {
+    "item": "兒童安全座椅",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "értóng ānquán zuò yǐ",
+    "zhuying": "ㄦˊ ㄊㄨㄥˊ ㄢ ㄑㄩㄢˊ ㄗㄨㄛˋ ㄧˇ"
+  },
+  {
+    "item": "桌子",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "zhuōzi",
+    "zhuying": "ㄓㄨㄛ ㄗˇ"
+  },
+  {
+    "item": "長柄刷",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "chángbǐng shuā",
+    "zhuying": "cㄏㄤˊ ㄅㄧㄥˇ ㄕㄨㄚ"
+  },
+  {
+    "item": "電視櫃",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "diànshì guì",
+    "zhuying": "ㄉㄧㄢˋ ㄕˋ ㄍㄨㄟˋ"
+  },
+  {
+    "item": "BBQ烤爐、燒烤爐",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "BBQ kǎo lú, shāokǎo lú",
+    "zhuying": "BBQ ㄎㄠˇ ㄌㄨˊ 、 ㄕㄠ ㄎㄠˇ ㄌㄨˊ"
+  },
+  {
+    "item": "躺椅、涼椅",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "tǎngyǐ, liáng yǐ",
+    "zhuying": "ㄊㄤˇ ㄧˇ 、 ㄌㄧㄤˊ ㄧˇ"
+  },
+  {
+    "item": "折疊椅",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "zhédié yǐ",
+    "zhuying": "ㄓㄜ ㄉㄧㄝˊ ㄧˇ"
+  },
+  {
+    "item": "組裝架（金屬製）",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "zǔzhuāng jià (jīnshǔ zhì)",
+    "zhuying": "ㄗㄨˇ ㄓㄨㄤ ㄐㄧㄚˋ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ）"
+  },
+  {
+    "item": "木梯、鋁梯",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "mù tī, lǚ tī",
+    "zhuying": "ㄇㄨˋ ㄊㄧ 、 ㄌㄩˇ ㄊㄧ"
+  },
+  {
+    "item": "遮陽傘、海灘傘",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "zhēyáng sǎn, hǎitān sǎn",
+    "zhuying": "ㄓㄜ ㄧㄤˊ ㄙㄢˇ 、 ㄏㄞˇ ㄊㄢ ㄙㄢˇ"
+  },
+  {
+    "item": "布衣櫥、防塵衣櫥",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "bùyī chú, fángchén yī chú",
+    "zhuying": "ㄅㄨˋ ㄧ cㄏㄨˊ 、 ㄈㄤˊ cㄏㄣˊ ㄧ cㄏㄨˊ"
+  },
+  {
+    "item": "日式紙門",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "rì shì zhǐ mén",
+    "zhuying": "ㄖˋ ㄕˋ ㄓˇ ㄇㄣˊ"
+  },
+  {
+    "item": "百葉窗簾",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "bǎiyè chuānglián",
+    "zhuying": "ㄅㄞˇ ㄧㄝˋ cㄏㄨㄤ ㄌㄧㄢˊ"
+  },
+  {
+    "item": "花架（園藝）",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "huājià (yuányì)",
+    "zhuying": "ㄏㄨㄚ ㄐㄧㄚˋ （ ㄩㄢˊ ㄧˋ ）"
+  },
+  {
+    "item": "鞦韆（兒童用）",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "qiūqiān (értóng yòng)",
+    "zhuying": "ㄑㄧㄡ ㄑㄧㄢ （ ㄦˊ ㄊㄨㄥˊ ㄩㄥˋ ）"
+  },
+  {
+    "item": "引體向上器",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "yǐn tǐ xiàngshàng qì",
+    "zhuying": "ㄧㄣˇ ㄊㄧˇ ㄒㄧㄤˋ ㄕㄤˋ ㄑㄧˋ"
+  },
+  {
+    "item": "床架（不含床墊）",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "chuáng jià (bù hán chuáng diàn)",
+    "zhuying": "cㄏㄨㄤˊ ㄐㄧㄚˋ （ ㄅㄨˋ ㄏㄢˊ cㄏㄨㄤˊ ㄉㄧㄢˋ ）"
+  },
+  {
+    "item": "夾板、膠合板",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "jiábǎn, jiāohébǎn",
+    "zhuying": "ㄐㄧㄚ ㄅㄢˇ 、 ㄐㄧㄠ ㄏㄜˊ ㄅㄢˇ"
+  },
+  {
+    "item": "嬰兒推車",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "yīng'ér tuī chē",
+    "zhuying": "ㄧㄥ ㄦˊ ㄊㄨㄟ cㄏㄜ"
+  },
+  {
+    "item": "嬰兒椅",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "yīng'ér yǐ",
+    "zhuying": "ㄧㄥ ㄦˊ ㄧˇ"
+  },
+  {
+    "item": "嬰兒澡盆",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "yīng'ér zǎopén",
+    "zhuying": "ㄧㄥ ㄦˊ ㄗㄠˇ ㄆㄣˊ"
+  },
+  {
+    "item": "嬰兒被褥",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "yīng'ér bèirù",
+    "zhuying": "ㄧㄥ ㄦˊ ㄅㄟˋ ㄖㄨˋ"
+  },
+  {
+    "item": "嬰兒床",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "yīng'ér chuáng",
+    "zhuying": "ㄧㄥ ㄦˊ cㄏㄨㄤˊ"
+  },
+  {
+    "item": "按摩機（按摩椅等）",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "ànmó jī (ànmó yǐ děng)",
+    "zhuying": "ㄢˋ ㄇㄛˊ ㄐㄧ （ ㄢˋ ㄇㄛˊ ㄧˇ ㄉㄥˇ ）"
+  },
+  {
+    "item": "床墊（不含床架）",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "chuáng diàn (bù hán chuáng jià)",
+    "zhuying": "cㄏㄨㄤˊ ㄉㄧㄢˋ （ ㄅㄨˋ ㄏㄢˊ cㄏㄨㄤˊ ㄐㄧㄚˋ ）"
+  },
+  {
+    "item": "草蓆",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "cǎo xí",
+    "zhuying": "ㄘㄠˇ ㄍㄠˋ"
+  },
+  {
+    "item": "金屬架、鐵架",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "jīnshǔ jià, tiě jià",
+    "zhuying": "ㄐㄧㄣ ㄕㄨˇ ㄐㄧㄚˋ 、 ㄊㄧㄝˇ ㄐㄧㄚˋ"
+  },
+  {
+    "item": "架子",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "jiàzi",
+    "zhuying": "ㄐㄧㄚˋ ㄗˇ"
+  },
+  {
+    "item": "跑步機",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "pǎobù jī",
+    "zhuying": "ㄆㄠˇ ㄅㄨˋ ㄐㄧ"
+  },
+  {
+    "item": "二輪拖車",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "èrlún tuōchē",
+    "zhuying": "ㄦˋ ㄌㄨㄣˊ ㄊㄨㄛ cㄏㄜ"
+  },
+  {
+    "item": "廚房組合架",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "chúfáng zǔhé jià",
+    "zhuying": "cㄏㄨˊ ㄈㄤˊ ㄗㄨˇ ㄏㄜˊ ㄐㄧㄚˋ"
+  },
+  {
+    "item": "置物櫃",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "zhìwù guì",
+    "zhuying": "ㄓˋ ㄨˋ ㄍㄨㄟˋ"
+  },
+  {
+    "item": "獨輪推車（搬運用）",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "dú lún tuī chē (bān yùnyòng)",
+    "zhuying": "ㄉㄨˊ ㄌㄨㄣˊ ㄊㄨㄟ cㄏㄜ （ ㄅㄢ ㄩㄣˋ ㄩㄥˋ ）"
+  },
+  {
+    "item": "鞋櫃",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "xié guì",
+    "zhuying": "ㄒㄧㄝˊ ㄍㄨㄟˋ"
+  },
+  {
+    "item": "電動護理床",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "diàndòng hùlǐ chuáng",
+    "zhuying": "ㄉㄧㄢˋ ㄉㄨㄥˋ ㄏㄨˋ ㄌㄧˇ cㄏㄨㄤˊ"
+  },
+  {
+    "item": "書桌",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "shūzhuō",
+    "zhuying": "ㄕㄨ ㄓㄨㄛ"
+  },
+  {
+    "item": "鋤頭、鐵鍬",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "chútóu, tiěqiāo",
+    "zhuying": "cㄏㄨˊ ㄊㄡˊ 、 ㄊㄧㄝˇ ㄑㄧㄠ"
+  },
+  {
+    "item": "和室椅",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "hé shì yǐ",
+    "zhuying": "ㄏㄜˊ ㄕˋ ㄧˇ"
+  },
+  {
+    "item": "茶几",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "chájī",
+    "zhuying": "cㄏㄚˊ ㄐㄧ"
+  },
+  {
+    "item": "三輪腳踏車",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "sānlún jiǎotàchē",
+    "zhuying": "ㄙㄢ ㄌㄨㄣˊ ㄐㄧㄠˇ ㄊㄚˋ cㄏㄜ"
+  },
+  {
+    "item": "三輪車",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "sānlúnchē",
+    "zhuying": "ㄙㄢ ㄌㄨㄣˊ cㄏㄜ"
+  },
+  {
+    "item": "傘架",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "sǎn jià",
+    "zhuying": "ㄙㄢˇ ㄐㄧㄚˋ"
+  },
+  {
+    "item": "磁療床墊",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "cí liáo chuáng diàn",
+    "zhuying": "ㄘˊ ㄌㄧㄠˊ cㄏㄨㄤˊ ㄉㄧㄢˋ"
+  },
+  {
+    "item": "割草機（電動）",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "gē cǎo jī (diàndòng)",
+    "zhuying": "ㄍㄜ ㄘㄠˇ ㄐㄧ （ ㄉㄧㄢˋ ㄉㄨㄥˋ ）"
+  },
+  {
+    "item": "輪椅",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "lúnyǐ",
+    "zhuying": "ㄌㄨㄣˊ ㄧˇ"
+  },
+  {
+    "item": "老人助步車",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "lǎorén zhù bù chē",
+    "zhuying": "ㄌㄠˇ ㄖㄣˊ ㄓㄨˋ ㄅㄨˋ cㄏㄜ"
+  },
+  {
+    "item": "烘碗機",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "hōng wǎn jī",
+    "zhuying": "ㄏㄨㄥ ㄨㄢˇ ㄐㄧ"
+  },
+  {
+    "item": "洗碗機",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "xǐ wǎn jī",
+    "zhuying": "ㄒㄧˇ ㄨㄢˇ ㄐㄧ"
+  },
+  {
+    "item": "櫃子",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "guì zi",
+    "zhuying": "ㄍㄨㄟˋ ㄗˇ"
+  },
+  {
+    "item": "割草機（電動）",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "gē cǎo jī (diàndòng)",
+    "zhuying": "ㄍㄜ ㄘㄠˇ ㄐㄧ （ ㄉㄧㄢˋ ㄉㄨㄥˋ ）"
+  },
+  {
+    "item": "電熱毯",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "diànrè tǎn",
+    "zhuying": "ㄉㄧㄢˋ ㄖㄜˋ ㄊㄢˇ"
+  },
+  {
+    "item": "電子琴",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "diànzǐqín",
+    "zhuying": "ㄉㄧㄢˋ ㄗˇ ㄑㄧㄣˊ"
+  },
+  {
+    "item": "電動輪椅（搖桿操作等）",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "diàndòng lúnyǐ (yáo gǎn cāozuò děng)",
+    "zhuying": "ㄉㄧㄢˋ ㄉㄨㄥˋ ㄌㄨㄣˊ ㄧˇ （ ㄧㄠˊ ㄍㄢ ㄘㄠ ㄗㄨㄛˋ ㄉㄥˇ ）"
+  },
+  {
+    "item": "木門",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "mùmén",
+    "zhuying": "ㄇㄨˋ ㄇㄣˊ"
+  },
+  {
+    "item": "洗澡椅、淋浴椅（護理用）",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "xǐzǎo yǐ, línyù yǐ (hùlǐ yòng)",
+    "zhuying": "ㄒㄧˇ ㄗㄠˇ ㄧˇ 、 ㄌㄧㄣˊ ㄩˋ ㄧˇ （ ㄏㄨˋ ㄌㄧˇ ㄩㄥˋ ）"
+  },
+  {
+    "item": "儲藏屋（金屬製組合式、已拆解）",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "chúcáng wū (jīnshǔ zhì zǔhé shì, yǐ chāi jiě)",
+    "zhuying": "cㄏㄨˇ ㄘㄤˊ ㄨ （ ㄐㄧㄣ ㄕㄨˇ ㄓˋ ㄗㄨˇ ㄏㄜˊ ㄕˋ 、 ㄧˇ cㄏㄞ ㄐㄧㄝˇ ）"
+  },
+  {
+    "item": "儲米箱",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "chǔ mǐ xiāng",
+    "zhuying": "cㄏㄨˇ ㄇㄧˇ ㄒㄧㄤ"
+  },
+  {
+    "item": "助步器、助步車",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "zhù bù qì, zhù bù chē",
+    "zhuying": "ㄓㄨˋ ㄅㄨˋ ㄑㄧˋ 、 ㄓㄨˋ ㄅㄨˋ cㄏㄜ"
+  },
+  {
+    "item": "書架",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "shūjià",
+    "zhuying": "ㄕㄨ ㄐㄧㄚˋ"
+  },
+  {
+    "item": "麻將桌、麻將台（電動式）",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "májiàng zhuō, májiàng tái (diàndòng shì)",
+    "zhuying": "ㄇㄚˊ ㄐㄧㄤ ㄓㄨㄛ 、 ㄇㄚˊ ㄐㄧㄤ ㄊㄞˊ （ ㄉㄧㄢˋ ㄉㄨㄥˋ ㄕˋ ）"
+  },
+  {
+    "item": "長型衣櫃",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "zhǎng xíng yīguì",
+    "zhuying": "cㄏㄤˊ ㄒㄧㄥˊ ㄧ ㄍㄨㄟˋ"
+  },
+  {
+    "item": "冷風扇",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "lěng fēngshàn",
+    "zhuying": "ㄌㄥˇ ㄈㄥ ㄕㄢˋ"
+  },
+  {
+    "item": "和式衣櫃",
+    "type": "大型垃圾",
+    "desc": "",
+    "pinying": "hé shì yīguì",
+    "zhuying": "ㄏㄜˊ ㄕˋ ㄧ ㄍㄨㄟˋ"
+  },
+  {
+    "item": "割草機（發動機型）",
+    "type": "無法回收",
+    "desc": "請直接與經銷商聯繫。",
+    "pinying": "gē cǎo jī (fādòngjī xíng)",
+    "zhuying": "ㄍㄜ ㄘㄠˇ ㄐㄧ （ ㄈㄚ ㄉㄨㄥˋ ㄐㄧ ㄒㄧㄥˊ ）"
+  },
+  {
+    "item": "油燈",
+    "type": "無法回收",
+    "desc": "請直接與販售業者聯繫。",
+    "pinying": "yóudēng",
+    "zhuying": "ㄧㄡˊ ㄉㄥ"
+  },
+  {
+    "item": "天然瓦斯熱水器",
+    "type": "無法回收",
+    "desc": "請直接與販售業者聯繫。",
+    "pinying": "tiānrán wǎsī rèshuǐqì",
+    "zhuying": "ㄊㄧㄢ ㄖㄢˊ ㄨㄚˇ ㄙ ㄖㄜˋ ㄕㄨㄟˇ ㄑㄧˋ"
+  },
+  {
+    "item": "稀釋劑",
+    "type": "無法回收",
+    "desc": "請直接與販售業者聯繫。",
+    "pinying": "xīshì jì",
+    "zhuying": "ㄒㄧ ㄕˋ ㄐㄧˋ"
+  },
+  {
+    "item": "除草劑",
+    "type": "無法回收",
+    "desc": "請直接與販售業者聯繫。",
+    "pinying": "chúcǎo jì",
+    "zhuying": "cㄏㄨˊ ㄘㄠˇ ㄐㄧˋ"
+  },
+  {
+    "item": "摩托車（重型機車、打擋車等）",
+    "type": "無法回收",
+    "desc": "請直接與販售業者、摩托車回收中心聯繫。",
+    "pinying": "mótuō chē (zhòngxíng jīchē, dǎ dǎngchē děng)",
+    "zhuying": "ㄇㄛˊ ㄊㄨㄛ cㄏㄜ （ ㄓㄨㄥˋ ㄒㄧㄥˊ ㄐㄧ cㄏㄜ 、 ㄉㄚˇ ㄉㄤˇ cㄏㄜ ㄉㄥˇ ）"
+  },
+  {
+    "item": "石頭、碎石子",
+    "type": "無法回收",
+    "desc": "請直接與廢棄物處理業者、經銷商聯繫。",
+    "pinying": "shítou, suì shí zǐ",
+    "zhuying": "ㄕˊ ㄊㄡˊ 、 ㄙㄨㄟˋ ㄕˊ ㄗˇ"
+  },
+  {
+    "item": "石磨",
+    "type": "無法回收",
+    "desc": "請直接與廢棄物處理業者、經銷商聯繫。",
+    "pinying": "shí mò",
+    "zhuying": "ㄕˊ ㄇㄛˊ"
+  },
+  {
+    "item": "土",
+    "type": "無法回收",
+    "desc": "請直接與廢棄物處理業者、經銷商聯繫。",
+    "pinying": "tǔ",
+    "zhuying": "ㄊㄨˇ"
+  },
+  {
+    "item": "瓦礫",
+    "type": "無法回收",
+    "desc": "請直接與承包商、建商聯繫。",
+    "pinying": "wǎlì",
+    "zhuying": "ㄨㄚˇ ㄌㄧˋ"
+  },
+  {
+    "item": "瓦片",
+    "type": "無法回收",
+    "desc": "請直接與承包商、建商聯繫。",
+    "pinying": "wǎ piàn",
+    "zhuying": "ㄨㄚˇ ㄆㄧㄢˋ"
+  },
+  {
+    "item": "瓦斯瓶（如丙烷氣體）",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "wǎsī píng (rú bǐngwán qìtǐ)",
+    "zhuying": "ㄨㄚˇ ㄙ ㄆㄧㄥˊ （ ㄖㄨˊ ㄅㄧㄥˇ ㄨㄢˊ ㄑㄧˋ ㄊㄧˇ ）"
+  },
+  {
+    "item": "混凝土石塊",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "hùnníngtǔ shí kuài",
+    "zhuying": "ㄏㄨㄣˋ ㄋㄧㄥˊ ㄊㄨˇ ㄕˊ ㄎㄨㄞˋ"
+  },
+  {
+    "item": "輪胎（汽機車用）",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "lúntāi (qìjīchē yòng)",
+    "zhuying": "ㄌㄨㄣˊ ㄊㄞ （ ㄑㄧˋ ㄐㄧ cㄏㄜ ㄩㄥˋ ）"
+  },
+  {
+    "item": "磁磚",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "cí zhuān",
+    "zhuying": "ㄘˊ ㄓㄨㄢ"
+  },
+  {
+    "item": "汽油桶",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "qìyóu tǒng",
+    "zhuying": "ㄑㄧˋ ㄧㄡˊ ㄊㄨㄥˇ"
+  },
+  {
+    "item": "機車（速克達等）",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "jī chē (sù kè dá děng)",
+    "zhuying": "ㄐㄧ cㄏㄜ （ ㄙㄨˋ ㄎㄜˋ ㄉㄚˊ ㄉㄥˇ ）"
+  },
+  {
+    "item": "電池（汽機車用）",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "diànchí (qì jī chē yòng)",
+    "zhuying": "ㄉㄧㄢˋ ㄔˊ （ ㄑㄧˋ ㄐㄧ cㄏㄜ ㄩㄥˋ ）"
+  },
+  {
+    "item": "鋼琴",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "gāngqín",
+    "zhuying": "ㄍㄤ ㄑㄧㄣˊ"
+  },
+  {
+    "item": "油漆",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "yóuqī",
+    "zhuying": "ㄧㄡˊ ㄑㄧ"
+  },
+  {
+    "item": "保齡球",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "bǎolíngqiú",
+    "zhuying": "ㄅㄠˇ ㄌㄧㄥˊ ㄑㄧㄡˊ"
+  },
+  {
+    "item": "輕擋車",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "qīng dǎngchē",
+    "zhuying": "ㄑㄧㄥ ㄉㄤˇ cㄏㄜ"
+  },
+  {
+    "item": "磚塊",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "zhuān kuài",
+    "zhuying": "ㄓㄨㄢ ㄎㄨㄞˋ"
+  },
+  {
+    "item": "金庫（手提除外）",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "jīnkù (shǒutí chúwài)",
+    "zhuying": "ㄐㄧㄣ ㄎㄨˋ （ ㄕㄡˇ ㄊㄧˊ cㄏㄨˊ ㄨㄞˋ ）"
+  },
+  {
+    "item": "烈性藥、劇藥",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "lièxìng yào, jù yào",
+    "zhuying": "ㄌㄧㄝˋ ㄒㄧㄥˋ ㄧㄠˋ 、 ㄐㄩˋ ㄧㄠˋ"
+  },
+  {
+    "item": "汽車零件",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "qìchē língjiàn",
+    "zhuying": "ㄑㄧˋ cㄏㄜ ㄌㄧㄥˊ ㄐㄧㄢˋ"
+  },
+  {
+    "item": "割草機（發動機型）",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "gē cǎo jī (fādòngjī xíng)",
+    "zhuying": "ㄍㄜ ㄘㄠˇ ㄐㄧ （ ㄈㄚ ㄉㄨㄥˋ ㄐㄧ ㄒㄧㄥˊ ）"
+  },
+  {
+    "item": "滅火器",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "mièhuǒqì",
+    "zhuying": "ㄇㄧㄝˋ ㄏㄨㄛˇ ㄑㄧˋ"
+  },
+  {
+    "item": "洗手台",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "xǐshǒu tái",
+    "zhuying": "ㄒㄧˇ ㄕㄡˇ ㄊㄞˊ"
+  },
+  {
+    "item": "電動車（龍頭/方向盤操作、代步車等）",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "diàndòng chē (lóngtóu/fāngxiàngpán cāozuò, dàibù chē děng)",
+    "zhuying": "ㄉㄧㄢˋ ㄉㄨㄥˋ cㄏㄜ （ ㄌㄨㄥˊ ㄊㄡˊ / ㄈㄤ ㄒㄧㄤˋ ㄆㄢˊ ㄘㄠ ㄗㄨㄛˋ 、 ㄉㄞˋ ㄅㄨˋ cㄏㄜ ㄉㄥˇ ）"
+  },
+  {
+    "item": "塗料（如油漆）",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "túliào (rú yóuqī)",
+    "zhuying": "ㄊㄨˊ ㄌㄧㄠˋ （ ㄖㄨˊ ㄧㄡˊ ㄑㄧ ）"
+  },
+  {
+    "item": "煤油（燃料）",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "méiyóu (ránliào)",
+    "zhuying": "ㄇㄟˊ ㄧㄡˊ （ ㄖㄢˊ ㄌㄧㄠˋ ）"
+  },
+  {
+    "item": "農場器具（插秧機、手扶拖拉机等）",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "nóngchǎng qìjù (chāyāng jī, shǒu fú tuōlājī děng)",
+    "zhuying": "ㄋㄨㄥˊ cㄏㄤˊ ㄑㄧˋ ㄐㄩˋ （ cㄏㄚ ㄧㄤ ㄐㄧ 、 ㄕㄡˇ ㄈㄨˊ ㄊㄨㄛ ㄌㄚ ㄐㄧ ㄉㄥˇ ）"
+  },
+  {
+    "item": "農藥",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "nóngyào",
+    "zhuying": "ㄋㄨㄥˊ ㄧㄠˋ"
+  },
+  {
+    "item": "廢油、地溝油（非食用）",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "fèi yóu, dìgōu yóu (fēi shíyòng)",
+    "zhuying": "ㄈㄟˋ ㄧㄡˊ 、 ㄉㄧˋ ㄍㄡ ㄧㄡˊ （ ㄈㄟ ㄕˊ ㄩㄥˋ ）"
+  },
+  {
+    "item": "佛壇、神桌",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "fú tán, shén zhuō",
+    "zhuying": "ㄈㄛˊ ㄊㄢˊ 、 ㄕㄣˊ ㄓㄨㄛ"
+  },
+  {
+    "item": "流理台、水槽",
+    "type": "無法回收",
+    "desc": "請與購買時的業者、零售商聯繫。",
+    "pinying": "liú lǐ tái, shuǐcáo",
+    "zhuying": "ㄌㄧㄡˊ ㄌㄧˇ ㄊㄞˊ 、 ㄕㄨㄟˇ ㄘㄠˊ"
+  },
+  {
+    "item": "醫療用品（針、輸血袋等）",
+    "type": "無法回收",
+    "desc": "請與購買之醫院聯繫。",
+    "pinying": "yīliáo yòngpǐn (zhēn, shūxiě dài děng)",
+    "zhuying": "ㄧ ㄌㄧㄠˊ ㄩㄥˋ ㄆㄧㄣˇ （ ㄓㄣ 、 ㄕㄨ ㄒㄩㄝˋ ㄉㄞˋ ㄉㄥˇ ）"
+  },
+  {
+    "item": "注射針",
+    "type": "無法回收",
+    "desc": "請與購買之醫院聯繫。",
+    "pinying": "zhùshè zhēn",
+    "zhuying": "ㄓㄨˋ ㄕㄜˋ ㄓㄣ"
+  },
+  {
+    "item": "水銀溫度計",
+    "type": "収集不可",
+    "desc": "請帶至加古川環境美化中心。",
+    "pinying": "shuǐyín wēndùjì",
+    "zhuying": "ㄕㄨㄟˇ ㄧㄣˊ ㄨㄣ ㄉㄨˋ ㄐㄧˋ"
+  },
+  {
+    "item": "水銀式血壓計",
+    "type": "収集不可",
+    "desc": "請帶至加古川環境美化中心。",
+    "pinying": "shuǐyín shì xiěyā jì",
+    "zhuying": "ㄕㄨㄟˇ ㄧㄣˊ ㄕˋ ㄒㄩㄝˋ ㄧㄚ ㄐㄧˋ"
+  },
+  {
+    "item": "水銀式體溫計",
+    "type": "収集不可",
+    "desc": "請帶至加古川環境美化中心。",
+    "pinying": "shuǐyín shì tǐwēnjì",
+    "zhuying": "ㄕㄨㄟˇ ㄧㄣˊ ㄕˋ ㄊㄧˇ ㄨㄣ ㄐㄧˋ"
+  },
+  {
+    "item": "報紙",
+    "type": "紙類",
+    "desc": "與摺頁傳單一併回收。",
+    "pinying": "bàozhǐ",
+    "zhuying": "ㄅㄠˋ ㄓˇ"
+  },
+  {
+    "item": "廣告紙",
+    "type": "紙類",
+    "desc": "與報紙一併回收。",
+    "pinying": "guǎnggào zhǐ",
+    "zhuying": "ㄍㄨㄤˇ ㄍㄠˋ ㄓˇ"
+  },
+  {
+    "item": "紙袋、紙箱",
+    "type": "紙類",
+    "desc": "請去除紙以外的雜物。",
+    "pinying": "zhǐdài, zhǐxiāng",
+    "zhuying": "ㄓˇ ㄉㄞˋ 、 ㄓˇ ㄒㄧㄤ"
+  },
+  {
+    "item": "包裝紙",
+    "type": "紙類",
+    "desc": "請去除紙以外的雜物。如有污損請丟棄至可燃垃圾。",
+    "pinying": "bāozhuāng zhǐ",
+    "zhuying": "ㄅㄠ ㄓㄨㄤ ㄓˇ"
+  },
+  {
+    "item": "明信片",
+    "type": "紙類",
+    "desc": "請去除紙以外的雜物。折疊式明信片、附照片的明信片請丟棄至可燃垃圾。注意別洩漏個人信息。",
+    "pinying": "míngxìnpiàn",
+    "zhuying": "ㄇㄧㄥˊ ㄒㄧㄣˋ ㄆㄧㄢˋ"
+  },
+  {
+    "item": "信封",
+    "type": "紙類",
+    "desc": "請去除紙、玻璃膠帶以外的雜物。",
+    "pinying": "xìnfēng",
+    "zhuying": "ㄒㄧㄣˋ ㄈㄥ"
+  },
+  {
+    "item": "複印紙、影印紙",
+    "type": "紙類",
+    "desc": "請去除紙以外的雜物。",
+    "pinying": "fùyìnzhǐ, yǐng yìn zhǐ",
+    "zhuying": "ㄈㄨˋ ㄧㄣˋ ㄓˇ 、 ㄧㄥˇ ㄧㄣˋ ㄓˇ"
+  },
+  {
+    "item": "筆記本",
+    "type": "紙類",
+    "desc": "請去除紙以外的雜物。",
+    "pinying": "bǐjìběn",
+    "zhuying": "ㄅㄧˇ ㄐㄧˋ ㄅㄣˇ"
+  },
+  {
+    "item": "小冊子、宣傳冊子",
+    "type": "紙類",
+    "desc": "請去除紙以外的雜物。",
+    "pinying": "xiǎocèzi, xuānchuán cèzi",
+    "zhuying": "ㄒㄧㄠˇ ㄘㄜˋ ㄗˇ 、 ㄒㄩㄢ cㄏㄨㄢˊ ㄘㄜˋ ㄗˇ"
+  },
+  {
+    "item": "厚紙板",
+    "type": "紙類",
+    "desc": "請去除紙以外的雜物。",
+    "pinying": "hòuzhǐ bǎn",
+    "zhuying": "ㄏㄡˋ ㄓˇ ㄅㄢˇ"
+  },
+  {
+    "item": "名片",
+    "type": "紙類",
+    "desc": "請去除紙以外的雜物。",
+    "pinying": "míngpiàn",
+    "zhuying": "ㄇㄧㄥˊ ㄆㄧㄢˋ"
+  },
+  {
+    "item": "紙箱",
+    "type": "紙類",
+    "desc": "請確實綑綁。",
+    "pinying": "zhǐxiāng",
+    "zhuying": "ㄓˇ ㄒㄧㄤ"
+  },
+  {
+    "item": "服飾紙箱",
+    "type": "紙類",
+    "desc": "",
+    "pinying": "fúshì zhǐxiāng",
+    "zhuying": "ㄈㄨˊ ㄕˋ ㄓˇ ㄒㄧㄤ"
+  },
+  {
+    "item": "繪本、圖畫書、童書",
+    "type": "紙類",
+    "desc": "",
+    "pinying": "huìběn, túhuà shū, tóng shū",
+    "zhuying": "ㄏㄨㄟˋ ㄅㄣˇ 、 ㄊㄨˊ ㄏㄨㄚˋ ㄕㄨ 、 ㄊㄨㄥˊ ㄕㄨ"
+  },
+  {
+    "item": "教科書",
+    "type": "紙類",
+    "desc": "",
+    "pinying": "jiàokēshū",
+    "zhuying": "ㄐㄧㄠˋ ㄎㄜ ㄕㄨ"
+  },
+  {
+    "item": "雜誌類（如週刊、月刊、雜誌等）",
+    "type": "紙類",
+    "desc": "",
+    "pinying": "zázhì lèi (rú zhōukān, yuèkān, zázhì děng)",
+    "zhuying": "ㄗㄚˊ ㄓˋ ㄌㄟˋ （ ㄖㄨˊ ㄓㄡ ㄎㄢ 、 ㄩㄝˋ ㄎㄢ 、 ㄗㄚˊ ㄓˋ ㄉㄥˇ ）"
+  },
+  {
+    "item": "紙盒（500ml以上飲料用等）",
+    "type": "紙類",
+    "desc": "",
+    "pinying": "zhǐ hé (500ml yǐshàng yǐnliào yòng děng)",
+    "zhuying": "ㄓˇ ㄏㄜˊ （ 500ml ㄧˇ ㄕㄤˋ ㄧㄣˇ ㄌㄧㄠˋ ㄩㄥˋ ㄉㄥˇ ）"
+  },
+  {
+    "item": "字典、辭典",
+    "type": "紙類",
+    "desc": "",
+    "pinying": "zìdiǎn, cídiǎn",
+    "zhuying": "ㄗˋ ㄉㄧㄢˇ 、 ㄘˊ ㄉㄧㄢˇ"
+  },
+  {
+    "item": "日光燈",
+    "type": "日光燈",
+    "desc": "",
+    "pinying": "rìguāngdēng",
+    "zhuying": "ㄖˋ ㄍㄨㄤ ㄉㄥ"
+  },
+  {
+    "item": "電池（鹼性電池、碳鋅電池）",
+    "type": "電池",
+    "desc": "於乾電池、日光燈回收日時回收。",
+    "pinying": "diànchí (jiǎn xìng diànchí, tàn xīn diànchí)",
+    "zhuying": "ㄉㄧㄢˋ ㄔˊ （ ㄐㄧㄢˇ ㄒㄧㄥˋ ㄉㄧㄢˋ ㄔˊ 、 ㄊㄢˋ ㄒㄧㄣ ㄉㄧㄢˋ ㄔˊ ）"
+  },
+  {
+    "item": "鎳鎘充電電池（鎳氫電池等）",
+    "type": "電池",
+    "desc": "如果可以，請投置於電器行的回收箱。",
+    "pinying": "niè lì chōngdiàn diànchí (niè qīng diànchí děng)",
+    "zhuying": "ㄋㄧㄝˋ ㄍㄜˊ cㄏㄨㄥ ㄉㄧㄢˋ ㄉㄧㄢˋ ㄔˊ （ ㄋㄧㄝˋ ㄑㄧㄥ ㄉㄧㄢˋ ㄔˊ ㄉㄥˇ ）"
+  },
+  {
+    "item": "乾電池（可充電）",
+    "type": "電池",
+    "desc": "如果可以，請投置於電器行的回收箱。",
+    "pinying": "gāndiànchí (kě chōngdiàn)",
+    "zhuying": "ㄍㄢ ㄉㄧㄢˋ ㄔˊ （ ㄎㄜˇ cㄏㄨㄥ ㄉㄧㄢˋ ）"
+  },
+  {
+    "item": "鈕扣電池",
+    "type": "電池",
+    "desc": "用透明膠帶等包裹，使之絕緣後，投置於經銷商等鈕扣電池回收箱中。",
+    "pinying": "niǔkòu diànchí",
+    "zhuying": "ㄋㄧㄡˇ ㄎㄡˋ ㄉㄧㄢˋ ㄔˊ"
+  },
+  {
+    "item": "鹼性電池",
+    "type": "電池",
+    "desc": "",
+    "pinying": "jiǎn xìng diànchí",
+    "zhuying": "ㄐㄧㄢˇ ㄒㄧㄥˋ ㄉㄧㄢˋ ㄔˊ"
+  },
+  {
+    "item": "冷氣（含室內機、室外機）",
+    "type": "家電回收",
+    "desc": "請直接與購買商家、合作商家聯繫。",
+    "pinying": "lěngqì (hán shìnèi jī, shìwài jī)",
+    "zhuying": "ㄌㄥˇ ㄑㄧˋ （ ㄏㄢˊ ㄕˋ ㄋㄟˋ ㄐㄧ 、 ㄕˋ ㄨㄞˋ ㄐㄧ ）"
+  },
+  {
+    "item": "空調（含室外機）",
+    "type": "家電回收",
+    "desc": "請直接與購買商家、合作商家聯繫。",
+    "pinying": "kòngtiáo (hán shìwài jī)",
+    "zhuying": "ㄎㄨㄥ ㄉㄧㄠˋ （ ㄏㄢˊ ㄕˋ ㄨㄞˋ ㄐㄧ ）"
+  },
+  {
+    "item": "電視",
+    "type": "家電回收",
+    "desc": "請直接與購買商家、合作商家聯繫。",
+    "pinying": "diànshì",
+    "zhuying": "ㄉㄧㄢˋ ㄕˋ"
+  },
+  {
+    "item": "烘乾機",
+    "type": "家電回收",
+    "desc": "請直接與購買商家、合作商家聯繫。",
+    "pinying": "hōng gān jī",
+    "zhuying": "ㄏㄨㄥ ㄍㄢ ㄐㄧ"
+  },
+  {
+    "item": "洗衣機",
+    "type": "家電回收",
+    "desc": "請直接與購買商家、合作商家聯繫。",
+    "pinying": "xǐyījī",
+    "zhuying": "ㄒㄧˇ ㄧ ㄐㄧ"
+  },
+  {
+    "item": "冰箱、冰櫃",
+    "type": "家電回收",
+    "desc": "請直接與購買商家、合作商家聯繫。",
+    "pinying": "bīngxiāng, bīngguì",
+    "zhuying": "ㄅㄧㄥ ㄒㄧㄤ 、 ㄅㄧㄥ ㄍㄨㄟˋ"
+  },
+  {
+    "item": "外套",
+    "type": "衣類",
+    "desc": "髒衣服請丟棄至可燃垃圾。",
+    "pinying": "wàitào",
+    "zhuying": "ㄨㄞˋ ㄊㄠˋ"
+  },
+  {
+    "item": "服飾（中古、二手）",
+    "type": "衣類",
+    "desc": "過度毀損髒污、塑膠製的物件請丟棄至可燃垃圾。",
+    "pinying": "fúshì (zhōnggǔ, èrshǒu)",
+    "zhuying": "ㄈㄨˊ ㄕˋ （ ㄓㄨㄥ ㄍㄨˇ 、 ㄦˋ ㄕㄡˇ ）"
+  },
+  {
+    "item": "西裝",
+    "type": "衣類",
+    "desc": "",
+    "pinying": "xīzhuāng",
+    "zhuying": "ㄒㄧ ㄓㄨㄤ"
+  },
+  {
+    "item": "滑雪服",
+    "type": "衣類",
+    "desc": "",
+    "pinying": "huáxuě fú",
+    "zhuying": "ㄏㄨㄚˊ ㄒㄩㄝˇ ㄈㄨˊ"
+  },
+  {
+    "item": "毛衣、毛線衣",
+    "type": "衣類",
+    "desc": "",
+    "pinying": "máoyī, máoxiàn yī",
+    "zhuying": "ㄇㄠˊ ㄧ 、 ㄇㄠˊ ㄒㄧㄢˋ ㄧ"
+  },
+  {
+    "item": "羽絨服、羽絨外套",
+    "type": "衣類",
+    "desc": "",
+    "pinying": "yǔróngfú, yǔróng wàitào",
+    "zhuying": "ㄩˇ ㄖㄨㄥˊ ㄈㄨˊ 、 ㄩˇ ㄖㄨㄥˊ ㄨㄞˋ ㄊㄠˋ"
+  },
+  {
+    "item": "浴衣",
+    "type": "衣類",
+    "desc": "",
+    "pinying": "yùyī",
+    "zhuying": "ㄩˋ ㄧ"
+  },
+  {
+    "item": "襯衫",
+    "type": "衣類",
+    "desc": "",
+    "pinying": "chènshān",
+    "zhuying": "cㄏㄣˋ ㄕㄢ"
+  },
+  {
+    "item": "制服",
+    "type": "衣類",
+    "desc": "",
+    "pinying": "zhìfú",
+    "zhuying": "ㄓˋ ㄈㄨˊ"
+  },
+  {
+    "item": "毛皮",
+    "type": "衣類",
+    "desc": "",
+    "pinying": "máopí",
+    "zhuying": "ㄇㄠˊ ㄆㄧˊ"
+  },
+  {
+    "item": "衣服",
+    "type": "衣類",
+    "desc": "",
+    "pinying": "yīfú",
+    "zhuying": "ㄧ ㄈㄨˊ"
+  },
+  {
+    "item": "寶特瓶（飲料、食品用）",
+    "type": "寶特瓶",
+    "desc": "沒有回收標誌的寶特瓶、油污殘留等請丟棄至可燃垃圾。",
+    "pinying": "bǎo tè píng (yǐnliào, shípǐn yòng)",
+    "zhuying": "ㄅㄠˇ ㄊㄜˋ ㄆㄧㄥˊ （ ㄧㄣˇ ㄌㄧㄠˋ 、 ㄕˊ ㄆㄧㄣˇ ㄩㄥˋ ）"
+  },
+  {
+    "item": "瓶（飲料、食品用）",
+    "type": "瓶類",
+    "desc": "請將瓶中清潔洗淨。",
+    "pinying": "píng (yǐnliào, shípǐn yòng)",
+    "zhuying": "ㄆㄧㄥˊ （ ㄧㄣˇ ㄌㄧㄠˋ 、 ㄕˊ ㄆㄧㄣˇ ㄩㄥˋ ）"
+  },
+  {
+    "item": "電腦、電子計算機",
+    "type": "電腦回收",
+    "desc": "請求製造商、電腦3R推進協會回收。",
+    "pinying": "diànnǎo, diànzǐ jìsuànjī",
+    "zhuying": "ㄉㄧㄢˋ ㄋㄠˇ 、 ㄉㄧㄢˋ ㄗˇ ㄐㄧˋ ㄙㄨㄢˋ ㄐㄧ"
+  },
+  {
+    "item": "筆記型電腦、筆電",
+    "type": "電腦回收",
+    "desc": "可以的話，請投置於小型家電回收箱。或請求製造商、電腦3R推進協會回收。",
+    "pinying": "bǐjì xíng diànnǎo, bǐ diàn",
+    "zhuying": "ㄅㄧˇ ㄐㄧˋ ㄒㄧㄥˊ ㄉㄧㄢˋ ㄋㄠˇ 、 ㄅㄧˇ ㄉㄧㄢˋ"
+  },
+  {
+    "item": "顯示器、電腦螢幕（PC)",
+    "type": "電腦回收",
+    "desc": "",
+    "pinying": "xiǎnshìqì, diànnǎo yíngmù (PC)",
+    "zhuying": "ㄒㄧㄢˇ ㄕˋ ㄑㄧˋ 、 ㄉㄧㄢˋ ㄋㄠˇ ㄧㄥˊ ㄇㄨˋ （ PC )"
+  },
+  {
+    "item": "瓦斯罐、瓦斯瓶",
+    "type": "罐類",
+    "desc": "內容物使用完畢、淨空，打開放置屋外。",
+    "pinying": "wǎsī guàn, wǎsī píng",
+    "zhuying": "ㄨㄚˇ ㄙ ㄍㄨㄢˋ 、 ㄨㄚˇ ㄙ ㄆㄧㄥˊ"
+  },
+  {
+    "item": "罐子（瓦斯容器、噴霧罐）",
+    "type": "罐類",
+    "desc": "內容物使用完畢、淨空，打開放置屋外。",
+    "pinying": "guànzi (wǎsī róngqì, pēnwù guàn)",
+    "zhuying": "ㄍㄨㄢˋ ㄗˇ （ ㄨㄚˇ ㄙ ㄖㄨㄥˊ ㄑㄧˋ 、 ㄆㄣ ㄨˋ ㄍㄨㄢˋ ）"
+  },
+  {
+    "item": "噴霧罐、壓縮罐",
+    "type": "罐類",
+    "desc": "內容物使用完畢、淨空，打開放置屋外。",
+    "pinying": "pēnwù guàn, yāsuō guàn",
+    "zhuying": "ㄆㄣ ㄨˋ ㄍㄨㄢˋ 、 ㄧㄚ ㄙㄨㄛ ㄍㄨㄢˋ"
+  },
+  {
+    "item": "殺蟲劑（噴霧型）",
+    "type": "罐類",
+    "desc": "內容物使用完畢、淨空，打開放置屋外。",
+    "pinying": "shā chóng jì (pēnwù xíng)",
+    "zhuying": "ㄕㄚ cㄏㄨㄥˊ ㄐㄧˋ （ ㄆㄣ ㄨˋ ㄒㄧㄥˊ ）"
+  },
+  {
+    "item": "罐子（飲料、食品用）",
+    "type": "罐類",
+    "desc": "請將瓶中清潔洗淨。",
+    "pinying": "guànzi (yǐnliào, shípǐn yòng)",
+    "zhuying": "ㄍㄨㄢˋ ㄗˇ （ ㄧㄣˇ ㄌㄧㄠˋ 、 ㄕˊ ㄆㄧㄣˇ ㄩㄥˋ ）"
+  }
+]

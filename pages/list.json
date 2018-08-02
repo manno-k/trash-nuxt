@@ -1,0 +1,4601 @@
+[
+  {
+    "item": "アイスノン（保冷枕）",
+    "kana": "あいすのん（ほれいまくら）",
+    "roma": "aisunon（horeimakura）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "アイスピック",
+    "kana": "あいすぴっく",
+    "roma": "aisupikku",
+    "type": "燃やさないごみ",
+    "desc": "紙等に包んで「キケン」と表示"
+  },
+  {
+    "item": "アイロン",
+    "kana": "あいろん",
+    "roma": "airon",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "アイロン台",
+    "kana": "あいろんだい",
+    "roma": "airondai",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "アコーディオンカーテン",
+    "kana": "あこーでぃおんかーてん",
+    "roma": "akodeionkaten",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "アタッシュケース（金属製）",
+    "kana": "あたっしゅけーす（きんぞくせい）",
+    "roma": "atasshukesu（kinzokusei）",
+    "type": "燃やさないごみ",
+    "desc": "革製は燃やすごみ"
+  },
+  {
+    "item": "アダプター（ＡＣアダプター）",
+    "kana": "あだぷたー（えーしーあだぷたー）",
+    "roma": "adaputa（eshiadaputa）",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "厚紙",
+    "kana": "あつがみ",
+    "roma": "atsugami",
+    "type": "紙類",
+    "desc": "雑がみとして分別"
+  },
+  {
+    "item": "圧着はがき（めくるはがき）",
+    "kana": "あっちゃくはがき（めくるはがき）",
+    "roma": "atchakuhagaki（mekuruhagaki）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "油こし容器",
+    "kana": "あぶらこしようき",
+    "roma": "aburakoshiyoki",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "油のボトル（プラスチック製）",
+    "kana": "あぶらのぼとる（ぷらすちっくせい）",
+    "roma": "aburanobotoru（purasuchikkusei）",
+    "type": "燃やすごみ",
+    "desc": "中を空にして出す"
+  },
+  {
+    "item": "油紙・油とり紙",
+    "kana": "あぶらがみ・あぶらとりし",
+    "roma": "aburagami・aburatorishi",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "編み機",
+    "kana": "あみき",
+    "roma": "amiki",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "網戸",
+    "kana": "あみど",
+    "roma": "amido",
+    "type": "粗大ごみ",
+    "desc": "網のみは燃やすごみ"
+  },
+  {
+    "item": "編み針（金属製）",
+    "kana": "あみばり（きんぞくせい）",
+    "roma": "amibari（kinzokusei）",
+    "type": "燃やさないごみ",
+    "desc": "木製は燃やすごみ"
+  },
+  {
+    "item": "アルカリ電池",
+    "kana": "あるかりでんち",
+    "roma": "arukaridenchi",
+    "type": "乾電池",
+    "desc": ""
+  },
+  {
+    "item": "アルバム",
+    "kana": "あるばむ",
+    "roma": "arubamu",
+    "type": "燃やすごみ",
+    "desc": "金具はできるだけ取り外して燃やさないごみへ"
+  },
+  {
+    "item": "アルミサッシ",
+    "kana": "あるみさっし",
+    "roma": "arumisasshi",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "アルミ箔・ホイル（調理用）・アルミ箔鍋",
+    "kana": "あるみはく・ほいる（ちょうりよう）・あるみはくなべ",
+    "roma": "arumihaku・hoiru（choriyo）・arumihakunabe",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "泡だて器",
+    "kana": "あわだてき",
+    "roma": "awadateki",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "アンテナ",
+    "kana": "あんてな",
+    "roma": "antena",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "安全ピン",
+    "kana": "あんぜんぴん",
+    "roma": "anzempin",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "安全靴（鉄板入り）",
+    "kana": "あんぜんぐつ（てっぱんいり）",
+    "roma": "anzengutsu（teppaniri）",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "石・砂利",
+    "kana": "いし・じゃり",
+    "roma": "ishi・jari",
+    "type": "処理困難",
+    "desc": "処理業者、販売店に相談"
+  },
+  {
+    "item": "石うす",
+    "kana": "いしうす",
+    "roma": "ishiusu",
+    "type": "処理困難",
+    "desc": "処理業者、販売店に相談"
+  },
+  {
+    "item": "衣装ケース",
+    "kana": "いしょうけーす",
+    "roma": "ishokesu",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものでプラスチック製は燃やすごみ、金属製は燃やさないごみ"
+  },
+  {
+    "item": "衣装箱（段ボール製など）",
+    "kana": "いしょうばこ（だんぼーるせいなど）",
+    "roma": "ishobako（damboruseinado）",
+    "type": "紙類",
+    "desc": ""
+  },
+  {
+    "item": "椅子",
+    "kana": "いす",
+    "roma": "isu",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るもので、木製・プラスチック製は燃やすごみ、金属製は燃やさないごみ"
+  },
+  {
+    "item": "板ガラス（窓ガラスなど）",
+    "kana": "いたがらす（まどがらすなど）",
+    "roma": "itagarasu（madogarasunado）",
+    "type": "燃やさないごみ",
+    "desc": "紙等に包んで「キケン」と表示。４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "板きれ",
+    "kana": "いたきれ",
+    "roma": "itakire",
+    "type": "粗大ごみ",
+    "desc": "30cm四方、厚さ5cm以下なら燃やすごみ"
+  },
+  {
+    "item": "板戸",
+    "kana": "いたど",
+    "roma": "itado",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "一輪車（スポーツ用）",
+    "kana": "いちりんしゃ（すぽーつよう）",
+    "roma": "ichirinsha（supotsuyo）",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "一輪車（荷物運搬用）",
+    "kana": "いちりんしゃ（にもつうんぱんよう）",
+    "roma": "ichirinsha（nimotsumpanyo）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "一斗缶（１８㍑）",
+    "kana": "いっとかん（１８㍑）",
+    "roma": "ittokan（１８㍑）",
+    "type": "燃やさないごみ",
+    "desc": "中身を空にし、フタを外す"
+  },
+  {
+    "item": "鋳物なべ",
+    "kana": "いものなべ",
+    "roma": "imononabe",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "医療用品（注射針、輸血パック等）",
+    "kana": "いりょうようひん（ちゅうしゃばり、ゆけつぱっくとう）",
+    "roma": "iryoyohin（chushabari、yuketsupakkuto）",
+    "type": "処理困難",
+    "desc": "購入した病院等に相談"
+  },
+  {
+    "item": "医療用品（湿布、三角巾等）",
+    "kana": "いりょうようひん（しっぷ、さんかくきんとう）",
+    "roma": "iryoyohin（shippu、sankakukinto）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "衣類（古着）",
+    "kana": "いるい（ふるぎ）",
+    "roma": "irui（furugi）",
+    "type": "衣類",
+    "desc": "汚れが酷いもの、ビニール製のものは燃やすごみ"
+  },
+  {
+    "item": "衣類乾燥機",
+    "kana": "いるいかんそうき",
+    "roma": "iruikansoki",
+    "type": "家電リサイクル",
+    "desc": "購入店・引き取り協力店に相談"
+  },
+  {
+    "item": "インスタント食品容器（アルミ製）",
+    "kana": "いんすたんとしょくひんようき（あるみせい）",
+    "roma": "insutantoshokuhinyoki（arumisei）",
+    "type": "燃やさないごみ",
+    "desc": "中をきれいに洗う。プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "印鑑、判子（木製、プラスチック製）",
+    "kana": "いんかん、はんこ（もくせい、ぷらすちっくせい）",
+    "roma": "inkan、hanko（mokusei、purasuchikkusei）",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "ウェットティッシュ",
+    "kana": "うぇっとてぃっしゅ",
+    "roma": "uettoteisshu",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "植木鉢",
+    "kana": "うえきばち",
+    "roma": "uekibachi",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ、４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "植木用支柱",
+    "kana": "うえきようしちゅう",
+    "roma": "uekiyoshichu",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ、４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "浮き袋・浮き輪",
+    "kana": "うきぶくろ・うきわ",
+    "roma": "ukibukuro・ukiwa",
+    "type": "燃やすごみ",
+    "desc": "空気を抜く"
+  },
+  {
+    "item": "腕時計",
+    "kana": "うでどけい",
+    "roma": "udedokei",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "羽毛ふとん",
+    "kana": "うもうふとん",
+    "roma": "umofuton",
+    "type": "粗大ごみ",
+    "desc": "ひもでくくる"
+  },
+  {
+    "item": "上敷き（畳の上敷き：いぐさ）",
+    "kana": "うわしき（たたみのうわしき：いぐさ）",
+    "roma": "uwashiki（tataminowashiki：igusa）",
+    "type": "粗大ごみ",
+    "desc": "ひもでくくる。50cm四方以下は燃やすごみ"
+  },
+  {
+    "item": "運動靴",
+    "kana": "うんどうぐつ",
+    "roma": "undogutsu",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "エアコン（室外機含む）",
+    "kana": "えあこん（しつがいきふくむ）",
+    "roma": "eakon（shitsugaikifukumu）",
+    "type": "家電リサイクル",
+    "desc": "購入店・引き取り協力店に相談"
+  },
+  {
+    "item": "エアロバイク",
+    "kana": "えあろばいく",
+    "roma": "earobaiku",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "映写機",
+    "kana": "えいしゃき",
+    "roma": "eishaki",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ、４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "絵の具のチューブ",
+    "kana": "えのぐのちゅーぶ",
+    "roma": "enogunochubu",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "絵本",
+    "kana": "えほん",
+    "roma": "ehon",
+    "type": "紙類",
+    "desc": ""
+  },
+  {
+    "item": "MD・MOディスク",
+    "kana": "えむでぃー・えむおーでぃすく",
+    "roma": "emudei・emuodeisuku",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "LED電球",
+    "kana": "えるいーでぃーでんきゅう",
+    "roma": "eruideidenkyu",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "エレクトーン（電子オルガン）",
+    "kana": "えれくとーん（でんしおるがん）",
+    "roma": "erekuton（denshiorugan）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "エンジンオイル缶",
+    "kana": "えんじんおいるかん",
+    "roma": "enjinoirukan",
+    "type": "燃やさないごみ",
+    "desc": "中身を空にし、フタを外す"
+  },
+  {
+    "item": "延長コード",
+    "kana": "えんちょうこーど",
+    "roma": "enchokodo",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "塩ビ管",
+    "kana": "えんびかん",
+    "roma": "embikan",
+    "type": "粗大ごみ",
+    "desc": "長さ50cm以下なら燃やすごみ"
+  },
+  {
+    "item": "えんぴつ",
+    "kana": "えんぴつ",
+    "roma": "empitsu",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "えんぴつ削り器",
+    "kana": "えんぴつけずりき",
+    "roma": "empitsukezuriki",
+    "type": "燃やさないごみ",
+    "desc": "電動式はできるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "塩ビ製のボトル（酒等の容器）",
+    "kana": "えんびせいのぼとる（さけとうのようき）",
+    "roma": "embiseinobotoru（saketonoyoki）",
+    "type": "燃やすごみ",
+    "desc": "ﾍﾟｯﾄﾎﾞﾄﾙﾘｻｲｸﾙﾏｰｸのないもの"
+  },
+  {
+    "item": "オアシス（生け花用）",
+    "kana": "おあしす（いけばなよう）",
+    "roma": "oashisu（ikebanayo）",
+    "type": "燃やすごみ",
+    "desc": "できるだけ乾燥させる"
+  },
+  {
+    "item": "オイルヒーター",
+    "kana": "おいるひーたー",
+    "roma": "oiruhita",
+    "type": "処理困難",
+    "desc": "販売業者に相談"
+  },
+  {
+    "item": "オーディオ機器",
+    "kana": "おーでぃおきき",
+    "roma": "odeiokiki",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "オートバイ（原付、バイクなど）",
+    "kana": "おーとばい（げんつき、ばいくなど）",
+    "roma": "otobai（gentsuki、baikunado）",
+    "type": "処理困難",
+    "desc": "販売業者、二輪ﾘｻｲｸﾙｺｰﾙｾﾝﾀｰに相談"
+  },
+  {
+    "item": "オーブントースター",
+    "kana": "おーぶんとーすたー",
+    "roma": "obuntosuta",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "オーブンレンジ",
+    "kana": "おーぶんれんじ",
+    "roma": "obunrenji",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "桶",
+    "kana": "おけ",
+    "roma": "oke",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るもので、金属製は燃やさないごみ、木製・プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "お玉（しゃくし）金属",
+    "kana": "おたま（しゃくし）きんぞく",
+    "roma": "otama（shakushi）kinzoku",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "落ち葉",
+    "kana": "おちば",
+    "roma": "ochiba",
+    "type": "剪定枝",
+    "desc": "土や砂をよく落とし、４５㍑のポリ袋に入れて出す。自己搬入時はリサイクルセンターへ。（竹類・毒性の植物・つる性の植物・野菜・果物類は「燃やすごみ」）"
+  },
+  {
+    "item": "おまる（室内トイレ） 子供用",
+    "kana": "おまる（しつないといれ） こどもよう",
+    "roma": "omaru（shitsunaitoire） kodomoyo",
+    "type": "燃やすごみ",
+    "desc": "４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "おむつ",
+    "kana": "おむつ",
+    "roma": "omutsu",
+    "type": "燃やすごみ",
+    "desc": "汚物は取り除く"
+  },
+  {
+    "item": "おもちゃ（金属製、電動式）",
+    "kana": "おもちゃ（きんぞくせい、でんどうしき）",
+    "roma": "omocha（kinzokusei、dendoshiki）",
+    "type": "燃やさないごみ",
+    "desc": "電動式はできるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "おもちゃ（木製、プラスチック製）",
+    "kana": "おもちゃ（もくせい、ぷらすちっくせい）",
+    "roma": "omocha（mokusei、purasuchikkusei）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "オルガン",
+    "kana": "おるがん",
+    "roma": "orugan",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "おろし金（金属）",
+    "kana": "おろしがね（きんぞく）",
+    "roma": "oroshigane（kinzoku）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "おわん（陶器）",
+    "kana": "おわん（とうき）",
+    "roma": "owan（toki）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "温度計（水銀式）",
+    "kana": "おんどけい（すいぎんしき）",
+    "roma": "ondokei（suiginshiki）",
+    "type": "収集不可",
+    "desc": "加古川市環境美化センターへ持参"
+  },
+  {
+    "item": "温度計",
+    "kana": "おんどけい",
+    "roma": "ondokei",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "温風ヒーター",
+    "kana": "おんぷうひーたー",
+    "roma": "ompuhita",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "カーステレオ（カーコンポ）",
+    "kana": "かーすてれお（かーこんぽ）",
+    "roma": "kasutereo（kakompo）",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ販売店か小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "カーテン",
+    "kana": "かーてん",
+    "roma": "katen",
+    "type": "燃やすごみ",
+    "desc": "50cm四方以下に裁断し、４５㍑のポリ袋に入れる"
+  },
+  {
+    "item": "カーテンレール",
+    "kana": "かーてんれーる",
+    "roma": "katenreru",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "カード",
+    "kana": "かーど",
+    "roma": "kado",
+    "type": "燃やすごみ",
+    "desc": "キャッシュカードなどは再使用できないように切断"
+  },
+  {
+    "item": "カーペット（じゅうたん）",
+    "kana": "かーぺっと（じゅうたん）",
+    "roma": "kapetto（jutan）",
+    "type": "粗大ごみ",
+    "desc": "丸めてひもでくくる\n \n 50cm四方以下は燃やすごみ"
+  },
+  {
+    "item": "カーペットローラー",
+    "kana": "かーぺっとろーらー",
+    "roma": "kapettorora",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "貝殻",
+    "kana": "かいがら",
+    "roma": "kaigara",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "介護用電動ベッド",
+    "kana": "かいごようでんどうべっど",
+    "roma": "kaigoyodendobeddo",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "懐中電灯",
+    "kana": "かいちゅうでんとう",
+    "roma": "kaichudento",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。乾電池は抜いて資源物"
+  },
+  {
+    "item": "カイロ（金属）",
+    "kana": "かいろ（きんぞく）",
+    "roma": "kairo（kinzoku）",
+    "type": "燃やさないごみ",
+    "desc": "中の燃料は必ず抜くこと"
+  },
+  {
+    "item": "カイロ（使い捨て）",
+    "kana": "かいろ（つかいすて）",
+    "roma": "kairo（tsukaisute）",
+    "type": "燃やすごみ",
+    "desc": "開けて水にぬらす"
+  },
+  {
+    "item": "鏡（手鏡など）",
+    "kana": "かがみ（てかがみなど）",
+    "roma": "kagami（tekagaminado）",
+    "type": "燃やさないごみ",
+    "desc": "４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "額縁",
+    "kana": "がくぶち",
+    "roma": "gakubuchi",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るもので、金属製・ガラス製は燃やさないごみ、木製・プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "掛け軸",
+    "kana": "かけじく",
+    "roma": "kakejiku",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "傘、折りたたみ傘",
+    "kana": "かさ、おりたたみがさ",
+    "roma": "kasa、oritatamigasa",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "傘たて",
+    "kana": "かさたて",
+    "roma": "kasatate",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "加湿器",
+    "kana": "かしつき",
+    "roma": "kashitsuki",
+    "type": "燃やさないごみ",
+    "desc": "４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "ガス給湯器",
+    "kana": "がすきゅうとうき",
+    "roma": "gasukyutoki",
+    "type": "処理困難",
+    "desc": "販売業者に相談"
+  },
+  {
+    "item": "ガスコンロ",
+    "kana": "がすこんろ",
+    "roma": "gasukonro",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "ガスストーブ",
+    "kana": "がすすとーぶ",
+    "roma": "gasusutobu",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "ガステーブル",
+    "kana": "がすてーぶる",
+    "roma": "gasuteburu",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "ガスボンベ（プロパンガスなど）",
+    "kana": "がすぼんべ（ぷろぱんがすなど）",
+    "roma": "gasubombe（puropangasunado）",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "カセットガスボンベ",
+    "kana": "かせっとがすぼんべ",
+    "roma": "kasettogasubombe",
+    "type": "かん類",
+    "desc": "中身を使い切り、屋外で穴を開ける"
+  },
+  {
+    "item": "カセットコンロ（本体）",
+    "kana": "かせっとこんろ（ほんたい）",
+    "roma": "kasettokonro（hontai）",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "カセットテープ",
+    "kana": "かせっとてーぷ",
+    "roma": "kasettotepu",
+    "type": "燃やすごみ",
+    "desc": "ケースも同様"
+  },
+  {
+    "item": "カセットデッキ",
+    "kana": "かせっとでっき",
+    "roma": "kasettodekki",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "カッターナイフ",
+    "kana": "かったーないふ",
+    "roma": "kattanaifu",
+    "type": "燃やさないごみ",
+    "desc": "紙等に包んで「キケン」と表示"
+  },
+  {
+    "item": "カッパ（合羽）",
+    "kana": "かっぱ（かっぱ）",
+    "roma": "kappa（kappa）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "かつら・つけ毛",
+    "kana": "かつら・つけげ",
+    "roma": "katsura・tsukege",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "蚊取りマット機",
+    "kana": "かとりまっとき",
+    "roma": "katorimattoki",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "蚊取り線香、蚊取りマット",
+    "kana": "かとりせんこう、かとりまっと",
+    "roma": "katorisenko、katorimatto",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "画びょう",
+    "kana": "がびょう",
+    "roma": "gabyo",
+    "type": "燃やさないごみ",
+    "desc": "紙等に包んで「キケン」と表示"
+  },
+  {
+    "item": "花びん（陶器）",
+    "kana": "かびん（とうき）",
+    "roma": "kabin（toki）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "鎌",
+    "kana": "かま",
+    "roma": "kama",
+    "type": "燃やさないごみ",
+    "desc": "紙等に包んで「キケン」と表示"
+  },
+  {
+    "item": "紙コップ、紙皿",
+    "kana": "かみこっぷ、かみざら",
+    "roma": "kamikoppu、kamizara",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "カミソリ",
+    "kana": "かみそり",
+    "roma": "kamisori",
+    "type": "燃やさないごみ",
+    "desc": "紙等に包んで「キケン」と表示"
+  },
+  {
+    "item": "紙パック（飲料用：500mL以上など）",
+    "kana": "かみぱっく（いんりょうよう：５００ｍＬいじょうなど）",
+    "roma": "kamipakku（inryoyo：５００ｍＬijonado）",
+    "type": "紙類",
+    "desc": ""
+  },
+  {
+    "item": "紙パック（飲料用：500mL未満など）",
+    "kana": "かみぱっく（いんりょうよう：５００ｍＬみまんなど）",
+    "roma": "kamipakku（inryoyo：５００ｍＬmimannado）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "紙パック（飲料用：内側銀色）",
+    "kana": "かみぱっく（いんりょうよう：うちがわぎんいろ）",
+    "roma": "kamipakku（inryoyo：uchigawaginiro）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "紙やすり（サンドペーパー）",
+    "kana": "かみやすり（さんどぺーぱー）",
+    "roma": "kamiyasuri（sandopepa）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "紙袋・紙箱",
+    "kana": "かみぶくろ・かみばこ",
+    "roma": "kamibukuro・kamibako",
+    "type": "紙類",
+    "desc": "雑がみとして分別。紙以外の部分は取り除く"
+  },
+  {
+    "item": "ガムテープ",
+    "kana": "がむてーぷ",
+    "roma": "gamutepu",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "カメラ",
+    "kana": "かめら",
+    "roma": "kamera",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "カラーボックス",
+    "kana": "からーぼっくす",
+    "roma": "karabokkusu",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "カラオケセット",
+    "kana": "からおけせっと",
+    "roma": "karaokesetto",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ガラス製品",
+    "kana": "がらすせいひん",
+    "roma": "garasuseihin",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "がれき",
+    "kana": "がれき",
+    "roma": "gareki",
+    "type": "処理困難",
+    "desc": "施工業者に相談"
+  },
+  {
+    "item": "革製品（革靴、かばん、ベルトなど）",
+    "kana": "かわせいひん（かわぐつ、かばん、べるとなど）",
+    "roma": "kawaseihin（kawagutsu、kaban、berutonado）",
+    "type": "燃やすごみ",
+    "desc": "金具はできるだけ取り外して燃やさないごみへ"
+  },
+  {
+    "item": "瓦",
+    "kana": "かわら",
+    "roma": "kawara",
+    "type": "処理困難",
+    "desc": "施工業者に相談"
+  },
+  {
+    "item": "かん（飲料、食品用）",
+    "kana": "かん（いんりょう、しょくひんよう）",
+    "roma": "kan（inryo、shokuhinyo）",
+    "type": "かん類",
+    "desc": "中をきれいに洗う"
+  },
+  {
+    "item": "かん（化学薬品、汚れが取れないもの等）",
+    "kana": "かん（かがくやくひん、よごれがとれないものとう）",
+    "roma": "kan（kagakuyakuhin、yogoregatorenaimonoto）",
+    "type": "燃やさないごみ",
+    "desc": "中を空にして出す"
+  },
+  {
+    "item": "かん（ガス容器、スプレー缶）",
+    "kana": "かん（がすようき、すぷれーかん）",
+    "roma": "kan（gasuyoki、supurekan）",
+    "type": "かん類",
+    "desc": "中身を使い切り、屋外で穴を開ける"
+  },
+  {
+    "item": "換気扇",
+    "kana": "かんきせん",
+    "roma": "kankisen",
+    "type": "燃やさないごみ",
+    "desc": "家庭で取り替えたものに限る。４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "換気扇のフィルター",
+    "kana": "かんきせんのふぃるたー",
+    "roma": "kankisennofuiruta",
+    "type": "燃やすごみ",
+    "desc": "家庭で取り替えたものに限る。金属製は燃やさないごみ"
+  },
+  {
+    "item": "乾燥剤（石灰・シリカゲル）",
+    "kana": "かんそうざい（せっかい・しりかげる）",
+    "roma": "kansozai（sekkai・shirikageru）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "乾電池（アルカリ・マンガン）",
+    "kana": "かんでんち（あるかり・まんがん）",
+    "roma": "kandenchi（arukari・mangan）",
+    "type": "乾電池",
+    "desc": "乾電池・蛍光灯の日に収集"
+  },
+  {
+    "item": "乾電池（充電用）",
+    "kana": "かんでんち（じゅうでんよう）",
+    "roma": "kandenchi（judenyo）",
+    "type": "乾電池",
+    "desc": "できるだけ電気店のリサイクルボックスへ"
+  },
+  {
+    "item": "感熱紙",
+    "kana": "かんねつし",
+    "roma": "kannetsushi",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "キーボード（楽器）",
+    "kana": "きーぼーど（がっき）",
+    "roma": "kibodo（gakki）",
+    "type": "粗大ごみ",
+    "desc": "投入口に入る場合はできるだけ小型家電ボックスへ。４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "キーボード（パソコン用品）",
+    "kana": "きーぼーど（ぱそこんようひん）",
+    "roma": "kibodo（pasokonyohin）",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "キーホルダー",
+    "kana": "きーほるだー",
+    "roma": "kihoruda",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "ギター",
+    "kana": "ぎたー",
+    "roma": "gita",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ギターのハードケース",
+    "kana": "ぎたーのはーどけーす",
+    "roma": "gitanohadokesu",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "キッチンマット",
+    "kana": "きっちんまっと",
+    "roma": "kitchimmatto",
+    "type": "燃やすごみ",
+    "desc": "50cm四方以下に裁断し、４５㍑のポリ袋に入れる"
+  },
+  {
+    "item": "キャスター付き旅行バッグ",
+    "kana": "きゃすたーつきりょこうばっぐ",
+    "roma": "kyasutatsukiryokobaggu",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "脚立",
+    "kana": "きゃたつ",
+    "roma": "kyatatsu",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "キャップ（金属製）",
+    "kana": "きゃっぷ（きんぞくせい）",
+    "roma": "kyappu（kinzokusei）",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "教科書",
+    "kana": "きょうかしょ",
+    "roma": "kyokasho",
+    "type": "紙類",
+    "desc": ""
+  },
+  {
+    "item": "鏡台（ドレッサー等）",
+    "kana": "きょうだい（どれっさーとう）",
+    "roma": "kyodai（doressato）",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "金庫（手提げ）",
+    "kana": "きんこ（てさげ）",
+    "roma": "kinko（tesage）",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "金庫（手提げ以外）",
+    "kana": "きんこ（てさげいがい）",
+    "roma": "kinko（tesageigai）",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "空気入れ（自転車用）",
+    "kana": "くうきいれ（じてんしゃよう）",
+    "roma": "kukiire（jitenshayo）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "空気清浄器",
+    "kana": "くうきせいじょうき",
+    "roma": "kukiseijoki",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "クーラー（エアコン・室外機含む）",
+    "kana": "くーらー（えあこん・しつがいきふくむ）",
+    "roma": "kura（eakon・shitsugaikifukumu）",
+    "type": "家電リサイクル法",
+    "desc": "購入店・引き取り協力店に相談"
+  },
+  {
+    "item": "クーラーボックス",
+    "kana": "くーらーぼっくす",
+    "roma": "kurabokkusu",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "くぎ",
+    "kana": "くぎ",
+    "roma": "kugi",
+    "type": "燃やさないごみ",
+    "desc": "紙等に包んで「キケン」と表示"
+  },
+  {
+    "item": "草",
+    "kana": "くさ",
+    "roma": "kusa",
+    "type": "剪定枝",
+    "desc": "土や砂をよく落とし、４５㍑のポリ袋に入れて出す。自己搬入時はリサイクルセンターへ。（竹類・毒性の植物・つる性の植物・野菜・果物類は「燃やすごみ」）"
+  },
+  {
+    "item": "草刈り機（エンジン式）",
+    "kana": "くさかりき（えんじんしき）",
+    "roma": "kusakariki（enjinshiki）",
+    "type": "処理困難",
+    "desc": "販売店に相談"
+  },
+  {
+    "item": "草刈り機（電動式）",
+    "kana": "くさかりき（でんどうしき）",
+    "roma": "kusakariki（dendoshiki）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "鎖（金属製）",
+    "kana": "くさり（きんぞくせい）",
+    "roma": "kusari（kinzokusei）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "薬（家庭用）",
+    "kana": "くすり（かていよう）",
+    "roma": "kusuri（kateiyo）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "靴",
+    "kana": "くつ",
+    "roma": "kutsu",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "靴型（シューズキーパー）",
+    "kana": "くつがた（しゅーずきーぱー）",
+    "roma": "kutsugata（shuzukipa）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "靴下類（靴下、地下足袋など）",
+    "kana": "くつしたるい（くつした、じかたびなど）",
+    "roma": "kutsushitarui（kutsushita、jikatabinado）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "クッション",
+    "kana": "くっしょん",
+    "roma": "kusshon",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やすごみ"
+  },
+  {
+    "item": "クリスマスツリー",
+    "kana": "くりすますつりー",
+    "roma": "kurisumasutsuri",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "クリップ",
+    "kana": "くりっぷ",
+    "roma": "kurippu",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "車椅子",
+    "kana": "くるまいす",
+    "roma": "kurumaisu",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "クレヨン・クレパス",
+    "kana": "くれよん・くれぱす",
+    "roma": "kureyon・kurepasu",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "グローブ（野球用）",
+    "kana": "ぐろーぶ（やきゅうよう）",
+    "roma": "gurobu（yakyuyo）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "鍬（くわ）",
+    "kana": "くわ（くわ）",
+    "roma": "kuwa（kuwa）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "蛍光灯",
+    "kana": "けいこうとう",
+    "roma": "keikoto",
+    "type": "蛍光灯",
+    "desc": ""
+  },
+  {
+    "item": "携帯電話",
+    "kana": "けいたいでんわ",
+    "roma": "keitaidenwa",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "毛糸",
+    "kana": "けいと",
+    "roma": "keito",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ゲームソフト（カセット、CD）",
+    "kana": "げーむそふと（かせっと、しーでぃー）",
+    "roma": "gemusofuto（kasetto、shidei）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ゲーム機（家庭用据え置機、ポータブル機等）",
+    "kana": "げーむき（かていようすえおきき、ぽーたぶるきとう）",
+    "roma": "gemuki（kateiyosueokiki、potaburukito）",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "毛皮",
+    "kana": "けがわ",
+    "roma": "kegawa",
+    "type": "衣類",
+    "desc": ""
+  },
+  {
+    "item": "劇薬",
+    "kana": "げきやく",
+    "roma": "gekiyaku",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "下駄",
+    "kana": "げた",
+    "roma": "geta",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "下駄箱",
+    "kana": "げたばこ",
+    "roma": "getabako",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "血圧計（水銀式）",
+    "kana": "けつあつけい（すいぎんしき）",
+    "roma": "ketsuatsukei（suiginshiki）",
+    "type": "収集不可",
+    "desc": "加古川市環境美化センターへ持参"
+  },
+  {
+    "item": "血圧計（電気式）",
+    "kana": "けつあつけい（でんきしき）",
+    "roma": "ketsuatsukei（denkishiki）",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "玄関マット",
+    "kana": "げんかんまっと",
+    "roma": "genkammatto",
+    "type": "燃やすごみ",
+    "desc": "50cm四方以下に裁断すること。金属製は燃やさないごみ、４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "剣道防具一式（竹刀以外）",
+    "kana": "けんどうぼうぐいっしき（しないいがい）",
+    "roma": "kendoboguisshiki（shinaiigai）",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "碁石",
+    "kana": "ごいし",
+    "roma": "goishi",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "広告紙",
+    "kana": "こうこくし",
+    "roma": "kokokushi",
+    "type": "紙類",
+    "desc": "新聞紙といっしょに出す"
+  },
+  {
+    "item": "氷枕",
+    "kana": "こおりまくら",
+    "roma": "korimakura",
+    "type": "燃やすごみ",
+    "desc": "金具は燃やさないごみ"
+  },
+  {
+    "item": "コート",
+    "kana": "こーと",
+    "roma": "koto",
+    "type": "衣類",
+    "desc": "汚れているものは燃やすごみ"
+  },
+  {
+    "item": "コーヒーメーカー",
+    "kana": "こーひーめーかー",
+    "roma": "kohimeka",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "ござ",
+    "kana": "ござ",
+    "roma": "goza",
+    "type": "粗大ごみ",
+    "desc": "ひもでくくる。50cm四方以下は燃やすごみ"
+  },
+  {
+    "item": "こたつ",
+    "kana": "こたつ",
+    "roma": "kotatsu",
+    "type": "粗大ごみ",
+    "desc": "天板を含めて1点とする"
+  },
+  {
+    "item": "こたつふとん",
+    "kana": "こたつふとん",
+    "roma": "kotatsufuton",
+    "type": "粗大ごみ",
+    "desc": "ひもでくくる"
+  },
+  {
+    "item": "碁盤(脚付）",
+    "kana": "ごばん(あしつき）",
+    "roma": "goban(ashitsuki）",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入っても粗大ごみ"
+  },
+  {
+    "item": "碁盤（うす手の木、2つ折タイプなど）",
+    "kana": "ごばん（うすでのき、２つおりたいぷなど）",
+    "roma": "goban（usudenoki、２tsuoritaipunado）",
+    "type": "燃やすごみ",
+    "desc": "４５㍑のポリ袋に入れて出す"
+  },
+  {
+    "item": "コピー機（家庭用）",
+    "kana": "こぴーき（かていよう）",
+    "roma": "kopiki（kateiyo）",
+    "type": "粗大ごみ",
+    "desc": "トナー、油などは取り除く"
+  },
+  {
+    "item": "コピー用紙",
+    "kana": "こぴーようし",
+    "roma": "kopiyoshi",
+    "type": "紙類",
+    "desc": "雑がみとして分別"
+  },
+  {
+    "item": "ゴム手袋",
+    "kana": "ごむてぶくろ",
+    "roma": "gomutebukuro",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "米びつ",
+    "kana": "こめびつ",
+    "roma": "komebitsu",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "米袋",
+    "kana": "こめぶくろ",
+    "roma": "komebukuro",
+    "type": "燃やすごみ",
+    "desc": "４５㍑のポリ袋に入れて出す"
+  },
+  {
+    "item": "ゴルフクラブ",
+    "kana": "ごるふくらぶ",
+    "roma": "gorufukurabu",
+    "type": "粗大ごみ",
+    "desc": "10本までまとめて1点とする"
+  },
+  {
+    "item": "ゴルフバッグ",
+    "kana": "ごるふばっぐ",
+    "roma": "gorufubaggu",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ゴルフボール",
+    "kana": "ごるふぼーる",
+    "roma": "gorufuboru",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "コンクリートブロック",
+    "kana": "こんくりーとぶろっく",
+    "roma": "konkuritoburokku",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "コンタクトレンズ",
+    "kana": "こんたくとれんず",
+    "roma": "kontakutorenzu",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "コンパクト",
+    "kana": "こんぱくと",
+    "roma": "kompakuto",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "コンパス（文房具）",
+    "kana": "こんぱす（ぶんぼうぐ）",
+    "roma": "kompasu（bumbogu）",
+    "type": "燃やさないごみ",
+    "desc": "紙等に包んで「キケン」と表示"
+  },
+  {
+    "item": "サーフボード",
+    "kana": "さーふぼーど",
+    "roma": "safubodo",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "座椅子",
+    "kana": "ざいす",
+    "roma": "zaisu",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "サイドボード",
+    "kana": "さいどぼーど",
+    "roma": "saidobodo",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "裁縫箱",
+    "kana": "さいほうばこ",
+    "roma": "saihobako",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "酒の容器（紙パック）",
+    "kana": "さけのようき（かみぱっく）",
+    "roma": "sakenoyoki（kamipakku）",
+    "type": "燃やすごみ",
+    "desc": "内側が白いものは紙類"
+  },
+  {
+    "item": "座卓",
+    "kana": "ざたく",
+    "roma": "zataku",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "雑誌類（雑誌、週刊誌など）",
+    "kana": "ざっしるい（ざっし、しゅうかんしなど）",
+    "roma": "zasshirui（zasshi、shukanshinado）",
+    "type": "紙類",
+    "desc": ""
+  },
+  {
+    "item": "雑草",
+    "kana": "ざっそう",
+    "roma": "zasso",
+    "type": "剪定枝",
+    "desc": "土や砂をよく落とし、４５㍑のポリ袋に入れて出す。自己搬入時はリサイクルセンターへ。（竹類・毒性の植物・つる性の植物・野菜・果物類は「燃やすごみ」）"
+  },
+  {
+    "item": "殺虫剤スプレー缶",
+    "kana": "さっちゅうざいすぷれーかん",
+    "roma": "satchuzaisupurekan",
+    "type": "かん類",
+    "desc": "中身を使い切り、屋外で穴を開ける"
+  },
+  {
+    "item": "座ふとん",
+    "kana": "ざふとん",
+    "roma": "zafuton",
+    "type": "燃やすごみ",
+    "desc": "45㍑のポリ袋に入らない場合は粗大ごみ"
+  },
+  {
+    "item": "皿（ガラス・金属・陶器製）",
+    "kana": "さら（がらす・きんぞく・とうきせい）",
+    "roma": "sara（garasu・kinzoku・tokisei）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製、木製は燃やすごみ"
+  },
+  {
+    "item": "サラダ油",
+    "kana": "さらだあぶら",
+    "roma": "saradaabura",
+    "type": "燃やすごみ",
+    "desc": "新聞紙、布等にしみ込ませるか凝固剤で固める"
+  },
+  {
+    "item": "ざる（金属製）",
+    "kana": "ざる（きんぞくせい）",
+    "roma": "zaru（kinzokusei）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "三角コーナー（プラスチック製）",
+    "kana": "さんかくこーなー（ぷらすちっくせい）",
+    "roma": "sankakukona（purasuchikkusei）",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "三脚",
+    "kana": "さんきゃく",
+    "roma": "sankyaku",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "サングラス（金属フレーム、ガラスレンズ）",
+    "kana": "さんぐらす（きんぞくふれーむ、がらすれんず）",
+    "roma": "sangurasu（kinzokufuremu、garasurenzu）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "サンドバッグ",
+    "kana": "さんどばっぐ",
+    "roma": "sandobaggu",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "三輪自転車",
+    "kana": "さんりんじてんしゃ",
+    "roma": "sanrinjitensha",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "三輪車",
+    "kana": "さんりんしゃ",
+    "roma": "sanrinsha",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "シーツ",
+    "kana": "しーつ",
+    "roma": "shitsu",
+    "type": "燃やすごみ",
+    "desc": "50cm四方以下に裁断し、４５㍑のポリ袋に入れる"
+  },
+  {
+    "item": "CD（コンパクトディスク）",
+    "kana": "しーでぃー（こんぱくとでぃす）",
+    "roma": "shidei（kompakutodeisu）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "CDのケース（プラスチック製）",
+    "kana": "しーでぃーのけーす（ぷらすちっくせい）",
+    "roma": "shideinokesu（purasuchikkusei）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "CDラジカセ",
+    "kana": "しーでぃーらじかせ",
+    "roma": "shideirajikase",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "シート（家庭菜園用）",
+    "kana": "しーと（かていさいえんよう）",
+    "roma": "shito（kateisaienyo）",
+    "type": "燃やすごみ",
+    "desc": "50cm四方以下に裁断し、45㍑のポリ袋に入れる。農家用は事業系のため不可"
+  },
+  {
+    "item": "シェーバー（ひげ剃り機）",
+    "kana": "しぇーばー（ひげそりき）",
+    "roma": "shieba（higesoriki）",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "磁気マットレス",
+    "kana": "じきまっとれす",
+    "roma": "jikimattoresu",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "磁石",
+    "kana": "じしゃく",
+    "roma": "jishaku",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "辞書・辞典",
+    "kana": "じしょ・じてん",
+    "roma": "jisho・jiten",
+    "type": "紙類",
+    "desc": ""
+  },
+  {
+    "item": "下着類",
+    "kana": "したぎるい",
+    "roma": "shitagirui",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "七輪（カンテキ）",
+    "kana": "しちりん（かんてき）",
+    "roma": "shichirin（kanteki）",
+    "type": "燃やさないごみ",
+    "desc": "45㍑のポリ袋に入らない場合は粗大ごみ"
+  },
+  {
+    "item": "自転車",
+    "kana": "じてんしゃ",
+    "roma": "jitensha",
+    "type": "粗大ごみ",
+    "desc": "アシスト機能付き自転車はバッテリーを取り外して、バッテリー部分は販売店に相談"
+  },
+  {
+    "item": "自動車部品",
+    "kana": "じどうしゃぶひん",
+    "roma": "jidoshabuhin",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "竹刀",
+    "kana": "しない",
+    "roma": "shinai",
+    "type": "粗大ごみ",
+    "desc": "10本までまとめて1点とする"
+  },
+  {
+    "item": "芝刈り機（エンジン式）",
+    "kana": "しばかりき（えんじんしき）",
+    "roma": "shibakariki（enjinshiki）",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "芝刈り機（電動式）",
+    "kana": "しばかりき（でんどうしき）",
+    "roma": "shibakariki（dendoshiki）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "シャープペンシル",
+    "kana": "しゃーぷぺんしる",
+    "roma": "shapupenshiru",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "写真",
+    "kana": "しゃしん",
+    "roma": "shashin",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ジャッキ（手動・油圧式）",
+    "kana": "じゃっき（しゅどう・ゆあつしき）",
+    "roma": "jakki（shudo・yuatsushiki）",
+    "type": "燃やさないごみ",
+    "desc": "４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "しゃもじ",
+    "kana": "しゃもじ",
+    "roma": "shamoji",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "シャンプーハット",
+    "kana": "しゃんぷーはっと",
+    "roma": "shampuhatto",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "蛇口（水道）",
+    "kana": "じゃぐち（すいどう）",
+    "roma": "jaguchi（suido）",
+    "type": "燃やさないごみ",
+    "desc": "自己修繕によるものに限る"
+  },
+  {
+    "item": "ジューサー（ミキサー）",
+    "kana": "じゅーさー（みきさー）",
+    "roma": "jusa（mikisa）",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "シューズケース",
+    "kana": "しゅーずけーす",
+    "roma": "shuzukesu",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "じゅうたん（カーペット）",
+    "kana": "じゅうたん（かーぺっと）",
+    "roma": "jutan（kapetto）",
+    "type": "粗大ごみ",
+    "desc": "丸めてひもでくくる。50cm四方以下は燃やすごみ"
+  },
+  {
+    "item": "柔道着",
+    "kana": "じゅうどうぎ",
+    "roma": "judogi",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "消火器",
+    "kana": "しょうかき",
+    "roma": "shokaki",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "定規",
+    "kana": "じょうぎ",
+    "roma": "jogi",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "将棋の駒",
+    "kana": "しょうぎのこま",
+    "roma": "shoginokoma",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "将棋盤（脚付 ）",
+    "kana": "しょうぎばん（あしつき ）",
+    "roma": "shogiban（ashitsuki ）",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入っても粗大ごみ"
+  },
+  {
+    "item": "将棋盤（うす手の木、2つ折タイプなど）",
+    "kana": "しょうぎばん（うすでのき、２つおりたいぷなど）",
+    "roma": "shogiban（usudenoki、２tsuoritaipunado）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "しょうじ戸（木製）",
+    "kana": "しょうじと（もくせい）",
+    "roma": "shojito（mokusei）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "浄水器",
+    "kana": "じょうすいき",
+    "roma": "josuiki",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "照明器具",
+    "kana": "しょうめいきぐ",
+    "roma": "shomeikigu",
+    "type": "燃やさないごみ",
+    "desc": "４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "じょうろ（プラスチック製）",
+    "kana": "じょうろ（ぷらすちっく製）",
+    "roma": "joro（purasuchikku製）",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "除湿乾燥機",
+    "kana": "じょしつかんそうき",
+    "roma": "joshitsukansoki",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "除湿剤、湿気取（プラスチック製）",
+    "kana": "じょしつざい、しっけとり（ぷらすちっくせい）",
+    "roma": "joshitsuzai、shikketori（purasuchikkusei）",
+    "type": "燃やすごみ",
+    "desc": "水分は捨てること"
+  },
+  {
+    "item": "除草剤",
+    "kana": "じょそうざい",
+    "roma": "josozai",
+    "type": "処理困難",
+    "desc": "販売業者に相談"
+  },
+  {
+    "item": "食器（ガラス製、金属製、陶器製）",
+    "kana": "しょっき（がらすせい、きんぞくせい、とうきせい）",
+    "roma": "shokki（garasusei、kinzokusei、tokisei）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "食器洗い機",
+    "kana": "しょっきあらいき",
+    "roma": "shokkiaraiki",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "食器乾燥機",
+    "kana": "しょっきかんそうき",
+    "roma": "shokkikansoki",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "食器棚",
+    "kana": "しょっきだな",
+    "roma": "shokkidana",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "人工芝",
+    "kana": "じんこうしば",
+    "roma": "jinkoshiba",
+    "type": "燃やすごみ",
+    "desc": "50cm四方以下に裁断し、45㍑のポリ袋に入れる"
+  },
+  {
+    "item": "シンナー類",
+    "kana": "しんなーるい",
+    "roma": "shinnarui",
+    "type": "処理困難",
+    "desc": "販売業者に相談"
+  },
+  {
+    "item": "新聞紙",
+    "kana": "しんぶんし",
+    "roma": "shimbunshi",
+    "type": "紙類",
+    "desc": "折込チラシもいっしょに出す"
+  },
+  {
+    "item": "水槽",
+    "kana": "すいそう",
+    "roma": "suiso",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るもので、ガラス製は燃やさないごみ、プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "水中メガネ（プラスチック製）",
+    "kana": "すいちゅうめがね（ぷらすちっくせい）",
+    "roma": "suichumegane（purasuchikkusei）",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "水筒（金属）",
+    "kana": "すいとう（きんぞく）",
+    "roma": "suito（kinzoku）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "炊飯器（炊飯ジャーなど）",
+    "kana": "すいはんき（すいはんじゃーなど）",
+    "roma": "suihanki（suihanjanado）",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "スーツ",
+    "kana": "すーつ",
+    "roma": "sutsu",
+    "type": "衣類",
+    "desc": ""
+  },
+  {
+    "item": "スーツケース",
+    "kana": "すーつけーす",
+    "roma": "sutsukesu",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "スキー板",
+    "kana": "すきーいた",
+    "roma": "sukiita",
+    "type": "粗大ごみ",
+    "desc": "10本までまとめて1点とする"
+  },
+  {
+    "item": "スキーウェア",
+    "kana": "すきーうぇあ",
+    "roma": "sukiuea",
+    "type": "衣類",
+    "desc": ""
+  },
+  {
+    "item": "スキー靴",
+    "kana": "すきーぐつ",
+    "roma": "sukigutsu",
+    "type": "燃やすごみ",
+    "desc": "取り外しできる金具は燃やさないごみ"
+  },
+  {
+    "item": "スキャナー",
+    "kana": "すきゃなー",
+    "roma": "sukyana",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "スケート靴",
+    "kana": "すけーとぐつ",
+    "roma": "suketogutsu",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "スケートボード",
+    "kana": "すけーとぼーど",
+    "roma": "suketobodo",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "スケール",
+    "kana": "すけーる",
+    "roma": "sukeru",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "スケッチブック",
+    "kana": "すけっちぶっく",
+    "roma": "suketchibukku",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "スコップ、移植ごて（金属製）",
+    "kana": "すこっぷ、いしょくごて（きんぞくせい）",
+    "roma": "sukoppu、ishokugote（kinzokusei）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ、４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "硯（すずり）",
+    "kana": "すずり（すずり）",
+    "roma": "suzuri（suzuri）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "スタンドミラー（姿見）",
+    "kana": "すたんどみらー（すがたみ）",
+    "roma": "sutandomira（sugatami）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "スタンプ台（プラスチック製）",
+    "kana": "すたんぷだい（ぷらすちっくせい）",
+    "roma": "sutampudai（purasuchikkusei）",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "すだれ（日よけ）",
+    "kana": "すだれ（ひよけ）",
+    "roma": "sudare（hiyoke）",
+    "type": "粗大ごみ",
+    "desc": "丸めてひもでくくる。４５㍑のポリ袋に入るものは燃やすごみ"
+  },
+  {
+    "item": "スチール机",
+    "kana": "すちーるづくえ",
+    "roma": "suchiruzukue",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "スチール棚",
+    "kana": "すちーるだな",
+    "roma": "suchirudana",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ステレオ（コンポ）",
+    "kana": "すてれお（こんぽ）",
+    "roma": "sutereo（kompo）",
+    "type": "粗大ごみ",
+    "desc": "付属するスピーカーは併せて１点とする。４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "ストッキング",
+    "kana": "すとっきんぐ",
+    "roma": "sutokkingu",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ストック",
+    "kana": "すとっく",
+    "roma": "sutokku",
+    "type": "粗大ごみ",
+    "desc": "10本までまとめて1点とする"
+  },
+  {
+    "item": "ストップウォッチ",
+    "kana": "すとっぷうぉっち",
+    "roma": "sutoppuotchi",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "スノーボード",
+    "kana": "すのーぼーど",
+    "roma": "sunobodo",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "スノーボード靴",
+    "kana": "すのーぼーどぐつ",
+    "roma": "sunobodogutsu",
+    "type": "燃やすごみ",
+    "desc": "取り外しできる金具は燃やさないごみ"
+  },
+  {
+    "item": "すのこ",
+    "kana": "すのこ",
+    "roma": "sunoko",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "スパナ",
+    "kana": "すぱな",
+    "roma": "supana",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "スピーカー",
+    "kana": "すぴーかー",
+    "roma": "supika",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "スプーン（金属製）",
+    "kana": "すぷーん（きんぞくせい）",
+    "roma": "supun（kinzokusei）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "スプレー缶",
+    "kana": "すぷれーかん",
+    "roma": "supurekan",
+    "type": "かん類",
+    "desc": "中身を使い切り、屋外で穴を開ける"
+  },
+  {
+    "item": "すべり台（子供用遊具）",
+    "kana": "すべりだい（こどもようゆうぐ）",
+    "roma": "suberidai（kodomoyoyugu）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "スポンジ",
+    "kana": "すぽんじ",
+    "roma": "suponji",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ズボンプレッサー",
+    "kana": "ずぼんぷれっさー",
+    "roma": "zubompuressa",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "炭",
+    "kana": "すみ",
+    "roma": "sumi",
+    "type": "燃やすごみ",
+    "desc": "湿らせて少量ずつ出す"
+  },
+  {
+    "item": "スリッパ",
+    "kana": "すりっぱ",
+    "roma": "surippa",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "制服、ユニフォーム",
+    "kana": "せいふく、ゆにふぉーむ",
+    "roma": "seifuku、yunifuomu",
+    "type": "衣類",
+    "desc": ""
+  },
+  {
+    "item": "生理用品",
+    "kana": "せいりようひん",
+    "roma": "seiriyohin",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "セーター",
+    "kana": "せーたー",
+    "roma": "seta",
+    "type": "衣類",
+    "desc": ""
+  },
+  {
+    "item": "石油ストーブ",
+    "kana": "せきゆすとーぶ",
+    "roma": "sekiyusutobu",
+    "type": "粗大ごみ",
+    "desc": "乾電池をはずし、燃料の残りがないこと。４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "石油ファンヒーター",
+    "kana": "せきゆふぁんひーたー",
+    "roma": "sekiyufuanhita",
+    "type": "粗大ごみ",
+    "desc": "燃料の残りがないこと。４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "石油ポンプ（手動式）",
+    "kana": "せきゆぽんぷ（しゅどうしき）",
+    "roma": "sekiyupompu（shudoshiki）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "石油ポンプ（電池式）",
+    "kana": "せきゆぽんぷ（でんちしき）",
+    "roma": "sekiyupompu（denchishiki）",
+    "type": "燃やさないごみ",
+    "desc": "乾電池をはずす"
+  },
+  {
+    "item": "せっけん",
+    "kana": "せっけん",
+    "roma": "sekken",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "石けん入れ（プラスチック製）",
+    "kana": "せっけんいれ（ぷらすちっくせい）",
+    "roma": "sekkenire（purasuchikkusei）",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "セロテープ台",
+    "kana": "せろてーぷだい",
+    "roma": "serotepudai",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "洗濯ばさみ（プラスチック製）",
+    "kana": "せんたくばさみ（ぷらすちっくせい）",
+    "roma": "sentakubasami（purasuchikkusei）",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "洗濯機",
+    "kana": "せんたくき",
+    "roma": "sentakuki",
+    "type": "家電リサイクル",
+    "desc": "購入店・引き取り協力店に相談"
+  },
+  {
+    "item": "剪定枝",
+    "kana": "せんていし",
+    "roma": "senteishi",
+    "type": "剪定枝",
+    "desc": "長さ100cm以下、直径10cm以下に裁断し、直径30cm以下に束ねて出す。自己搬入時はリサイクルセンターへ。（竹類・毒性の植物・つる性の植物・野菜・果物類は「燃やすごみ」）"
+  },
+  {
+    "item": "剪定ばさみ",
+    "kana": "せんていばさみ",
+    "roma": "senteibasami",
+    "type": "燃やさないごみ",
+    "desc": "紙等に包んで「キケン」と表示"
+  },
+  {
+    "item": "扇風機",
+    "kana": "せんぷうき",
+    "roma": "sempuki",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "洗面器",
+    "kana": "せんめんき",
+    "roma": "semmenki",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "洗面台",
+    "kana": "せんめんだい",
+    "roma": "semmendai",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "造花",
+    "kana": "ぞうか",
+    "roma": "zoka",
+    "type": "燃やすごみ",
+    "desc": "針金が入っている場合は燃やさないごみ"
+  },
+  {
+    "item": "掃除機",
+    "kana": "そうじき",
+    "roma": "sojiki",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "雑巾",
+    "kana": "ぞうきん",
+    "roma": "zokin",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ソファー",
+    "kana": "そふぁー",
+    "roma": "sofua",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "体温計（水銀）",
+    "kana": "たいおんけい（すいぎん）",
+    "roma": "taionkei（suigin）",
+    "type": "収集不可",
+    "desc": "加古川市環境美化センターへ持参"
+  },
+  {
+    "item": "体温計（電子、電池式など）",
+    "kana": "たいおんけい（でんし、でんちしきなど）",
+    "roma": "taionkei（denshi、denchishikinado）",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "体重計",
+    "kana": "たいじゅうけい",
+    "roma": "taijukei",
+    "type": "燃やさないごみ",
+    "desc": "電池式はできるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "耐熱ガラス（なべ・皿・ほ乳瓶等）",
+    "kana": "たいねつがらす（なべ・さら・ほにゅうびんとう）",
+    "roma": "tainetsugarasu（nabe・sara・honyubinto）",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "タイプライター",
+    "kana": "たいぷらいたー",
+    "roma": "taipuraita",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "タイヤ（自転車、一輪車等）",
+    "kana": "たいや（じてんしゃ、いちりんしゃとう）",
+    "roma": "taiya（jitensha、ichirinshato）",
+    "type": "燃やすごみ",
+    "desc": "ホイールがついている場合は燃やさないごみ"
+  },
+  {
+    "item": "タイヤ（自動車・バイク用）",
+    "kana": "たいや（じどうしゃ・ばいくよう）",
+    "roma": "taiya（jidosha・baikuyo）",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "タイヤチェーン",
+    "kana": "たいやちぇーん",
+    "roma": "taiyachen",
+    "type": "燃やさないごみ",
+    "desc": "ゴム製は燃やすごみ"
+  },
+  {
+    "item": "タイル",
+    "kana": "たいる",
+    "roma": "tairu",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "ダウンジャケット",
+    "kana": "だうんじゃけっと",
+    "roma": "daunjaketto",
+    "type": "衣類",
+    "desc": ""
+  },
+  {
+    "item": "タオル・タオルケット",
+    "kana": "たおる・たおるけっと",
+    "roma": "taoru・taoruketto",
+    "type": "燃やすごみ",
+    "desc": "50cm四方以下に裁断し、４５㍑のポリ袋に入れる"
+  },
+  {
+    "item": "畳、ユニット畳",
+    "kana": "たたみ、ゆにっとだたみ",
+    "roma": "tatami、yunittodatami",
+    "type": "粗大ごみ",
+    "desc": "クリーンセンターに自己搬入する場合は一度に１０枚まで"
+  },
+  {
+    "item": "脱臭剤",
+    "kana": "だっしゅうざい",
+    "roma": "dasshuzai",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "タッパー（台所用）",
+    "kana": "たっぱー（だいどころよう）",
+    "roma": "tappa（daidokoroyo）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "たてす（日よけ）",
+    "kana": "たてす（ひよけ）",
+    "roma": "tatesu（hiyoke）",
+    "type": "粗大ごみ",
+    "desc": "丸めてひもでくくる"
+  },
+  {
+    "item": "卵パック",
+    "kana": "たまごぱっく",
+    "roma": "tamagopakku",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "たらい",
+    "kana": "たらい",
+    "roma": "tarai",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ。４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "樽（漬物用など）",
+    "kana": "たる（つけものようなど）",
+    "roma": "taru（tsukemonoyonado）",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やすごみ"
+  },
+  {
+    "item": "たわし",
+    "kana": "たわし",
+    "roma": "tawashi",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "タンス",
+    "kana": "たんす",
+    "roma": "tansu",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "段ボール",
+    "kana": "だんぼーる",
+    "roma": "damboru",
+    "type": "紙類",
+    "desc": "ひもでくくる"
+  },
+  {
+    "item": "地球儀",
+    "kana": "ちきゅうぎ",
+    "roma": "chikyugi",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "チャイルドシート",
+    "kana": "ちゃいるどしーと",
+    "roma": "chairudoshito",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "茶碗（陶器）",
+    "kana": "ちゃわん（とうき）",
+    "roma": "chawan（toki）",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "中華なべ",
+    "kana": "ちゅうかなべ",
+    "roma": "chukanabe",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "注射針",
+    "kana": "ちゅうしゃばり",
+    "roma": "chushabari",
+    "type": "処理困難",
+    "desc": "購入した病院等に相談"
+  },
+  {
+    "item": "チューブ容器",
+    "kana": "ちゅーぶようき",
+    "roma": "chubuyoki",
+    "type": "燃やすごみ",
+    "desc": "中を空にして出す"
+  },
+  {
+    "item": "ちり取り（プラスチック製）",
+    "kana": "ちりとり（ぷらすちっくせい）",
+    "roma": "chiritori（purasuchikkusei）",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "杖（金属、木製、プラスチック製）",
+    "kana": "つえ（きんぞく、もくせい、ぷらすちっくせい）",
+    "roma": "tsue（kinzoku、mokusei、purasuchikkusei）",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "使い捨てライター",
+    "kana": "つかいすてらいたー",
+    "roma": "tsukaisuteraita",
+    "type": "燃やすごみ",
+    "desc": "ライター回収ボックスへ。ごみステーションに出す場合は中身を使い切り、ガスを抜き金具を外す。金具は燃やさないごみ"
+  },
+  {
+    "item": "机",
+    "kana": "つくえ",
+    "roma": "tsukue",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "土",
+    "kana": "つち",
+    "roma": "tsuchi",
+    "type": "処理困難",
+    "desc": "処理業者・販売店に相談"
+  },
+  {
+    "item": "つぼ（陶器）",
+    "kana": "つぼ（とうき）",
+    "roma": "tsubo（toki）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "積み木",
+    "kana": "つみき",
+    "roma": "tsumiki",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "積み木ブロック",
+    "kana": "つみきぶろっく",
+    "roma": "tsumikiburokku",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "爪切り",
+    "kana": "つめきり",
+    "roma": "tsumekiri",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "釣り糸",
+    "kana": "つりいと",
+    "roma": "tsuriito",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "釣竿",
+    "kana": "つりざお",
+    "roma": "tsurizao",
+    "type": "粗大ごみ",
+    "desc": "10本までまとめて1点とする"
+  },
+  {
+    "item": "釣針",
+    "kana": "つりばり",
+    "roma": "tsuribari",
+    "type": "燃やさないごみ",
+    "desc": "紙等に包んで「キケン」と表示"
+  },
+  {
+    "item": "DVDディスク",
+    "kana": "でぃーぶいでぃーでぃすく",
+    "roma": "deibuideideisuku",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ＤＶＤレコーダー・プレーヤー",
+    "kana": "でぃーぶいでぃーれこーだー・ぷれーやー",
+    "roma": "deibuideirekoda・pureya",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "低周波治療器",
+    "kana": "ていしゅうはちりょうき",
+    "roma": "teishuhachiryoki",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "ディスプレイ（パソコン用）",
+    "kana": "でぃすぷれい（ぱそこんよう）",
+    "roma": "deisupurei（pasokonyo）",
+    "type": "パソコンリサイクル",
+    "desc": ""
+  },
+  {
+    "item": "テーブル",
+    "kana": "てーぶる",
+    "roma": "teburu",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "テーブルクロス（ビニール製など）",
+    "kana": "てーぶるくろす（びにーるせいなど）",
+    "roma": "teburukurosu（biniruseinado）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "手押し車（シルバーカーなど）",
+    "kana": "ておしぐるま（しるばーかーなど）",
+    "roma": "teoshiguruma（shirubakanado）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "デジタルカメラ",
+    "kana": "でじたるかめら",
+    "roma": "dejitarukamera",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "デスクマット",
+    "kana": "ですくまっと",
+    "roma": "desukumatto",
+    "type": "燃やすごみ",
+    "desc": "50cm四方以下に裁断し、４５㍑のポリ袋に入れる"
+  },
+  {
+    "item": "鉄アレイ",
+    "kana": "てつあれい",
+    "roma": "tetsuarei",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "デッキブラシ",
+    "kana": "でっきぶらし",
+    "roma": "dekkiburashi",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "テニスラケット",
+    "kana": "てにすらけっと",
+    "roma": "tenisuraketto",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "手袋",
+    "kana": "てぶくろ",
+    "roma": "tebukuro",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "テレビ",
+    "kana": "てれび",
+    "roma": "terebi",
+    "type": "家電リサイクル",
+    "desc": "購入店・引き取り協力店に相談"
+  },
+  {
+    "item": "テレビ台",
+    "kana": "てれびだい",
+    "roma": "terebidai",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "電気アンカ",
+    "kana": "でんきあんか",
+    "roma": "denkianka",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "電気カーペット",
+    "kana": "でんきかーぺっと",
+    "roma": "denkikapetto",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "電気カーラー",
+    "kana": "でんきかーらー",
+    "roma": "denkikara",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "電気コード",
+    "kana": "でんきこーど",
+    "roma": "denkikodo",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "電気スタンド",
+    "kana": "でんきすたんど",
+    "roma": "denkisutando",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "電気ストーブ",
+    "kana": "でんきすとーぶ",
+    "roma": "denkisutobu",
+    "type": "燃やさないごみ",
+    "desc": "４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "電気バリカン",
+    "kana": "でんきばりかん",
+    "roma": "denkibarikan",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "電気ポット",
+    "kana": "でんきぽっと",
+    "roma": "denkipotto",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "電球",
+    "kana": "でんきゅう",
+    "roma": "denkyu",
+    "type": "燃やさないごみ",
+    "desc": "蛍光灯を除く"
+  },
+  {
+    "item": "電気毛布",
+    "kana": "でんきもうふ",
+    "roma": "denkimofu",
+    "type": "粗大ごみ",
+    "desc": "ひもでくくる"
+  },
+  {
+    "item": "電子ピアノ",
+    "kana": "でんしぴあの",
+    "roma": "denshipiano",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "電子レンジ",
+    "kana": "でんしれんじ",
+    "roma": "denshirenji",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "天体望遠鏡",
+    "kana": "てんたいぼうえんきょう",
+    "roma": "tentaiboenkyo",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "電卓（計算機など）",
+    "kana": "でんたく（けいさんきなど）",
+    "roma": "dentaku（keisankinado）",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "テント（家庭用）",
+    "kana": "てんと（かていよう）",
+    "roma": "tento（kateiyo）",
+    "type": "粗大ごみ",
+    "desc": "ひもでくくる"
+  },
+  {
+    "item": "電動工具",
+    "kana": "でんどうこうぐ",
+    "roma": "dendokogu",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "電動車いす（ハンドル操作型、シニアカー等）",
+    "kana": "でんどうくるまいす（はんどるそうさがた、しにあかーとう）",
+    "roma": "dendokurumaisu（handorusosagata、shiniakato）",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "電動車いす（レバー操作型など）",
+    "kana": "でんどうくるまいす（ればーそうさがたなど）",
+    "roma": "dendokurumaisu（rebasosagatanado）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "電動歯ブラシ",
+    "kana": "でんどうはぶらし",
+    "roma": "dendohaburashi",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "天ぷら油",
+    "kana": "てんぷらあぶら",
+    "roma": "tempuraabura",
+    "type": "燃やすごみ",
+    "desc": "新聞紙、布等にしみ込ませるか凝固剤で固める"
+  },
+  {
+    "item": "天ぷらガード",
+    "kana": "てんぷらがーど",
+    "roma": "tempuragado",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "電話機（家庭用電話機、コードレス電話機など）",
+    "kana": "でんわき（かていようでんわき、こーどれすでんわきなど）",
+    "roma": "denwaki（kateiyodenwaki、kodoresudenwakinado）",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "砥石",
+    "kana": "といし",
+    "roma": "toishi",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "トイレコーナー（プラスチック製）",
+    "kana": "といれこーなー（ぷらすちっくせい）",
+    "roma": "toirekona（purasuchikkusei）",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "陶磁器類",
+    "kana": "とうじきるい",
+    "roma": "tojikirui",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "灯油（燃料）",
+    "kana": "とうゆ（ねんりょう）",
+    "roma": "toyu（nenryo）",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "トースター",
+    "kana": "とーすたー",
+    "roma": "tosuta",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "時計",
+    "kana": "とけい",
+    "roma": "tokei",
+    "type": "燃やさないごみ",
+    "desc": "投入口に入る場合はできるだけ小型家電ボックスへ。４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "トタン",
+    "kana": "とたん",
+    "roma": "totan",
+    "type": "粗大ごみ",
+    "desc": "40cm×1.5m以下で、自分で修理したものに限る"
+  },
+  {
+    "item": "ドライバー",
+    "kana": "どらいばー",
+    "roma": "doraiba",
+    "type": "燃やさないごみ",
+    "desc": "電動ならできるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "ドライヤー（ヘアドライヤーなど）",
+    "kana": "どらいやー（へあどらいやーなど）",
+    "roma": "doraiya（headoraiyanado）",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "ドラム缶",
+    "kana": "どらむかん",
+    "roma": "doramukan",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "トランシーバー",
+    "kana": "とらんしーばー",
+    "roma": "toranshiba",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "トランプ",
+    "kana": "とらんぷ",
+    "roma": "torampu",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "鳥かご",
+    "kana": "とりかご",
+    "roma": "torikago",
+    "type": "燃やさないごみ",
+    "desc": "４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "塗料（ペンキなど）",
+    "kana": "とりょう（ぺんきなど）",
+    "roma": "toryo（penkinado）",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "トレイ（発泡スチロール）",
+    "kana": "とれい（はっぽうすちろーる）",
+    "roma": "torei（happosuchiroru）",
+    "type": "燃やすごみ",
+    "desc": "できるだけ販売店などの回収ボックスへ"
+  },
+  {
+    "item": "トロフィー",
+    "kana": "とろふぃー",
+    "roma": "torofui",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "ナイフ",
+    "kana": "ないふ",
+    "roma": "naifu",
+    "type": "燃やさないごみ",
+    "desc": "紙等に包んで「キケン」と表示"
+  },
+  {
+    "item": "ナイロン袋",
+    "kana": "ないろんぶくろ",
+    "roma": "nairombukuro",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "苗箱",
+    "kana": "なえばこ",
+    "roma": "naebako",
+    "type": "燃やすごみ",
+    "desc": "3枚程度なら４５㍑のポリ袋に入れて出す。多量の場合は自己搬入"
+  },
+  {
+    "item": "長靴",
+    "kana": "ながぐつ",
+    "roma": "nagagutsu",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "流し台",
+    "kana": "ながしだい",
+    "roma": "nagashidai",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "鍋",
+    "kana": "なべ",
+    "roma": "nabe",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "波板（トタン・プラスチック製・ブリキ）",
+    "kana": "なみいた（とたん・ぷらすちっくせい・ぶりき）",
+    "roma": "namiita（totan・purasuchikkusei・buriki）",
+    "type": "粗大ごみ",
+    "desc": "40cm×1.5m以下で、自分で修理したものに限る"
+  },
+  {
+    "item": "縄跳び",
+    "kana": "なわとび",
+    "roma": "nawatobi",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ニカド充電池（ニッケル水素電池など）",
+    "kana": "にかどじゅうでんち（にっけるすいそでんちなど）",
+    "roma": "nikadojudenchi（nikkerusuisodenchinado）",
+    "type": "乾電池",
+    "desc": "できるだけ電気店のリサイクルボックスへ"
+  },
+  {
+    "item": "人形",
+    "kana": "にんぎょう",
+    "roma": "ningyo",
+    "type": "燃やすごみ",
+    "desc": "陶器製・ガラス製は燃やさないごみ"
+  },
+  {
+    "item": "人形ケース",
+    "kana": "にんぎょうけーす",
+    "roma": "ningyokesu",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るもので、ガラス製は燃やさないごみ、プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "ぬいぐるみ",
+    "kana": "ぬいぐるみ",
+    "roma": "nuigurumi",
+    "type": "燃やすごみ",
+    "desc": "４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "布くず",
+    "kana": "ぬのくず",
+    "roma": "nunokuzu",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ネクタイ",
+    "kana": "ねくたい",
+    "roma": "nekutai",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ねじ（金属）",
+    "kana": "ねじ（きんぞく）",
+    "roma": "neji（kinzoku）",
+    "type": "燃やさないごみ",
+    "desc": "紙等に包んで「キケン」と表示"
+  },
+  {
+    "item": "ネックレス",
+    "kana": "ねっくれす",
+    "roma": "nekkuresu",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "寝袋（シュラフ）",
+    "kana": "ねぶくろ（しゅらふ）",
+    "roma": "nebukuro（shurafu）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "粘土（教材用）",
+    "kana": "ねんど（きょうざいよう）",
+    "roma": "nendo（kyozaiyo）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "農機具（田植え機、耕運機など）",
+    "kana": "のうきぐ（たうえき、こううんきなど）",
+    "roma": "nokigu（taueki、kounkinado）",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "農薬類",
+    "kana": "のうやくるい",
+    "roma": "noyakurui",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "ノート",
+    "kana": "のーと",
+    "roma": "noto",
+    "type": "紙類",
+    "desc": "雑がみとして分別"
+  },
+  {
+    "item": "ノートパソコン",
+    "kana": "のーとぱそこん",
+    "roma": "notopasokon",
+    "type": "パソコンリサイクル",
+    "desc": "できるだけ小型家電回収ボックスへ。またはメーカー、パソコン3R推進協会に回収を依頼する"
+  },
+  {
+    "item": "のこぎり",
+    "kana": "のこぎり",
+    "roma": "nokogiri",
+    "type": "燃やさないごみ",
+    "desc": "紙等に包んで「キケン」と表示"
+  },
+  {
+    "item": "のり（工作用）容器",
+    "kana": "のり（こうさくよう）ようき",
+    "roma": "nori（kosakuyo）yoki",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "のれん",
+    "kana": "のれん",
+    "roma": "noren",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "バーベキューコンロ",
+    "kana": "ばーべきゅーこんろ",
+    "roma": "babekyukonro",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ハーモニカ",
+    "kana": "はーもにか",
+    "roma": "hamonika",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "灰（焼却灰など）",
+    "kana": "はい（しょうきゃくばいなど）",
+    "roma": "hai（shokyakubainado）",
+    "type": "燃やすごみ",
+    "desc": "湿らせて少量ずつ出す"
+  },
+  {
+    "item": "バイク",
+    "kana": "ばいく",
+    "roma": "baiku",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "パイプ椅子",
+    "kana": "ぱいぷいす",
+    "roma": "paipuisu",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "パイプ棚（金属製）",
+    "kana": "ぱいぷだな（きんぞくせい）",
+    "roma": "paipudana（kinzokusei）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "パイプベッド（サマーベッド）",
+    "kana": "ぱいぷべっど（さまーべっど）",
+    "roma": "paipubeddo（samabeddo）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "廃油（食用以外）",
+    "kana": "はいゆ（しょくよういがい）",
+    "roma": "haiyu（shokuyoigai）",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "はがき",
+    "kana": "はがき",
+    "roma": "hagaki",
+    "type": "紙類",
+    "desc": "雑がみとして分別。圧着はがきや写真用はがきは燃やすごみ。個人情報に注意"
+  },
+  {
+    "item": "はく製",
+    "kana": "はくせい",
+    "roma": "hakusei",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やすごみ"
+  },
+  {
+    "item": "はけ",
+    "kana": "はけ",
+    "roma": "hake",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "バケツ",
+    "kana": "ばけつ",
+    "roma": "baketsu",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "羽子板",
+    "kana": "はごいた",
+    "roma": "hagoita",
+    "type": "燃やすごみ",
+    "desc": "ケース入りは粗大ごみ"
+  },
+  {
+    "item": "はさみ",
+    "kana": "はさみ",
+    "roma": "hasami",
+    "type": "燃やさないごみ",
+    "desc": "紙等に包んで「キケン」と表示"
+  },
+  {
+    "item": "はしご（木・アルミ型）",
+    "kana": "はしご（き・あるみがた）",
+    "roma": "hashigo（ki・arumigata）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "バスマット",
+    "kana": "ばすまっと",
+    "roma": "basumatto",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "パソコン",
+    "kana": "ぱそこん",
+    "roma": "pasokon",
+    "type": "パソコンリサイクル",
+    "desc": "メーカー、又はパソコン3R推進協会に回収を依頼"
+  },
+  {
+    "item": "肌掛けふとん",
+    "kana": "はだかけふとん",
+    "roma": "hadakakefuton",
+    "type": "粗大ごみ",
+    "desc": "ひもでくくる"
+  },
+  {
+    "item": "バッテリー（自動車、バイクなど）",
+    "kana": "ばってりー（じどうしゃ、ばいくなど）",
+    "roma": "batteri（jidosha、baikunado）",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "バット（野球用：金属製、木製）",
+    "kana": "ばっと（やきゅうよう：きんぞくせい、もくせい）",
+    "roma": "batto（yakyuyo：kinzokusei、mokusei）",
+    "type": "粗大ごみ",
+    "desc": "10本までまとめて1点とする"
+  },
+  {
+    "item": "発泡スチロール",
+    "kana": "はっぽうすちろーる",
+    "roma": "happosuchiroru",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "バドミントンシャトル",
+    "kana": "ばどみんとんしゃとる",
+    "roma": "badomintonshatoru",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "バドミントンのラケット",
+    "kana": "ばどみんとんのらけっと",
+    "roma": "badomintonnoraketto",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "花火（使用済み）",
+    "kana": "はなび（しようずみ）",
+    "roma": "hanabi（shiyozumi）",
+    "type": "燃やすごみ",
+    "desc": "湿らせて、少量ずつ出す"
+  },
+  {
+    "item": "歯ブラシ",
+    "kana": "はぶらし",
+    "roma": "haburashi",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "刃物",
+    "kana": "はもの",
+    "roma": "hamono",
+    "type": "燃やさないごみ",
+    "desc": "紙等に包んで「キケン」と表示"
+  },
+  {
+    "item": "針",
+    "kana": "はり",
+    "roma": "hari",
+    "type": "燃やさないごみ",
+    "desc": "紙等に包んで「キケン」と表示"
+  },
+  {
+    "item": "針金",
+    "kana": "はりがね",
+    "roma": "harigane",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "ハロゲンヒーター",
+    "kana": "はろげんひーたー",
+    "roma": "harogenhita",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "飯ごう",
+    "kana": "はんごう",
+    "roma": "hango",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "ハンドルカバー",
+    "kana": "はんどるかばー",
+    "roma": "handorukaba",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "パンフレット類",
+    "kana": "ぱんふれっとるい",
+    "roma": "panfurettorui",
+    "type": "紙類",
+    "desc": "雑がみとして分別"
+  },
+  {
+    "item": "ハンマー",
+    "kana": "はんまー",
+    "roma": "hamma",
+    "type": "燃やさないごみ",
+    "desc": "ゴム製は燃やすごみ。４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "ピアニカ",
+    "kana": "ぴあにか",
+    "roma": "pianika",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "ピアノ",
+    "kana": "ぴあの",
+    "roma": "piano",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "ビー玉",
+    "kana": "びーだま",
+    "roma": "bidama",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "ビーチサンダル",
+    "kana": "びーちさんだる",
+    "roma": "bichisandaru",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ビーチパラソル",
+    "kana": "びーちぱらそる",
+    "roma": "bichiparasoru",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ビデオカメラ",
+    "kana": "びでおかめら",
+    "roma": "bideokamera",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "ビデオテープ",
+    "kana": "びでおてーぷ",
+    "roma": "bideotepu",
+    "type": "燃やすごみ",
+    "desc": "ケースも同様"
+  },
+  {
+    "item": "ビニールシート（ブルーシート、レジャーシート）",
+    "kana": "びにーるしーと（ぶるーしーと、れじゃーしーと）",
+    "roma": "binirushito（burushito、rejashito）",
+    "type": "燃やすごみ",
+    "desc": "50cm四方以下に裁断し、４５㍑のポリ袋に入れる"
+  },
+  {
+    "item": "ビニールかばん（袋）",
+    "kana": "びにーるかばん（ふくろ）",
+    "roma": "binirukaban（fukuro）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "火鉢",
+    "kana": "ひばち",
+    "roma": "hibachi",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "びん（飲料、食用品）",
+    "kana": "びん（いんりょう、しょくようひん）",
+    "roma": "bin（inryo、shokuyohin）",
+    "type": "びん類",
+    "desc": "中をきれいに洗う"
+  },
+  {
+    "item": "びん（化学薬品、汚れが取れないもの等）",
+    "kana": "びん（かがくやくひん、よごれがとれないものとう）",
+    "roma": "bin（kagakuyakuhin、yogoregatorenaimonoto）",
+    "type": "燃やさないごみ",
+    "desc": "中を空にして出す"
+  },
+  {
+    "item": "ピンポン玉",
+    "kana": "ぴんぽんだま",
+    "roma": "pimpondama",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ファクシミリ（ＦＡＸ）",
+    "kana": "ふぁくしみり（ふぁっくす）",
+    "roma": "fuakushimiri（fuakkusu）",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "ファンシーケース",
+    "kana": "ふぁんしーけーす",
+    "roma": "fuanshikesu",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "フィルム",
+    "kana": "ふぃるむ",
+    "roma": "fuirumu",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "フィルムケース（金属）",
+    "kana": "ふぃるむけーす（きんぞく）",
+    "roma": "fuirumukesu（kinzoku）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "封筒",
+    "kana": "ふうとう",
+    "roma": "futo",
+    "type": "紙類",
+    "desc": "雑がみとして分別。セロハンテープや紙以外の部分は取り除く"
+  },
+  {
+    "item": "風鈴",
+    "kana": "ふうりん",
+    "roma": "furin",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "プール（子供用）",
+    "kana": "ぷーる（こどもよう）",
+    "roma": "puru（kodomoyo）",
+    "type": "燃やすごみ",
+    "desc": "50cm四方以下に裁断し、４５㍑のポリ袋に入れる"
+  },
+  {
+    "item": "笛",
+    "kana": "ふえ",
+    "roma": "fue",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "フォーク",
+    "kana": "ふぉーく",
+    "roma": "fuoku",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "ふすま",
+    "kana": "ふすま",
+    "roma": "fusuma",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "仏壇",
+    "kana": "ぶつだん",
+    "roma": "butsudan",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "筆",
+    "kana": "ふで",
+    "roma": "fude",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ふとん",
+    "kana": "ふとん",
+    "roma": "futon",
+    "type": "粗大ごみ",
+    "desc": "ひもでくくる"
+  },
+  {
+    "item": "ふとんカバー",
+    "kana": "ふとんかばー",
+    "roma": "futonkaba",
+    "type": "燃やすごみ",
+    "desc": "50cm四方以下に裁断し、４５㍑のポリ袋に入れる"
+  },
+  {
+    "item": "ふとん乾燥機",
+    "kana": "ふとんかんそうき",
+    "roma": "futonkansoki",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "ふとん袋",
+    "kana": "ふとんぶくろ",
+    "roma": "futombukuro",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "フライパン",
+    "kana": "ふらいぱん",
+    "roma": "furaipan",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "ブラインド",
+    "kana": "ぶらいんど",
+    "roma": "buraindo",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ぶら下がり健康器",
+    "kana": "ぶらさがりけんこうき",
+    "roma": "burasagarikenkoki",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "プラモデル",
+    "kana": "ぷらもでる",
+    "roma": "puramoderu",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "フラワースタンド（花台）",
+    "kana": "ふらわーすたんど（かだい）",
+    "roma": "furawasutando（kadai）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ブランコ（幼児用）",
+    "kana": "ぶらんこ（ようじよう）",
+    "roma": "buranko（yojiyo）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "プランター",
+    "kana": "ぷらんたー",
+    "roma": "puranta",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るもので、陶器製は燃やさないごみ、プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "プリンター",
+    "kana": "ぷりんたー",
+    "roma": "purinta",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "風呂いす（介護用）",
+    "kana": "ふろいす（かいごよう）",
+    "roma": "furoisu（kaigoyo）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "風呂いす（木製、プラスチック製）",
+    "kana": "ふろいす（もくせい、ぷらすちっくせい）",
+    "roma": "furoisu（mokusei、purasuchikkusei）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "フロッピーディスク",
+    "kana": "ふろっぴーでぃすく",
+    "roma": "furoppideisuku",
+    "type": "燃やすごみ",
+    "desc": "ケースも同様"
+  },
+  {
+    "item": "風呂ぶた",
+    "kana": "ふろぶた",
+    "roma": "furobuta",
+    "type": "粗大ごみ",
+    "desc": "50cm四方以下は燃やすごみ"
+  },
+  {
+    "item": "風呂マット（ウレタン製など）",
+    "kana": "ふろまっと（うれたんせいなど）",
+    "roma": "furomatto（uretanseinado）",
+    "type": "燃やすごみ",
+    "desc": "50cm四方以下に裁断し、４５㍑のポリ袋に入れる"
+  },
+  {
+    "item": "文鎮（鉄製）",
+    "kana": "ぶんちん（てつせい）",
+    "roma": "bunchin（tetsusei）",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "ヘアーカーラー",
+    "kana": "へあーかーらー",
+    "roma": "heakara",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ヘアーピン",
+    "kana": "へあーぴん",
+    "roma": "heapin",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "ヘアーブラシ",
+    "kana": "へあーぶらし",
+    "roma": "heaburashi",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ベッド（マットレスを除く）",
+    "kana": "べっど（まっとれすをのぞく）",
+    "roma": "beddo（mattoresuonozoku）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ペットのトイレ砂（木製、紙製）",
+    "kana": "ぺっとのといれすな（もくせい、かみせい）",
+    "roma": "pettonotoiresuna（mokusei、kamisei）",
+    "type": "燃やすごみ",
+    "desc": "４５㍑のポリ袋に入れ少量づつ出す"
+  },
+  {
+    "item": "ペットのふん（犬、猫等）",
+    "kana": "ぺっとのふん（いぬ、ねことう）",
+    "roma": "pettonofun（inu、nekoto）",
+    "type": "燃やすごみ",
+    "desc": "飛散しないように新聞紙などに包み、４５㍑のポリ袋に入れ少量ずつ出す"
+  },
+  {
+    "item": "ペットボトル（飲料、食品用）",
+    "kana": "ぺっとぼとる（いんりょう、しょくひんよう）",
+    "roma": "pettobotoru（inryo、shokuhinyo）",
+    "type": "ペットボトル",
+    "desc": "ﾍﾟｯﾄﾎﾞﾄﾙﾘｻｲｸﾙﾏｰｸのないものや、油汚れがとれないものは燃やすごみ"
+  },
+  {
+    "item": "ペットボトルのキャップ・ラベル",
+    "kana": "ぺっとぼとるのきゃっぷ・らべる",
+    "roma": "pettobotorunokyappu・raberu",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ヘッドホン",
+    "kana": "へっどほん",
+    "roma": "heddohon",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "ヘッドホンステレオ",
+    "kana": "へっどほんすてれお",
+    "roma": "heddohonsutereo",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "ベニヤ板",
+    "kana": "べにやいた",
+    "roma": "beniyaita",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ベビーカー",
+    "kana": "べびーかー",
+    "roma": "bebika",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ベビーチェアー",
+    "kana": "べびーちぇあー",
+    "roma": "bebichea",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ベビーバス",
+    "kana": "べびーばす",
+    "roma": "bebibasu",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ベビーふとん",
+    "kana": "べびーふとん",
+    "roma": "bebifuton",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ベビーベッド",
+    "kana": "べびーべっど",
+    "roma": "bebibeddo",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ヘルスメーター",
+    "kana": "へるすめーたー",
+    "roma": "herusumeta",
+    "type": "燃やさないごみ",
+    "desc": "電池式はできるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "ヘルメット（フルフェイス含む）",
+    "kana": "へるめっと（ふるふぇいすふくむ）",
+    "roma": "herumetto（furufueisufukumu）",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "ペンキ",
+    "kana": "ぺんき",
+    "roma": "penki",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "ペンキの缶",
+    "kana": "ぺんきのかん",
+    "roma": "penkinokan",
+    "type": "燃やさないごみ",
+    "desc": "中を空にして出す"
+  },
+  {
+    "item": "便座（温水洗浄便座含む）",
+    "kana": "べんざ（おんすいせんじょうべんざふくむ）",
+    "roma": "benza（onsuisenjobenzafukumu）",
+    "type": "燃やさないごみ",
+    "desc": "自己修繕したものに限る"
+  },
+  {
+    "item": "便座カバー",
+    "kana": "べんざかばー",
+    "roma": "benzakaba",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ペンチ",
+    "kana": "ぺんち",
+    "roma": "penchi",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "弁当箱（木製、プラスチック製）",
+    "kana": "べんとうばこ（もくせい、ぷらすちっくせい）",
+    "roma": "bentobako（mokusei、purasuchikkusei）",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "望遠鏡",
+    "kana": "ぼうえんきょう",
+    "roma": "boenkyo",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "ほうき",
+    "kana": "ほうき",
+    "roma": "hoki",
+    "type": "粗大ごみ",
+    "desc": "10本までまとめて1点とする。４５㍑のポリ袋に入るものは燃やすごみ"
+  },
+  {
+    "item": "芳香剤の容器（プラスチック製）",
+    "kana": "ほうこうざいのようき（ぷらすちっくせい）",
+    "roma": "hokozainoyoki（purasuchikkusei）",
+    "type": "燃やすごみ",
+    "desc": "陶器製等は燃やさないごみ"
+  },
+  {
+    "item": "包装紙",
+    "kana": "ほうそうし",
+    "roma": "hososhi",
+    "type": "紙類",
+    "desc": "雑がみとして分別。汚れているものは燃やすごみ"
+  },
+  {
+    "item": "ぼうし、麦わら帽子",
+    "kana": "ぼうし、むぎわらぼうし",
+    "roma": "boshi、mugiwaraboshi",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "包丁",
+    "kana": "ほうちょう",
+    "roma": "hocho",
+    "type": "燃やさないごみ",
+    "desc": "紙等に包んで「キケン」と表示"
+  },
+  {
+    "item": "包丁砥ぎ器",
+    "kana": "ほうちょうとぎき",
+    "roma": "hochotogiki",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "ボウリングの球",
+    "kana": "ぼうりんぐのたま",
+    "roma": "boringunotama",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "ボウル（金属製）",
+    "kana": "ぼうる（きんぞくせい）",
+    "roma": "boru（kinzokusei）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "ホース（ビニール製・ゴム製）",
+    "kana": "ほーす（びにーるせい・ごむせい）",
+    "roma": "hosu（binirusei・gomusei）",
+    "type": "燃やすごみ",
+    "desc": "１ｍ以内に切って４５㍑のポリ袋に入れる"
+  },
+  {
+    "item": "ホースリール・ドラム",
+    "kana": "ほーすりーる・どらむ",
+    "roma": "hosuriru・doramu",
+    "type": "粗大ごみ",
+    "desc": "ホースを外してリールだけの場合、プラスチック製は燃やすごみ、金属製は燃やさないごみ"
+  },
+  {
+    "item": "ボール（スポーツ用品）",
+    "kana": "ぼーる（すぽーつようひん）",
+    "roma": "boru（supotsuyohin）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ボールペン",
+    "kana": "ぼーるぺん",
+    "roma": "borupen",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "歩行器",
+    "kana": "ほこうき",
+    "roma": "hokoki",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ボタン",
+    "kana": "ぼたん",
+    "roma": "botan",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "ボタン電池",
+    "kana": "ぼたんでんち",
+    "roma": "botandenchi",
+    "type": "乾電池",
+    "desc": "セロテープ等で包み絶縁して出す。販売店などにボタン電池回収する容器あり"
+  },
+  {
+    "item": "補聴器",
+    "kana": "ほちょうき",
+    "roma": "hochoki",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。電池は抜いて資源物へ"
+  },
+  {
+    "item": "ホッチキス",
+    "kana": "ほっちきす",
+    "roma": "hotchikisu",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "ポット",
+    "kana": "ぽっと",
+    "roma": "potto",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "ホットプレート",
+    "kana": "ほっとぷれーと",
+    "roma": "hottopureto",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "哺乳びん（耐熱ガラス）",
+    "kana": "ほにゅうびん（たいねつがらす）",
+    "roma": "honyubin（tainetsugarasu）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "ポリタンク（１８㍑）",
+    "kana": "ぽりたんく（１８りっとる）",
+    "roma": "poritanku（１８rittoru）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製でも燃やさないごみ。中身は空にすること"
+  },
+  {
+    "item": "ポリバケツ",
+    "kana": "ぽりばけつ",
+    "roma": "poribaketsu",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やすごみ"
+  },
+  {
+    "item": "ボルト・ナット",
+    "kana": "ぼると・なっと",
+    "roma": "boruto・natto",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "保冷剤",
+    "kana": "ほれいざい",
+    "roma": "horeizai",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "盆",
+    "kana": "ぼん",
+    "roma": "bon",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "本棚",
+    "kana": "ほんだな",
+    "roma": "hondana",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "麻雀卓、麻雀台（電動式）",
+    "kana": "まーじゃんたく、まーじゃんだい（でんどうしき）",
+    "roma": "majantaku、majandai（dendoshiki）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "麻雀パイ（プラスチック製）",
+    "kana": "まーじゃんぱい（ぷらすちっくせい）",
+    "roma": "majampai（purasuchikkusei）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "マイク",
+    "kana": "まいく",
+    "roma": "maiku",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "マグネット",
+    "kana": "まぐねっと",
+    "roma": "magunetto",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "枕・抱き枕",
+    "kana": "まくら・だきまくら",
+    "roma": "makura・dakimakura",
+    "type": "燃やすごみ",
+    "desc": "４５㍑のポリ袋に入らないものは粗大ごみ"
+  },
+  {
+    "item": "マジックペン",
+    "kana": "まじっくぺん",
+    "roma": "majikkupen",
+    "type": "燃やすごみ",
+    "desc": "金属製、ガラス製は燃やさないごみ"
+  },
+  {
+    "item": "マッサージ機（マッサージチェアなど）",
+    "kana": "まっさーじき（まっさーじちぇあなど）",
+    "roma": "massajiki（massajicheanado）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "マッチ",
+    "kana": "まっち",
+    "roma": "matchi",
+    "type": "燃やすごみ",
+    "desc": "水で湿らせる"
+  },
+  {
+    "item": "マットレス（ベッドを除く）",
+    "kana": "まっとれす（べっどをのぞく）",
+    "roma": "mattoresu（beddonozoku）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "まな板",
+    "kana": "まないた",
+    "roma": "manaita",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "万年筆",
+    "kana": "まんねんひつ",
+    "roma": "mannenhitsu",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "万歩計",
+    "kana": "まんぽけい",
+    "roma": "mampokei",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "ミシン",
+    "kana": "みしん",
+    "roma": "mishin",
+    "type": "粗大ごみ",
+    "desc": "投入口に入る場合はできるだけ小型家電回収ボックスへ。４５㍑のポリ袋に入るものは燃やさないごみ。"
+  },
+  {
+    "item": "水切りかご・ネット（プラスチック製）",
+    "kana": "みずきりかご・ねっと（ぷらすちっくせい）",
+    "roma": "mizukirikago・netto（purasuchikkusei）",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "水枕",
+    "kana": "みずまくら",
+    "roma": "mizumakura",
+    "type": "燃やすごみ",
+    "desc": "金具は燃やさないごみ"
+  },
+  {
+    "item": "ミニカー（おもちゃ）",
+    "kana": "みにかー（おもちゃ）",
+    "roma": "minika（omocha）",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "ミニバイク",
+    "kana": "みにばいく",
+    "roma": "minibaiku",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "耳かき（木製・プラスチック製）",
+    "kana": "みみかき（もくせい・ぷらすちっくせい）",
+    "roma": "mimikaki（mokusei・purasuchikkusei）",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "虫かご",
+    "kana": "むしかご",
+    "roma": "mushikago",
+    "type": "燃やすごみ",
+    "desc": "金属製は燃やさないごみ"
+  },
+  {
+    "item": "蒸し器（金属）",
+    "kana": "むしき（きんぞく）",
+    "roma": "mushiki（kinzoku）",
+    "type": "燃やさないごみ",
+    "desc": "木製で４５㍑のポリ袋に入れば燃やすごみ"
+  },
+  {
+    "item": "虫めがね",
+    "kana": "むしめがね",
+    "roma": "mushimegane",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "むしろ",
+    "kana": "むしろ",
+    "roma": "mushiro",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "無線機",
+    "kana": "むせんき",
+    "roma": "musenki",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "名刺",
+    "kana": "めいし",
+    "roma": "meishi",
+    "type": "紙類",
+    "desc": "雑がみとして分別"
+  },
+  {
+    "item": "めがね、老眼鏡",
+    "kana": "めがね、ろうがんきょう",
+    "roma": "megane、rogankyo",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "目覚まし時計",
+    "kana": "めざましどけい",
+    "roma": "mezamashidokei",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "メジャー",
+    "kana": "めじゃー",
+    "roma": "meja",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "メタルラック",
+    "kana": "めたるらっく",
+    "roma": "metarurakku",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "メモリーカード",
+    "kana": "めもりーかーど",
+    "roma": "memorikado",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "毛布",
+    "kana": "もうふ",
+    "roma": "mofu",
+    "type": "粗大ごみ",
+    "desc": "ひもでくくる。50cm四方以下に裁断し、４５㍑のポリ袋に入れば燃やすごみ"
+  },
+  {
+    "item": "餅つき機（電気式）",
+    "kana": "もちつきき（でんきしき）",
+    "roma": "mochitsukiki（denkishiki）",
+    "type": "粗大ごみ",
+    "desc": "４５㍑のポリ袋に入るものは燃やさないごみ"
+  },
+  {
+    "item": "物干しざお",
+    "kana": "ものほしざお",
+    "roma": "monohoshizao",
+    "type": "粗大ごみ",
+    "desc": "3.0m以下に切るか折り曲げる\n \n 10本までまとめて1点とする"
+  },
+  {
+    "item": "物干し台（コンクリート台座）",
+    "kana": "ものほしだい（こんくりーとだいざ）",
+    "roma": "monohoshidai（konkuritodaiza）",
+    "type": "粗大ごみ",
+    "desc": "一般家庭の物干し竿用のコンクリートに限る 2個で1点"
+  },
+  {
+    "item": "物置（スチール製組立式、解体済みのもの）",
+    "kana": "ものおき（すちーるせいくみたてしき、かいたいずみのもの）",
+    "roma": "monoki（suchiruseikumitateshiki、kaitaizuminomono）",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "やかん、ケトル",
+    "kana": "やかん、けとる",
+    "roma": "yakan、ketoru",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "やすり（金属製）",
+    "kana": "やすり（きんぞくせい）",
+    "roma": "yasuri（kinzokusei）",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "ＵＳＢメモリ",
+    "kana": "ゆーえすびーめもり",
+    "roma": "yuesubimemori",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "ゆかた",
+    "kana": "ゆかた",
+    "roma": "yukata",
+    "type": "衣類",
+    "desc": ""
+  },
+  {
+    "item": "湯たんぽ（金属）",
+    "kana": "ゆたんぽ（きんぞく）",
+    "roma": "yutampo（kinzoku）",
+    "type": "燃やさないごみ",
+    "desc": "プラスチック製は燃やすごみ"
+  },
+  {
+    "item": "洋服",
+    "kana": "ようふく",
+    "roma": "yofuku",
+    "type": "衣類",
+    "desc": ""
+  },
+  {
+    "item": "洋服ダンス",
+    "kana": "ようふくだんす",
+    "roma": "yofukudansu",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ヨーヨー",
+    "kana": "よーよー",
+    "roma": "yoyo",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ラケット（スポーツ用）",
+    "kana": "らけっと（すぽーつよう）",
+    "roma": "raketto（supotsuyo）",
+    "type": "燃やさないごみ",
+    "desc": "卓球ラケットなどの木製品は燃やすごみ"
+  },
+  {
+    "item": "ラジオ",
+    "kana": "らじお",
+    "roma": "rajio",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "ラジカセ",
+    "kana": "らじかせ",
+    "roma": "rajikase",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "ラジコン（おもちゃ）",
+    "kana": "らじこん（おもちゃ）",
+    "roma": "rajikon（omocha）",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "ラック",
+    "kana": "らっく",
+    "roma": "rakku",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ラップ",
+    "kana": "らっぷ",
+    "roma": "rappu",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ラミネートチューブ・歯磨き粉チューブ",
+    "kana": "らみねーとちゅーぶ・はみがきこちゅーぶ",
+    "roma": "raminetochubu・hamigakikochubu",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ランチジャー（保温性の弁当箱）",
+    "kana": "らんちじゃー（ほおんせいのべんとうばこ）",
+    "roma": "ranchija（honseinobentobako）",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "ランドセル",
+    "kana": "らんどせる",
+    "roma": "randoseru",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ランニングマシーン",
+    "kana": "らんにんぐましーん",
+    "roma": "ranningumashin",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ランプ",
+    "kana": "らんぷ",
+    "roma": "rampu",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "リール（釣具）",
+    "kana": "りーる（つりぐ）",
+    "roma": "riru（tsurigu）",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "リコーダー",
+    "kana": "りこーだー",
+    "roma": "rikoda",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "リモコン",
+    "kana": "りもこん",
+    "roma": "rimokon",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ"
+  },
+  {
+    "item": "リヤカー",
+    "kana": "りやかー",
+    "roma": "riyaka",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "リュックサック",
+    "kana": "りゅっくさっく",
+    "roma": "ryukkusakku",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ルアー（釣り用）金属製",
+    "kana": "るあー（つりよう）きんぞくせい",
+    "roma": "rua（tsuriyo）kinzokusei",
+    "type": "燃やさないごみ",
+    "desc": "紙等に包んで「キケン」と表示"
+  },
+  {
+    "item": "ルーペ",
+    "kana": "るーぺ",
+    "roma": "rupe",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "レインコート",
+    "kana": "れいんこーと",
+    "roma": "reinkoto",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "冷蔵庫・冷凍庫",
+    "kana": "れいぞうこ・れいとうこ",
+    "roma": "reizoko・reitoko",
+    "type": "家電リサイクル",
+    "desc": "購入店・引き取り協力店に相談"
+  },
+  {
+    "item": "冷風機",
+    "kana": "れいふうき",
+    "roma": "reifuki",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "レーザーディスク",
+    "kana": "れーざーでぃすく",
+    "roma": "rezadeisuku",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "レーザーディスクプレーヤー",
+    "kana": "れーざーでぃすくぷれーやー",
+    "roma": "rezadeisukupureya",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "レコード",
+    "kana": "れこーど",
+    "roma": "rekodo",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "レコードプレーヤー",
+    "kana": "れこーどぷれーやー",
+    "roma": "rekodopureya",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "レシート",
+    "kana": "れしーと",
+    "roma": "reshito",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "レンガ",
+    "kana": "れんが",
+    "roma": "renga",
+    "type": "処理困難",
+    "desc": "購入店・取扱店等に相談"
+  },
+  {
+    "item": "レンジガード",
+    "kana": "れんじがーど",
+    "roma": "renjigado",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "レンジ台",
+    "kana": "れんじだい",
+    "roma": "renjidai",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "練炭",
+    "kana": "れんたん",
+    "roma": "rentan",
+    "type": "燃やすごみ",
+    "desc": "多量の場合は、クリーンセンターに相談"
+  },
+  {
+    "item": "ろうそく",
+    "kana": "ろうそく",
+    "roma": "rosoku",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "ロープ",
+    "kana": "ろーぷ",
+    "roma": "ropu",
+    "type": "燃やすごみ",
+    "desc": "長さを1m以下に切る"
+  },
+  {
+    "item": "ローラースケート",
+    "kana": "ろーらーすけーと",
+    "roma": "rorasuketo",
+    "type": "燃やさないごみ",
+    "desc": ""
+  },
+  {
+    "item": "ロッカー",
+    "kana": "ろっかー",
+    "roma": "rokka",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ワープロ専用機",
+    "kana": "わーぷろせんようき",
+    "roma": "wapurosenyoki",
+    "type": "燃やさないごみ",
+    "desc": "できるだけ小型家電回収ボックスへ。投入口に入らない場合は燃やさないごみ"
+  },
+  {
+    "item": "ワイシャツ",
+    "kana": "わいしゃつ",
+    "roma": "waishatsu",
+    "type": "衣類",
+    "desc": ""
+  },
+  {
+    "item": "和紙",
+    "kana": "わし",
+    "roma": "washi",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "わた（綿）",
+    "kana": "わた（めん）",
+    "roma": "wata（men）",
+    "type": "燃やすごみ",
+    "desc": ""
+  },
+  {
+    "item": "和ダンス",
+    "kana": "わだんす",
+    "roma": "wadansu",
+    "type": "粗大ごみ",
+    "desc": ""
+  },
+  {
+    "item": "ワックス（液体、固体）",
+    "kana": "わっくす（えきたい、こたい）",
+    "roma": "wakkusu（ekitai、kotai）",
+    "type": "燃やすごみ",
+    "desc": "液体は布・新聞紙などに染み込ませる"
+  },
+  {
+    "item": "ワックスの容器（缶）",
+    "kana": "わっくすのようき（かん）",
+    "roma": "wakkusunoyoki（kan）",
+    "type": "燃やさないごみ",
+    "desc": ""
+  }
+]
