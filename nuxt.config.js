@@ -24,6 +24,9 @@ module.exports = {
     '@fortawesome/fontawesome-free-webfonts/css/fa-regular.css',
     '@fortawesome/fontawesome-free-webfonts/css/fa-solid.css'
   ],
+  plugins: [
+    { src: '~plugins/ga.js', ssr: false }
+  ],
   /*
   ** Customize the progress bar color
   */
