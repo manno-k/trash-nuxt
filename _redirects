@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://hungry-neumann-a586ec.netlify.com/* https://53410.awe-some.net/:splat 301!
