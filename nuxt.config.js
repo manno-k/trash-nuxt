@@ -1,6 +1,7 @@
 module.exports = {
   modules: [
     'nuxt-device-detect',
+    '@nuxtjs/pwa'
   ],
   /*
   ** Headers of the page
@@ -41,9 +42,6 @@ module.exports = {
       }
     }
   },
-  modules: [
-    '@nuxtjs/pwa'
-  ],
   workbox: {
     dev: true, //開発環境でもPWAできるように
   }
