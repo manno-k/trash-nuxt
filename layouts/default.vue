@@ -20,7 +20,7 @@
 
   .v-leave-active,
   .v-enter-active {
-    transition: opacity 1s;
+    transition: opacity 3s;
   }
   .v-enter,
   .v-leave-to {

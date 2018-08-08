@@ -4,7 +4,7 @@
     <article class="container">
       <section>
         <form id="search" class="my-3">
-          <input class="w-100" name="query" v-model="searchQuery" placeholder="ゴミの名前を入力">
+          <input class="w-100" name="query" v-model="searchQuery" placeholder="垃圾的種類">
           <input type="text" name="dummy" style="display:none;">
         </form>
       </section>
@@ -77,9 +77,9 @@ export default {
   columns: '',
   data: function () {
     return {
-      name: 'ゴミの種類',
-      type:'区別',
-      desc:'収集に出す際の条件等',
+      name: '垃圾種類',
+      type: '分類',
+      desc: '條件',
       headerTitle: '加古川垃圾分類表',
       show: 99999,
       searchQuery: '',
@@ -91,7 +91,11 @@ export default {
     return {
       title: '加古川垃圾分類表',
       meta: [
-        {hid: 'description', name: 'description', content: '加古川垃圾分類表'}
+        {
+          hid: 'description',
+          name: 'description',
+          content: '加古川垃圾分類表'
+        }
       ],
     }
   },

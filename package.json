@@ -1,7 +1,7 @@
 {
   "name": "trash-nuxt",
   "version": "1.0.0",
-  "description": "Nuxt.js project",
+  "description": "加古川ゴミ分別アプリ",
   "author": "manno-k <art.kuromi@gmail.com>",
   "private": true,
   "scripts": {
@@ -13,6 +13,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free-webfonts": "^1.0.9",
     "@nuxtjs/pwa": "^2.0.8",
     "babel-polyfill": "^6.26.0",
     "bootstrap-vue": "^2.0.0-rc.11",

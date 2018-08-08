@@ -41,7 +41,7 @@
           <ul>
             <li v-for="(tab, index) in filteredData" :class="{'is-active': show == index}" :key="index.item">
               <a @click.prevent="show = index">
-                {{tab.item}}
+                <i class="fas  fa-caret-right fa-fw"/>{{tab.item}}
               </a>
             </li>
           </ul>
@@ -80,7 +80,7 @@ export default {
       name: 'ゴミの種類',
       type:'区別',
       desc:'収集に出す際の条件等',
-      headerTitle: '加古川垃圾分類表',
+      headerTitle: '加古川ゴミ出しアプリ',
       show: 99999,
       searchQuery: '',
       columns: ['item', 'type', 'desc'],
@@ -89,9 +89,9 @@ export default {
   },
   head () {
     return {
-      title: '加古川垃圾分類表',
+      title: '加古川ゴミ出しアプリ',
       meta: [
-        {hid: 'description', name: 'description', content: '加古川垃圾分類表'}
+        {hid: 'description', name: 'description', content: '加古川市のゴミの分別が簡単に調べられるアプリです。'}
       ],
     }
   },
