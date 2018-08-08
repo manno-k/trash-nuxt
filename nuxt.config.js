@@ -25,8 +25,19 @@ module.exports = {
     '@fortawesome/fontawesome-free-webfonts/css/fa-solid.css'
   ],
   plugins: [
-    { src: '~plugins/ga.js', ssr: false }
+    {src: '~plugins/ga.js', ssr: false}
   ],
+  manifest: {
+    name: '加古川ゴミ分別アプリ',
+    short_name: '加古川ゴミAPP',
+    title: '加古川ゴミ分別アプリ',
+    'og:title': '加古川ゴミ分別アプリ',
+    description: '加古川ゴミ分別アプリ',
+    'og:description': '加古川ゴミ分別アプリ',
+    lang: 'ja',
+    theme_color: '#ffffff',
+    background_color: '#ffffff'
+  },
   /*
   ** Customize the progress bar color
   */
