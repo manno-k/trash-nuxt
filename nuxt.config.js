@@ -48,5 +48,4 @@ module.exports = {
     dev: true, //開発環境でもPWAできるように
   }
 }
-}
 
