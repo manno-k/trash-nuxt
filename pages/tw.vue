@@ -68,7 +68,7 @@
 </template>
 
 <script>
-import Json from "./list.json";
+import Json from "./list_tw.json";
 import Header from '@/components/Header.vue'
 import Footer from '@/components/Footer.vue'
 
